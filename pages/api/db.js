@@ -11,7 +11,4 @@ const creds = require('./client_secret.json')
 const sheetId = '1uTJ7rZQIQlBcv1UGS7YgYFG_xA8dDjmzq1-90dSU8lU'
 
 const doc = new GoogleSpreadsheet(sheetId)
-console.log("##########################")
-console.log(sheetId)
-console.log(creds)
 module.exports = { doc, creds }

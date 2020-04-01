@@ -60,7 +60,9 @@ function DatePicker({ updateGraph, selectFilter }) {
       changeSelectedDay(date)
 
       const apiURL =
-        'https://api.rootnet.in/covid19-in/unofficial/covid19india.org/patientdb/' +
+        // 'https://api.rootnet.in/covid19-in/unofficial/covid19india.org/patientdb/' +
+        // 'https://api.myjson.com/bins/p6724' +
+        'https://api.myjson.com/bins/jkrlc' +
         newDate
 
       fetch(apiURL, {
