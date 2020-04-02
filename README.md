@@ -4,7 +4,7 @@ This is a dashboard of network connections and clusters to track outbreak and tr
 
 Primary app is at [https://covid19Taiwan-network.now.sh](https://covid19Taiwan-network.now.sh/).
 
-![enter image description here](https://i.ibb.co/dmNDthW/Screen-Shot-2020-03-19-at-9-15-51-PM.png)
+![enter image description here](https://drive.google.com/uc?id=125LIlXYFvkC6iTZHbLtp6fPWe2C9IxXJ)
 
 ## Roadmap
 
@@ -29,7 +29,7 @@ Submit new cases [here](https://docs.google.com/spreadsheets/d/1uTJ7rZQIQlBcv1UG
 
 
 #### Credits
-- Awesome teat at covid19India.org
+- Thanks to Awesome team at [covid19India.org]((https://www.covid19India.org/))
 - Awesome team at [covid19Taiwan.org](https://www.covid19Taiwan.org/)
 
 ## Customizing
