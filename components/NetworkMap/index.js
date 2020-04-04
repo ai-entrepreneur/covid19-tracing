@@ -50,7 +50,7 @@ const NetworkMap = ({
 
   useEffect(() => {
     // fetch('https://api.rootnet.in/covid19-in/unofficial/covid19india.org', {
-      fetch('https://api.myjson.com/bins/1c1fpk',{
+      fetch('http://localhost:5000/api/all',{
       // fetch('https://api.myjson.com/bins/jkrlc',{
       cors: 'no-cors',
       method: 'GET',

@@ -61,8 +61,9 @@ function DatePicker({ updateGraph, selectFilter }) {
 
       const apiURL =
         // 'https://api.rootnet.in/covid19-in/unofficial/covid19india.org/patientdb/' +
-        // 'https://api.myjson.com/bins/p6724' +
-        'https://api.myjson.com/bins/jkrlc' +
+        // 'https://api.myjson.com/bins/1c1fpk' +
+        // 'https://api.myjson.com/bins/jkrlc' +
+        'http://localhost:5000/api/all' +
         newDate
 
       fetch(apiURL, {
