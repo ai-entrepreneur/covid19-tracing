@@ -65,8 +65,8 @@ export default function DataGrid(patient) {
         <Cell name="Age">{ageEstimate ? ageEstimate : '-'}</Cell>
       </DoubleCell>
       <DoubleCell>
-        <Cell name="State">{state ? state : '-'}</Cell>
-        <Cell name="District/City">{city ? city : district}</Cell>
+        <Cell name="Living City">{city ? city : district}</Cell>
+        <Cell name="Visited">{state ? state : '-'}</Cell>
       </DoubleCell>
       <Cell name="Status">{status}</Cell>
       <Cell name="Reported On">{reportedOn}</Cell>

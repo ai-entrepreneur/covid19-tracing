@@ -66,6 +66,7 @@ function DatePicker({ updateGraph, selectFilter }) {
         // 'http://localhost:5000/api/all' +
         // newDate
         'https://extendsclass.com/api/json-storage/bin/aadcffd'
+        // 'https://api.jsonbin.io/b/5e887dde41019a79b61d5ec8'
 
       fetch(apiURL, {
         cors: 'no-cors',

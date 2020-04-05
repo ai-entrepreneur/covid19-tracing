@@ -67,15 +67,15 @@ const NetworkMapLegend = ({ currentFilter }) => {
         <LegendContainer>
             <ImageContainer>
                 <Image src={male_cured} />
-                <Label>Recovered</Label>
+                <Label>Foreign Infection</Label>
             </ImageContainer>
             <ImageContainer>
                 <Image src={male_hosp} />
-                <Label>Hospitalized</Label>
+                <Label>Doemestic Infection</Label>
             </ImageContainer>
             <ImageContainer>
                 <Image src={male_dead} />
-                <Label>Deceased</Label>
+                <Label>Unknown Infection</Label>
             </ImageContainer>
             {['State', 'City'].includes(currentFilter) ?
                 <ImageContainer>
