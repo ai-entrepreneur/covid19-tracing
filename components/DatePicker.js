@@ -60,13 +60,8 @@ function DatePicker({ updateGraph, selectFilter }) {
       changeSelectedDay(date)
 
       const apiURL =
-        // 'https://api.rootnet.in/covid19-in/unofficial/covid19india.org/patientdb/' +
-        // 'https://api.myjson.com/bins/1c1fpk' +
-        // 'https://api.myjson.com/bins/jkrlc' +
-        // 'http://localhost:5000/api/all' +
+      'https://ai-entrepreneur.github.io/covid19-tracing/data/covid19_tw_0404_p01_to_p355.json'
         // newDate
-        'https://extendsclass.com/api/json-storage/bin/aadcffd'
-        // 'https://api.jsonbin.io/b/5e887dde41019a79b61d5ec8'
 
       fetch(apiURL, {
         cors: 'no-cors',
