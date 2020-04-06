@@ -1,0 +1,2966 @@
+{
+      "data": {
+            "rawPatientData": 
+[
+    {
+        "patientId": 1,
+        "reportedOn": "1/21",
+        "ageEstimate": "50歲",
+        "gender": "女性台商",
+        "notes": "首例境外移入確診病例，為居住南部50多歲女性，於大陸武漢工作由武漢搭機入境，因有發燒、咳嗽、呼吸急促等症狀，由機場檢疫人員安排後送就醫，X光檢查顯示有肺炎，檢驗確認為新型冠狀病毒陽性。",
+        "city": "台北",
+        "state": "武漢",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 2,
+        "reportedOn": "1/24",
+        "ageEstimate": "50歲",
+        "gender": "女性陸客",
+        "notes": "陸客團女遊客有武漢旅遊或居住史，於1月21日入境，23日因發燒就醫，經過快篩檢驗後，確診為武漢肺炎。",
+        "city": "台北",
+        "state": "武漢",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 3,
+        "reportedOn": "1/24",
+        "ageEstimate": "50歲",
+        "gender": "男性台商",
+        "notes": "21日自武漢搭機返台並從高雄入境，入境前即有發燒及上呼吸道等症狀，並在大陸就醫服藥。回到高雄22日就醫時並未交代活動史，直到23日到耳鼻喉科就醫時以耳朵不適時才說明他有武漢活動史等，當天被通報疑似武漢肺炎個案，直到24日疾管署確診為武漢肺炎",
+        "city": "高雄",
+        "state": "武漢",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 4,
+        "reportedOn": "1/26",
+        "ageEstimate": "50多歲",
+        "gender": "女性",
+        "notes": "1月13日至15日去武漢旅遊，未曾去過華南海鮮市場，也未出現明顯發燒症狀，該病例22日開始咳嗽，25日咳嗽症狀加劇，並自廣州入境。機上全程配戴口罩，並在填寫入境健康聲明卡時，主動通知機場檢疫人員，由機場後送負壓隔離病房，26日確診。",
+        "state": "武漢",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 5,
+        "reportedOn": "1/27",
+        "ageEstimate": "50多歲",
+        "gender": "女性",
+        "notes": "去年10月下旬到中國大陸武漢工作，沒有華南海鮮市場活動史以及禽畜接觸史，1月20日返台，25日出現發燒、肌肉痠痛症狀就醫，院方隨即通報並收治隔離病房，27日確診。目前病情穩定。",
+        "state": "武漢",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 6,
+        "reportedOn": "1/28",
+        "ageEstimate": "70多歲",
+        "gender": "女性陸客",
+        "notes": "在23日武漢封城前一天入境。22日抵台時無症狀，25日因開始發燒就醫，醫院警覺性高，發現其來自武漢，就馬上通報。目前病情穩定。",
+        "state": "武漢",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 7,
+        "reportedOn": "1/28",
+        "ageEstimate": "70多歲",
+        "gender": "女性陸客",
+        "notes": "與第6例來自同一個三人同行的自由行遊客。目前病情穩定。另外，同行的一名陸客有發燒症狀，已匡列為接觸者，正在隔離檢驗中，三人都沒返回中國大陸，待在台灣境內救治及追蹤。",
+        "contractedFrom": "P6",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 8,
+        "reportedOn": "1/28",
+        "ageEstimate": "50多歲",
+        "gender": "男性",
+        "notes": "為先前確診第5例境外移入個案丈夫，於1月26日出現咳嗽症狀就醫，經檢驗於28日確診，研判為家戶感染。",
+        "contractedFrom": "P5",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 9,
+        "reportedOn": "1/30",
+        "ageEstimate": "40多歲",
+        "gender": "女性",
+        "notes": "該名女性被平時在武漢工作的丈夫傳染，該台商在回台時有咳嗽、流鼻水的症狀，但因不符當時的通報條件而未進行檢驗，推測可能是漏網病例。確診的40多歲女性在27日有咳嗽等感冒症狀，隨後前往醫院就醫，於30日確診為武漢肺炎，研判是家庭群聚感染，為台灣第9例個案，也是第2例本土病例。",
+        "status": "Domestic Infection"
+    },
+    {
+        "patientId": 10,
+        "reportedOn": "1/31",
+        "ageEstimate": "40多歲",
+        "gender": "男性",
+        "notes": "為第9例個案丈夫，原列為接觸者，31日檢出新型冠狀病毒陽性確診，研判第9例個案是遭本個案感染，為一起境外移入個案導致本土家庭群聚事件。",
+        "contractedFrom": "P9",
+        "status": "Domestic Infection"
+    },
+    {
+        "patientId": 11,
+        "reportedOn": "2020-04-01T16:00:00.000Z",
+        "ageEstimate": "50多歲",
+        "gender": "男性台商",
+        "notes": "3日晚間首批武漢包機台商回台，有3人送隔離病房，其中一名確診武漢肺炎。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 12,
+        "reportedOn": "2020-06-01T16:00:00.000Z",
+        "ageEstimate": "40多歲",
+        "gender": "男性",
+        "notes": "12月至武漢工作，1月17日前往遼寧，2月2日返台，3日出現發燒、咳嗽、頭痛等症狀，4日就醫。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 13,
+        "reportedOn": "2020-06-01T16:00:00.000Z",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "長住武漢，1月21日自武漢經深圳返台，2月1日出現咳嗽有痰及胸悶症狀，4日就醫。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 14,
+        "reportedOn": "2020-06-01T16:00:00.000Z",
+        "ageEstimate": "50多歲",
+        "gender": "男性",
+        "notes": "1月22日自香港轉機至義大利旅遊，2月1日自香港轉機返台。1月26日出現咳嗽情形，返國入境時有發燒症狀，當日診斷為感冒，因症狀未改善，2月4日再次就醫被查出有肺炎情形。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 15,
+        "reportedOn": "2020-06-01T16:00:00.000Z",
+        "ageEstimate": "50多歲",
+        "gender": "女性",
+        "notes": "1月22日自香港轉機至義大利旅遊，2月1日自香港轉機返台。1月28日出現咳嗽情形，不過返國入境時無發燒症狀，2月3日就醫時診斷為一般感冒，2月4日檢驗出感染新型冠狀病毒。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 16,
+        "reportedOn": "2020-06-01T16:00:00.000Z",
+        "ageEstimate": "40多歲",
+        "gender": "女性",
+        "notes": "1月21日至24日至澳門旅遊，2月1日出現發燒、寒顫、喉嚨痛、流鼻水、走路會喘等症狀，2月3日就醫因不符通報條件故返家，但症狀持續，5日再次就醫檢驗確診感染新型冠狀病毒。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 17,
+        "reportedOn": "2020-08-01T16:00:00.000Z",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "1月22日至31日隨父母同至義大利旅遊，2月1日經香港轉機返台，1月27日在義大利旅遊時出現咳嗽症狀，昨日安排採檢並住院隔離，於今日檢驗確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 18,
+        "reportedOn": "2020-09-01T16:00:00.000Z",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "患者為2月6日公布北部50多歲夫婦確診病例的另一名兒子，也是與父母到義大利旅遊於香港轉機時，疑在長程飛機上感染，一家四口都中鏢。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 19,
+        "reportedOn": "2/16",
+        "ageEstimate": "60多歲",
+        "gender": "男性",
+        "notes": "2月3日因呼吸急促赴醫院就醫，診斷為肺炎。當日收治於負壓加護病房治療，已於2月15日因肺炎合併敗血症死亡。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 20,
+        "reportedOn": "2/16",
+        "ageEstimate": "50多歲",
+        "gender": "男性",
+        "notes": "為第19例個案的弟弟，2月15日進行採檢後確診，目前個案無症狀，收治於負壓隔離病房。",
+        "contractedFrom": "P19",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 21,
+        "reportedOn": "2/17",
+        "ageEstimate": "80多歲",
+        "gender": "女性",
+        "notes": "為第19例及第20例的親人。",
+        "contractedFrom": "P19",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 22,
+        "reportedOn": "2/17",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "為第19例及第20例的親人。",
+        "contractedFrom": "P19",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 23,
+        "reportedOn": "2/19",
+        "ageEstimate": "60歲",
+        "gender": "女性",
+        "notes": "為第19例及第20例的親人。",
+        "contractedFrom": "P19",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 24,
+        "reportedOn": "2/19",
+        "ageEstimate": "60多歲",
+        "gender": "女性",
+        "notes": "近2年無出國史，1月22日出現發燒、咳嗽等症狀，22日至29日四度至診所就醫，29日晚間診斷為肺炎，30日收治住院，2月10日轉入加護病房，2月17日檢驗結果為陰性轉收至負壓隔離病房，2月19日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 25,
+        "reportedOn": "2/21",
+        "ageEstimate": "20歲",
+        "gender": "女性",
+        "notes": "為第24例外孫女。",
+        "contractedFrom": "P24",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 26,
+        "reportedOn": "2/21",
+        "ageEstimate": "40多歲",
+        "gender": "女性",
+        "notes": "為第24例小女兒。",
+        "contractedFrom": "P24",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 27,
+        "reportedOn": "2/23",
+        "ageEstimate": "80多歲",
+        "gender": "男性",
+        "notes": "為28例父親。相對情況比較嚴重，加上年紀大，及有高血壓、糖尿病、洗腎慢性疾病，加護病房照護中。",
+        "contractedFrom": "P28",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 28,
+        "reportedOn": "2/23",
+        "ageEstimate": "50多歲",
+        "gender": "男性",
+        "notes": "為27例兒子。兩側肺炎，在隔離病房。",
+        "contractedFrom": "P27",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 29,
+        "reportedOn": "2/24",
+        "ageEstimate": "40多歲",
+        "gender": "男性",
+        "notes": "案27之小兒子，目前情況良好，於醫院單獨病房隔離治療中。因工作關係頻繁往返中國，不排除為感染源。",
+        "contractedFrom": "P27",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 30,
+        "reportedOn": "2/24",
+        "ageEstimate": "70多歲",
+        "gender": "女性",
+        "notes": "案27之妻子，目前情況良好，於醫院單獨病房隔離治療中。",
+        "contractedFrom": "P27",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 31,
+        "reportedOn": "2/25",
+        "ageEstimate": "11歲",
+        "gender": "男性",
+        "notes": "案27之孫，一直無症狀。",
+        "contractedFrom": "P27",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 32,
+        "reportedOn": "2/26",
+        "ageEstimate": "30多歲",
+        "gender": "女性印尼籍看護",
+        "notes": "案27在2月11日至16日住院期間之30多歲女性外籍看護。",
+        "contractedFrom": "P27",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 33,
+        "reportedOn": "2/28",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "2月17日至22日與另外21人跟團至日本大阪旅遊，返國後於25日出現咳嗽、喉嚨癢，26日就醫採檢後返家，28日確診，研判於日本感染可能性高，為境外移入個案。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 34,
+        "reportedOn": "2/28",
+        "ageEstimate": "50多歲",
+        "gender": "女性",
+        "notes": "2月14日因低血糖、全身倦怠就醫並收治住院，當時無呼吸道症狀，21日出現咳嗽、喉嚨痛及發燒，26日診斷有肺炎情形。平時待在家中未外出，無國外旅遊史，研判於國內感染。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 35,
+        "reportedOn": "2/29",
+        "ageEstimate": "50多歲",
+        "gender": "女性清潔人員",
+        "notes": "為案34的醫院接觸者。",
+        "contractedFrom": "P34",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 36,
+        "reportedOn": "2/29",
+        "ageEstimate": "20多歲",
+        "gender": "女性護理人員",
+        "notes": "為案34的醫院接觸者。",
+        "contractedFrom": "P34",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 37,
+        "reportedOn": "2/29",
+        "ageEstimate": "20多歲",
+        "gender": "女性護理人員",
+        "notes": "為案34的醫院接觸者。",
+        "contractedFrom": "P34",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 38,
+        "reportedOn": "2/29",
+        "ageEstimate": "40多歲",
+        "gender": "女性護理人員",
+        "notes": "為案34的醫院接觸者。",
+        "contractedFrom": "P34",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 39,
+        "reportedOn": "2/29",
+        "ageEstimate": "60多歲",
+        "gender": "女性",
+        "notes": "1月29至2月21日跟團至中東旅遊，2月20日在埃及出現喉嚨痛、咳嗽，21日返國後至診所就醫，26日症狀加劇，28日通報採檢，為首例中東境外移入病例。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 40,
+        "reportedOn": "2020-01-02T16:00:00.000Z",
+        "ageEstimate": "70多歲",
+        "gender": "女性",
+        "notes": "先前鑽石公主號經日方檢驗陽性後住院者，26日返台直接安排入住負壓隔離病房採檢，1日確診",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 41,
+        "reportedOn": "2020-02-02T16:00:00.000Z",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "為案34的女兒。",
+        "contractedFrom": "\bP34",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 42,
+        "reportedOn": "2020-03-02T16:00:00.000Z",
+        "ageEstimate": "50多歲",
+        "gender": "女性",
+        "notes": "案34確診前同病房、不同病室已出院病人的陪病家屬。",
+        "contractedFrom": "P34",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 43,
+        "reportedOn": "2020-05-02T16:00:00.000Z",
+        "ageEstimate": "50多歲",
+        "gender": "女性",
+        "notes": "案39（境外移入個案）確診前的接觸者",
+        "contractedFrom": "P39",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 44,
+        "reportedOn": "2020-05-02T16:00:00.000Z",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "菲律賓境外移入個案",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 45,
+        "reportedOn": "2020-06-02T16:00:00.000Z",
+        "ageEstimate": "50多歲",
+        "gender": "女性",
+        "notes": "和案34同病房不同病室",
+        "contractedFrom": "P34",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 46,
+        "reportedOn": "2020-10-02T16:00:00.000Z",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "為案34和案41的家人",
+        "contractedFrom": "P34",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 47,
+        "reportedOn": "2020-10-02T16:00:00.000Z",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "荷蘭境外移入返台",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 48,
+        "reportedOn": "2020-11-02T16:00:00.000Z",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "英國境外移入返台",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 49,
+        "reportedOn": "2020-12-02T16:00:00.000Z",
+        "ageEstimate": "40多歲",
+        "gender": "女性",
+        "notes": "2月21日自台灣經英國轉機至愛爾蘭旅遊，3月4日再從愛爾蘭搭機至比利時旅遊，3月7日自比利時經土耳其轉機，3月8日返台。入境時無症狀，返家後出現頭痛、倦怠及喉嚨痛症狀，3月10日至醫院就醫並採檢通報，3月12日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 50,
+        "reportedOn": "3/13",
+        "ageEstimate": "50多歲",
+        "gender": "男性美籍",
+        "notes": "獨自在台工作，2月24日曾接待4名來台的美國友人(均於2月26日離境)。案50於2月27日、3月4日及7日陸續出現畏寒、咳嗽及發燒症狀，7日就醫後收治住院，10日由醫院採檢通報，於3月13日確診，目前於負壓隔離病房治療。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 51,
+        "reportedOn": "3/14",
+        "ageEstimate": "30多歲",
+        "gender": "男性荷蘭籍",
+        "notes": "3月2日至6日曾至奧地利，9日自荷蘭來台，10日入境，11日出現症狀就醫。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 52,
+        "reportedOn": "3/14",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "2月28日自台灣經土耳其轉機至瑞士，3月7日再自法國至瑞士搭機，經土耳其轉機返國，8日入境，12日晚間出現症狀，目前收治負壓隔離病房。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 53,
+        "reportedOn": "3/14",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "2月22日至3月6日赴德國慕尼黑、紐倫堡出差，返國後於3月11日出現症狀，目前收治負壓隔離病房。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 54,
+        "reportedOn": "3/15",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "2月28日至3月1日曾至泰國旅遊，返國後又於3月5日至8日與1名友人至日本北海道，返國後於11日出現流鼻水症狀，12日因全身倦怠及頭痛等症狀就醫並採檢通報，於15日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 55,
+        "reportedOn": "3/15",
+        "ageEstimate": "50多歲",
+        "gender": "男性",
+        "notes": "3月3日至12日參加埃及團體旅遊，3月12日返國後因全身倦怠與肌肉痠痛就醫，經檢測有發燒情形，由醫院採檢通報，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 56,
+        "reportedOn": "3/15",
+        "ageEstimate": "40多歲",
+        "gender": "男性",
+        "notes": "3月4日與案57一起至土耳其旅行之團員(曾於杜拜轉機)，皆於13日返國。13日入境後因喉嚨癢、腹瀉、自覺發熱等症狀就醫，經醫院採檢後通報，於15日確診",
+        "contractedFrom": "P57",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 57,
+        "reportedOn": "3/15",
+        "ageEstimate": "70歲",
+        "gender": "女性",
+        "notes": "3月4日與案56一起至土耳其旅行之團員(曾於杜拜轉機)，13日返國後因發燒就醫，於15日確診。",
+        "contractedFrom": "P56",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 58,
+        "reportedOn": "3/15",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "今年1月至西班牙就學，3月12日曾出現體溫偏高，13日返國時，經發燒篩檢站採檢送驗，15日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 59,
+        "reportedOn": "3/15",
+        "ageEstimate": "10多歲",
+        "gender": "男性",
+        "notes": "一月與家人同遊希臘，3月5日返台，12日出現喉嚨痛情形、13日因咳嗽、流鼻水及頭痛等症狀就醫，15日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 60,
+        "reportedOn": "3/16",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "2月9日至3月11日獨自赴義大利、希臘、德國旅遊，12日入境，14日出現發燒、畏寒及倦怠就醫，經通報檢驗，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 61,
+        "reportedOn": "3/16",
+        "ageEstimate": "50多歲",
+        "gender": "女性",
+        "notes": "3月5日至14日與另1名家人參加奧地利、捷克團體旅遊，14日入境時因發燒被檢疫站攔檢送驗，於今日確診，目前收治負壓隔離病房。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 62,
+        "reportedOn": "3/16",
+        "ageEstimate": "60多歲",
+        "gender": "女性",
+        "notes": "3月7日至14日與另1名家人至菲律賓探親，12日於菲律賓當地出現發燒、咳嗽、肌肉痠痛、後眼窩痛症狀，14日入境後由家人送至醫院就醫並採檢送驗，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 63,
+        "reportedOn": "3/16",
+        "ageEstimate": "50多歲",
+        "gender": "男性",
+        "notes": "為昨日公布案55於3月3日至12日至埃及旅遊之同團團員，案63於3月13日晚間因咳嗽有痰、流鼻水、寒顫等症狀至醫院就醫後通報送驗，於今日確診。",
+        "contractedFrom": "P63",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 64,
+        "reportedOn": "3/16",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "去(2019)年8月底至西班牙就學，由於就讀學校有確診個案，故與就讀同校的家人及同學一同返國，於3月12日入境。案64於14日出現畏寒、流鼻水及眼睛癢症狀，15日至醫院就醫並採檢通報，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 65,
+        "reportedOn": "3/16",
+        "ageEstimate": "50多歲",
+        "gender": "女性",
+        "notes": "3月4日至13日土耳其(與案56、57同團)，分別於3月14日、15日發病，3月15日晚間由衛生單位通知前往醫院採檢通報，於今日確診。",
+        "contractedFrom": "P56",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 66,
+        "reportedOn": "3/16",
+        "ageEstimate": "50多歲",
+        "gender": "女性",
+        "notes": "3月4日至13日土耳其(與案56、57同團)，分別於3月14日、15日發病，3月15日晚間由衛生單位通知前往醫院採檢通報，於今日確診。",
+        "contractedFrom": "P56",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 67,
+        "reportedOn": "3/16",
+        "ageEstimate": "60多歲",
+        "gender": "男性",
+        "notes": "3月4日至13日土耳其(與案56、57同團)，分別於3月14日、15日發病，3月15日晚間由衛生單位通知前往醫院採檢通報，於今日確診。",
+        "contractedFrom": "P56",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 68,
+        "reportedOn": "3/17",
+        "ageEstimate": "60多歲",
+        "gender": "女性",
+        "notes": "3月4日至13日至土耳其旅遊(與案56、57及案65至67同團)，其中1人無症狀，由衛生單位安排就醫採檢，其他3人發病日介於3月7日至14日，經就醫採檢通報，均於今日確診。",
+        "contractedFrom": "P56",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 69,
+        "reportedOn": "3/17",
+        "ageEstimate": "50多歲",
+        "gender": "女性",
+        "notes": "3月4日至13日至土耳其旅遊(與案56、57及案65至67同團)，其中1人無症狀，由衛生單位安排就醫採檢，其他3人發病日介於3月7日至14日，經就醫採檢通報，均於今日確診。",
+        "contractedFrom": "P56",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 70,
+        "reportedOn": "3/17",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "3月4日至13日至土耳其旅遊(與案56、57及案65至67同團)，其中1人無症狀，由衛生單位安排就醫採檢，其他3人發病日介於3月7日至14日，經就醫採檢通報，均於今日確診。",
+        "contractedFrom": "P56",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 71,
+        "reportedOn": "3/17",
+        "ageEstimate": "60多歲",
+        "gender": "男性",
+        "notes": "3月3日至12日參加埃及團體旅遊(與案55、63同團)，於3月13日起出現病症，3月15日安排就醫，經診斷有肺炎情形並採檢通報，於今日確診。",
+        "contractedFrom": "P55",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 72,
+        "reportedOn": "3/17",
+        "ageEstimate": "70多歲",
+        "gender": "女性",
+        "notes": "3月5日至14日與家人(案61)參加奧地利、捷克團體旅遊，3月15日出現發燒症狀且有肺炎情形，由醫院採檢通報，於今日確診。",
+        "contractedFrom": "P61",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 73,
+        "reportedOn": "3/17",
+        "ageEstimate": "40多歲",
+        "gender": "男性",
+        "notes": "3月4日至13日至土耳其旅遊(與案56、57及案65至67同團)，其中1人無症狀，由衛生單位安排就醫採檢，其他3人發病日介於3月7日至14日，經就醫採檢通報，均於今日確診。",
+        "contractedFrom": "P56",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 74,
+        "reportedOn": "3/17",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "2月25日至3月10日與7名親友至冰島自助旅遊，返國後於3月14日出現牙痛、全身倦怠症狀，15日就醫時因有國外旅遊史由醫院採檢通報，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 75,
+        "reportedOn": "3/17",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "2月23日至3月8日至德國旅遊，3月8日返國後出現流鼻水症狀，11日自覺嗅覺喪失，13日至診所就醫，因症狀未改善又於16日至醫院就醫，經診斷有肺炎情形故採檢通報，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 76,
+        "reportedOn": "3/17",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "3月1日至12日與2名友人至法國巴黎旅遊，12日起出現喉嚨痛症狀，15日出現流鼻水，16日就醫後採檢通報，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 77,
+        "reportedOn": "3/17",
+        "ageEstimate": "60多歲",
+        "gender": "女性",
+        "notes": "1月20日自台灣經杜拜轉機至捷克旅遊，並於3月7日自捷克搭機至美國紐約探親，16日入境。案77於3月10日在紐約當地出現發燒及腹瀉症狀，並於14日在當地就醫，16日返國後因有喉嚨癢及咳嗽症狀直接至醫院就醫後隨即採檢通報，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 78,
+        "reportedOn": "3/18",
+        "ageEstimate": "50多歲",
+        "gender": "男性",
+        "notes": "3月6日至3月16日去德國工作，3月15出現咳嗽等病狀，3月16日就醫，於今日確診",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 79,
+        "reportedOn": "3/18",
+        "ageEstimate": "40多歲",
+        "gender": "女性",
+        "notes": "3月9日至3月14日曾去英國工作，3月14日出現流鼻水等症狀，3月16日就醫，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 80,
+        "reportedOn": "3/18",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "2月3日至3月12日曾去西班牙就學，3月16日出現身體無力等病狀，3月17日就醫，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 81,
+        "reportedOn": "3/18",
+        "ageEstimate": "50多歲",
+        "gender": "女性",
+        "notes": "3月4日至3月13日去土耳其參加團體旅遊，無症狀，3月16日經採檢通報，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 82,
+        "reportedOn": "3/18",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "3月4日至3月13日去土耳其參加團體旅遊，3月11日出現喉嚨痛等病症，3月14、16日就醫，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 83,
+        "reportedOn": "3/18",
+        "ageEstimate": "40多歲",
+        "gender": "女性",
+        "notes": "3月4日至3月13日去土耳其參加團體旅遊，無症狀，3月15日經採檢通報，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 84,
+        "reportedOn": "3/18",
+        "ageEstimate": "20多歲",
+        "gender": "男性法國籍",
+        "notes": "從法國來的法國人，3月12日來台灣旅遊，初步了解有台灣友人陪同旅行，因行程中出現疑似症狀，3月16日就醫採檢確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 85,
+        "reportedOn": "3/18",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "3月5日至16日去紐約自助旅行，14日出現症狀，16日回國，入境時沒有被採檢。但她回家，馬上請人載她去醫院就醫並於醫院採檢，今確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 86,
+        "reportedOn": "3/18",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "1月23日至3月15日到紐約長島，12日發病，16日入境時因為咳嗽被採檢並確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 87,
+        "reportedOn": "3/18",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "曾去義大利、英國、法國工作及旅遊，3月11日出現發燒、喉嚨痛等病症，3月16日到機場採檢，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 88,
+        "reportedOn": "3/18",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "2月14日至3月16日曾去西班牙研習，3月6日出現咳嗽、發燒等病症，3月16日到機場採檢，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 89,
+        "reportedOn": "3/18",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "長居美國，3月14日就咳嗽，15日在返台飛機上開始忽冷忽熱，入境時因為體溫達38.4度而採檢確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 90,
+        "reportedOn": "3/18",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "2月14日至3月16日曾去西班牙旅遊及工作，3月7日出現流鼻水、打噴嚏等症狀，3月16日到機場採檢，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 91,
+        "reportedOn": "3/18",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "曾去法國、西班牙、英國旅遊，3月8日開始出現喉嚨痛、流鼻水等症狀，3月16日到機場採檢，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 92,
+        "reportedOn": "3/18",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "為埃及團確診個案接觸者，無症狀，經接觸者採檢確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 93,
+        "reportedOn": "3/18",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "3月10日至3月16日曾去卡達工作，3月13日出現背痛等病症，3月16日到機場採檢，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 94,
+        "reportedOn": "3/18",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "3月4日至3月13日去土耳其參加團體旅遊，3月15日出現發燒症狀，3月15日就醫，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 95,
+        "reportedOn": "3/18",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "3月6日至3月12日曾去印尼自助旅遊，3月10日開始有喉嚨痛、耳朵痛的情形，3月12日回台後，一直到14號都待在旅店，之後返家，3月16日就醫進行採檢後確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 96,
+        "reportedOn": "3/18",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "1月13日至3月15日曾去英國就學，3月7日出現發燒、咳嗽有痰等病症，3月16日到機場採檢，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 97,
+        "reportedOn": "3/18",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "2月11日至3月15日曾去瑞士就學，3月14日出現發燒、畏寒等病症，3月16日到機場採檢，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 98,
+        "reportedOn": "3/18",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "2月16日至3月16日曾去法國就學，3月13日出現發燒等病狀，3月16日到機場採檢，於今日確診",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 99,
+        "reportedOn": "3/18",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "2月1日至3月16日曾到菲律賓工作，3月8日出現流鼻涕、腹瀉等病症，3月16日機場採檢，於今日確診",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 100,
+        "reportedOn": "3/18",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "3月12日開始出現喉嚨痛、發燒、頭痛症狀，當天曾就醫，16日持續發燒、咳嗽、喘症狀，再次就醫，醫師診斷為一班感冒，17日仍未緩解且有呼吸困難症狀到急診就醫，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 101,
+        "reportedOn": "3/19",
+        "ageEstimate": "70多歲",
+        "gender": "男性",
+        "notes": "3月3日至12日至埃及旅遊（與案55、63、71同團），3月17日陸續出現發燒、流鼻水、肌肉痠痛症狀。",
+        "contractedFrom": "P55",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 102,
+        "reportedOn": "3/19",
+        "ageEstimate": "50多歲",
+        "gender": "女性",
+        "notes": "2月29日至3月11日與非同住家人至美國參加商務活動，3月11日入境時有輕微咳嗽，16日自覺有發燒情形就醫並採檢通報。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 103,
+        "reportedOn": "3/19",
+        "ageEstimate": "10多歲",
+        "gender": "男性",
+        "notes": "為案59（高中生）之同班男同學，與案59座位鄰近，3月15日早上出現喉嚨癢，當晚有發燒症狀，16日先行致電1922通知後，依指示前往醫院就醫並主動告知為案59同學，隨即由醫院安排採檢後住院隔離。",
+        "contractedFrom": "P59",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 104,
+        "reportedOn": "3/19",
+        "ageEstimate": "40多歲",
+        "gender": "女性",
+        "notes": "3月5日至3月14日跟團至奧地利、捷克旅遊（與案61、72同團）。3月16日出現咳嗽、流鼻水、胸悶等症狀，由衛生單位安排就醫採檢通報。",
+        "contractedFrom": "P61",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 105,
+        "reportedOn": "3/19",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "2019年12月24日獨自赴法國就學，今年3月17日返台，入境時因主動向檢疫人員通報喉嚨不適，機場檢疫站安排採檢通報後，由家人接送返家進行居家檢疫。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 106,
+        "reportedOn": "3/19",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "1月5日至3月17日至西班牙遊學，3月12日出現喉嚨癢症狀，入境時主動向檢疫人員說明症狀，安排採檢通報後搭乘防疫計程車前往住所進行居家檢疫。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 107,
+        "reportedOn": "3/19",
+        "ageEstimate": "50多歲",
+        "gender": "男性法國籍",
+        "notes": "3月15日來台探親，入境後直接至地方政府特約防疫旅宿進行居家檢疫，3月17日出現流鼻水症狀，18日因出現咳嗽症狀，主動聯繫警政及衛生單位安排就醫後採檢通報。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 108,
+        "reportedOn": "3/19",
+        "ageEstimate": "40多歲",
+        "gender": "男性",
+        "notes": "3月5日至3月14日跟團至奧地利、捷克旅遊（與案61、72同團）。案108於3月17日出現發燒症狀，由衛生單位安排就醫採檢通報。",
+        "contractedFrom": "P61",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 109,
+        "reportedOn": "3/20",
+        "ageEstimate": "80多歲",
+        "gender": "男性",
+        "notes": "2月25日至3月7日曾去埃及參加團體旅遊，3月7日出現發燒，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 110,
+        "reportedOn": "3/20",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "曾去法國、英國就學和旅遊，3月16日出現胸悶，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 111,
+        "reportedOn": "3/20",
+        "ageEstimate": "50多歲",
+        "gender": "女性",
+        "notes": "3月3日至3月12日曾去埃及參加團體旅遊，3月15日出現發燒等症狀，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 112,
+        "reportedOn": "3/20",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "3月1日至3月17日曾去法國旅遊，3月13日出現喉嚨痛等病症，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 113,
+        "reportedOn": "3/20",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "2月23日至3月6日曾去美國、墨西哥旅遊，3月17日出現流鼻水等症狀，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 114,
+        "reportedOn": "3/20",
+        "ageEstimate": "10多歲",
+        "gender": "男性",
+        "notes": "曾去西班牙、德國、英國比賽，3月17日出現頭痛等症狀，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 115,
+        "reportedOn": "3/20",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "2月9日至3月15日去波蘭遊學，3月17日出現咳嗽等症狀，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 116,
+        "reportedOn": "3/20",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "去年9月15日至3月17日去英國就學，3月12日出現咳嗽等症狀，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 117,
+        "reportedOn": "3/20",
+        "ageEstimate": "40多歲",
+        "gender": "男性",
+        "notes": "曾去葡萄牙、西班牙旅遊，3月14日出現腹瀉，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 118,
+        "reportedOn": "3/20",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "3月5日至3月16日去美國旅遊，為案85的出國同行友人，無症狀，於今日確診。",
+        "contractedFrom": "P85",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 119,
+        "reportedOn": "3/20",
+        "ageEstimate": "60多歲",
+        "gender": "男性",
+        "notes": "1月15日至3月11日曾去美國探親，3月15日出現喉嚨痛等症狀，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 120,
+        "reportedOn": "3/20",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "去年8月26日至3月18日去法國就學，3月14日出現流鼻水等症狀，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 121,
+        "reportedOn": "3/20",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "3月5日至3月16日去美國旅遊，為案85的出國同行友人，3月18日出現流鼻水等症狀，於今日確診",
+        "contractedFrom": "P85",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 122,
+        "reportedOn": "3/20",
+        "ageEstimate": "60多歲",
+        "gender": "女性",
+        "notes": "3月4日至3月13日至土耳其參加團體旅遊，3月18日出現腹瀉等症狀，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 123,
+        "reportedOn": "3/20",
+        "ageEstimate": "40多歲",
+        "gender": "男性",
+        "notes": "曾去新加坡、日本、美國洽公，3月18日出現倦怠等症狀，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 124,
+        "reportedOn": "3/20",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "無旅遊史，3月17日出現發燒等症狀，於今日確診，感染源待釐清。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 125,
+        "reportedOn": "3/20",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "曾去荷蘭、奧地利旅遊，3月7日出現流鼻水、全身無力等病症，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 126,
+        "reportedOn": "3/20",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "3月4日至3月16日至加拿大旅遊，3月16日出現乾咳，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 127,
+        "reportedOn": "3/20",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "去年9月14日至3月14日去西班牙就學，3月12日出現鼻塞等症狀，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 128,
+        "reportedOn": "3/20",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "曾去法國、盧森堡、比例時、德國旅遊，3月5日出現喉嚨痛等症狀，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 129,
+        "reportedOn": "3/20",
+        "ageEstimate": "40多歲",
+        "gender": "男性",
+        "notes": "3月11日至3月18日去美國旅遊，3月16日出現發燒等症狀，於今日確診",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 130,
+        "reportedOn": "3/20",
+        "ageEstimate": "10多歲",
+        "gender": "女性",
+        "notes": "無旅遊史，3月17日出現乾咳等症狀，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 131,
+        "reportedOn": "3/20",
+        "ageEstimate": "40多歲",
+        "gender": "女性",
+        "notes": "曾去葡萄牙、西班牙參加團體旅遊，3月14日出現喉嚨痛等病症，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 132,
+        "reportedOn": "3/20",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "1月18日至3月18日至菲律賓工作，3月12日出現流鼻水等症狀，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 133,
+        "reportedOn": "3/20",
+        "ageEstimate": "10多歲",
+        "gender": "女性",
+        "notes": "1月3日至3月14日到英國就學，3月18日出現頭痛等病症，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 134,
+        "reportedOn": "3/20",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "無旅遊史，3月17日出現發燒等病症，於今日確診，感染源待釐清。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 135,
+        "reportedOn": "3/20",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "1月18日至3月13日前往美國，3月18日出現咳嗽症狀，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 136,
+        "reportedOn": "3/21",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "2月27日至3月8日跟團至土耳其旅遊，3月8日發病後自行就醫，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 137,
+        "reportedOn": "3/21",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "3月5日至19日至美國旅遊，14日發病，19日返國時於機場欄檢，今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 138,
+        "reportedOn": "3/21",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "1月21日至3月16日赴法國就學，居家檢疫期間發病，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 139,
+        "reportedOn": "3/21",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "2019年4月赴英國就學，3月14日返國，17日發病後自行就醫，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 140,
+        "reportedOn": "3/21",
+        "ageEstimate": "50多歲",
+        "gender": "女性",
+        "notes": "埃及旅遊團團員，原列為接觸者，居家隔離期間於3月18日發病，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 141,
+        "reportedOn": "3/21",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "2019年9月赴英國就學，3月17日發病，19日返國時於機場欄檢，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 142,
+        "reportedOn": "3/21",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "2019年2月赴英國教會服務，3月13日發病，19日返國時於機場欄檢，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 143,
+        "reportedOn": "3/21",
+        "ageEstimate": "50多歲",
+        "gender": "男性",
+        "notes": "案77親人、與案144為夫妻，長住捷克，與案77於3月7日至14日間自捷克赴美國探親，於3月14日發病，19日返國入境時由機場採檢送驗，於今日確診。",
+        "contractedFrom": "P77",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 144,
+        "reportedOn": "3/21",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "案77親人、與案143為夫妻，長住捷克，與案77於3月7日至14日間自捷克赴美國探親，於3月6日發病，19日返國入境時由機場採檢送驗，於今日確診。",
+        "contractedFrom": "P77",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 145,
+        "reportedOn": "3/21",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "3月5日赴美自助旅遊，3月16日發病，19日返國時於機場欄檢，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 146,
+        "reportedOn": "3/21",
+        "ageEstimate": "50多歲",
+        "gender": "男性",
+        "notes": "3月9日至18日赴南非工作，3月18日發病，返國後自行就醫，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 147,
+        "reportedOn": "3/21",
+        "ageEstimate": "20多歲",
+        "gender": "女性印尼籍",
+        "notes": "3月14日、15日至印尼參加婚禮，3月17日發病後自行就醫，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 148,
+        "reportedOn": "3/21",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "1月24日至3月15日至美國就學，返國時與案85搭乘同班機，18日發病，於今天確診。",
+        "contractedFrom": "P85",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 149,
+        "reportedOn": "3/21",
+        "ageEstimate": "70多歲",
+        "gender": "男性",
+        "notes": "3月9日至14日跟團至英國旅遊，3月15日發病後自行就醫，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 150,
+        "reportedOn": "3/21",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "案133家人，1月14日至3月14日至英國就學，14日與案133一同返國，19日發病，於今日確診。因返台後活動史單純，研判於英國感染的可能性較高。\"}",
+        "contractedFrom": "P133",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 151,
+        "reportedOn": "3/21",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "3月8日出現症狀，3月10日至14日到到荷蘭工作，返台後自行就醫，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 152,
+        "reportedOn": "3/21",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "2019年7月赴英國就學，3月14日出現症狀，17日返國，於居家檢疫時發現，今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 153,
+        "reportedOn": "3/21",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "2019年12月赴法國就學，3月14日返國，18日發病，於居家檢疫時發現，今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 154,
+        "reportedOn": "3/22",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "境外移入，曾到美國旅遊，3月16日發病，3月17日通報，3月22日確診。出現肌肉痠痛、頭痛及喉嚨痛症狀，選擇自行就醫，與案85、118、121是同行者。",
+        "contractedFrom": "P85",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 155,
+        "reportedOn": "3/22",
+        "ageEstimate": "70多歲",
+        "gender": "男性",
+        "notes": "境外移入，有丹麥旅遊活動史，3月20日發病並且通報，3月22日確診。出現肌肉痠痛、發燒、全身倦怠症狀，X光片顯示為肺炎，目前居家檢疫中。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 156,
+        "reportedOn": "3/22",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "機構護理師，本土案例，3月12日自己覺得發燒未就醫，3月16日就醫返家，3月20日就醫採檢，21日確診，感染源待釐清。",
+        "status": "Unkown Infection"
+    },
+    {
+        "patientId": 157,
+        "reportedOn": "3/22",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，有紐西蘭旅遊活動史，3月18日發病，3月20日通報，3月22日確診。出現全身倦怠、胸痛及呼吸困難症狀，選擇自行就醫。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 158,
+        "reportedOn": "3/22",
+        "ageEstimate": "10多歲",
+        "gender": "女性",
+        "notes": "境外移入，有美國旅遊活動史，3月18日發病，3月20日通報，3月22日確診。出現全身倦怠、胸痛及呼吸困難症狀，選擇自行就醫。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 159,
+        "reportedOn": "3/22",
+        "ageEstimate": "60多歲",
+        "gender": "男性",
+        "notes": "境外移入，有美國旅遊活動史，3月18日發病，3月19日通報，3月22日確診。出現肌肉痠痛和流鼻水症狀，X光片顯示為肺炎，選擇自行就醫。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 160,
+        "reportedOn": "3/22",
+        "ageEstimate": "50多歲",
+        "gender": "男性",
+        "notes": "境外移入，3月1日至10日赴美活動，3月14日發病、3月20日通報、3月22日確診，初步研判該案傳染給案124中研院人員。",
+        "contractedFrom": "P124",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 161,
+        "reportedOn": "3/22",
+        "ageEstimate": "60多歲",
+        "gender": "男性",
+        "notes": "案55埃及團同團，居家隔離期間於3月20日發病，經安排就醫及採檢通報，於今日確診。",
+        "contractedFrom": "P55",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 162,
+        "reportedOn": "3/22",
+        "ageEstimate": "60多歲",
+        "gender": "女性",
+        "notes": "案55埃及團同團，居家隔離期間於3月20日發病，經安排就醫及採檢通報，於今日確診。",
+        "contractedFrom": "P55",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 163,
+        "reportedOn": "3/22",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，赴法國留學生，3月17日發病、3月20日通報、3月22日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 164,
+        "reportedOn": "3/22",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，赴菲律賓留學生，3月13日發病、3月21日通報、3月22日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 165,
+        "reportedOn": "3/22",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，赴義大利留學生，3月7日發病、3月19日通報、3月22日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 166,
+        "reportedOn": "3/22",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，有德國旅遊史，3月17日發病、3月20日通報、3月22日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 167,
+        "reportedOn": "3/22",
+        "ageEstimate": "10多歲",
+        "gender": "男性奧地利國籍",
+        "notes": "境外移入，赴英國留學生，3月19日發病、3月20日通報、3月22日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 168,
+        "reportedOn": "3/22",
+        "ageEstimate": "30多歲",
+        "gender": "男性德國籍",
+        "notes": "本土案例，案124中研院人員之接觸者，3月17日發病、3月20日通報、3月22日確診。",
+        "contractedFrom": "P124",
+        "status": "Domestic Infection"
+    },
+    {
+        "patientId": 169,
+        "reportedOn": "3/22",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "本土案例，案124中研院人員之接觸者，3月17日發病、3月20日通報、3月22日通報。",
+        "contractedFrom": "P124",
+        "status": "Domestic Infection"
+    },
+    {
+        "patientId": 170,
+        "reportedOn": "3/23",
+        "ageEstimate": "60多歲",
+        "gender": "男性",
+        "notes": "境外移入，有西班牙旅遊史，3月20日發病、3月21日通報、3月23日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 171,
+        "reportedOn": "3/23",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "境外移入，赴荷蘭工作，3月7日發病、3月20日通報、3月23日確診。為案174同事。",
+        "contractedFrom": "P174",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 172,
+        "reportedOn": "3/23",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "境外移入，赴法國工作及旅遊，3月16日發病、3月20日通報、3月23日確診。與案173為家人。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 173,
+        "reportedOn": "3/23",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "境外移入，法國留學生，3月18日發病、3月20日通報、3月23日確診。與案172為家人。",
+        "contractedFrom": "P172",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 174,
+        "reportedOn": "3/23",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "境外移入，赴荷蘭工作，3月7日發病、3月20日通報、3月23日確診。為案171同事。",
+        "contractedFrom": "P171",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 175,
+        "reportedOn": "3/23",
+        "ageEstimate": "4歲多",
+        "gender": "男性",
+        "notes": "境外移入，有荷蘭旅遊史，3月10日發病、3月20日通報、3月23日確診。為案171隨行家人。",
+        "contractedFrom": "P171",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 176,
+        "reportedOn": "3/23",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，赴瑞士工作，3月19日發病、3月19日通報、3月23日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 177,
+        "reportedOn": "3/23",
+        "ageEstimate": "40多歲",
+        "gender": "男性",
+        "notes": "境外移入，赴美國工作，3月19日發病、3月21日通報、3月23日確診。為案129同事。",
+        "contractedFrom": "P129",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 178,
+        "reportedOn": "3/23",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "境外移入，有荷蘭旅遊史，3月10日發病、3月20日通報、3月23日確診。為案171隨行家人。",
+        "contractedFrom": "P171",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 179,
+        "reportedOn": "3/23",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，美國留學生，3月20日發病、3月20日通報、3月23日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 180,
+        "reportedOn": "3/23",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，赴捷克工作，3月15日發病、3月20日通報、3月23日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 181,
+        "reportedOn": "3/23",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "境外移入，有美國、日本旅遊史，3月1日發病、3月20日通報、3月23日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 182,
+        "reportedOn": "3/23",
+        "ageEstimate": "40多歲",
+        "gender": "男性",
+        "notes": "境外移入，有美國旅遊史，3月20日發病、3月21日通報、3月23日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 183,
+        "reportedOn": "3/23",
+        "ageEstimate": "70多歲",
+        "gender": "女性",
+        "notes": "境外移入，有法國、巴西、智利、秘魯旅遊史，3月18日發病、3月20日通報、3月23日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 184,
+        "reportedOn": "3/23",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "境外移入，赴美國處理私務，3月19日發病、3月20日通報、3月23日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 185,
+        "reportedOn": "3/23",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，英國留學生，3月14日發病、3月21日通報、3月23日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 186,
+        "reportedOn": "3/23",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "本土案例，案168同住友人，3月20日自行就醫採檢通報、3月23日確診。為案124中研院人員群聚第5名確診個案。",
+        "contractedFrom": "P124",
+        "status": "Domestic Infection"
+    },
+    {
+        "patientId": 187,
+        "reportedOn": "3/23",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "境外移入，赴英國工作，3月20日發病、3月20日通報、3月23日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 188,
+        "reportedOn": "3/23",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，赴英國工作，3月14日發病、3月21日通報、3月23日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 189,
+        "reportedOn": "3/23",
+        "ageEstimate": "50多歲",
+        "gender": "女性",
+        "notes": "境外移入，有西班牙旅遊史，3月21日發病、3月21日通報、3月23日確診。為案170同行家人。",
+        "contractedFrom": "P170",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 190,
+        "reportedOn": "3/23",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，赴美國工作，3月19日發病、3月21日通報、3月23日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 191,
+        "reportedOn": "3/23",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，赴美國工作，3月11日發病、3月21日通報、3月23日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 192,
+        "reportedOn": "3/23",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，美國留學生，2月22日發病、3月21日通報、3月23日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 193,
+        "reportedOn": "3/23",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "境外移入，赴英國工作，3月16日發病、3月21日通報、3月23日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 194,
+        "reportedOn": "3/23",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，赴美國工作，3月16日發病、3月21日通報、3月23日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 195,
+        "reportedOn": "3/23",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，有美國旅遊史，3月20日發病、3月21日通報、3月23日確診。為案137、145同行友人。",
+        "contractedFrom": "P137",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 196,
+        "reportedOn": "3/24",
+        "ageEstimate": "50多歲",
+        "gender": "男性",
+        "notes": "境外移入，美國籍男性來台經同意入境，3月20日發病，3月21日通報，3月24日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 197,
+        "reportedOn": "3/24",
+        "ageEstimate": "40多歲",
+        "gender": "男性",
+        "notes": "境外移入，去美國探親，3月19日發病，3月21日通報，3月24日確診，和案202為夫妻。",
+        "contractedFrom": "P202",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 198,
+        "reportedOn": "3/24",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，去愛爾蘭就學，3月21日發病，3月22日通報，3月24日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 199,
+        "reportedOn": "3/24",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，去義大利、德國、比利時、英國旅遊，3月20日發病，3月21日通報，3月24日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 200,
+        "reportedOn": "3/24",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，英國就學，3月19日發病，3月20日通報，3月24日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 201,
+        "reportedOn": "3/24",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "境外移入，去愛爾蘭工作，3月19日發病，3月22日通報，3月24日確診，和案197為夫妻。",
+        "contractedFrom": "P197",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 202,
+        "reportedOn": "3/24",
+        "ageEstimate": "40多歲",
+        "gender": "女性",
+        "notes": "境外移入，美國探親，3月19日發病，3月21日通報，3月24日確診，和案197為夫妻。",
+        "contractedFrom": "P197",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 203,
+        "reportedOn": "3/24",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "境外移入，在法國工作，3月16日發病，3月22日通報，3月24日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 204,
+        "reportedOn": "3/24",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，在英國就學，3月16日發病，3月22日通報，3月24日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 205,
+        "reportedOn": "3/24",
+        "ageEstimate": "5歲以下",
+        "gender": "女性",
+        "notes": "境外移入，去土耳其旅遊，3月21日發病，3月22日通報，3月24日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 206,
+        "reportedOn": "3/24",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，在英國就學，3月16日發病，3月22日通報，3月24日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 207,
+        "reportedOn": "3/24",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，在美國工作，3月16日發病，3月20日通報，3月24日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 208,
+        "reportedOn": "3/24",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "境外移入，常住英國，3月9日發病，3月20日通報，3月24日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 209,
+        "reportedOn": "3/24",
+        "ageEstimate": "60多歲",
+        "gender": "女性",
+        "notes": "境外移入，去美國探親，3月21日發病，3月22日通報，3月24日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 210,
+        "reportedOn": "3/24",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，在英國就學，3月21日發病，3月21日通報，3月24日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 211,
+        "reportedOn": "3/24",
+        "ageEstimate": "40多歲",
+        "gender": "男性",
+        "notes": "境外移入，印尼籍來台工作，3月22日發病，3月22日通報，3月24日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 212,
+        "reportedOn": "3/24",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "境外移入，因工作長居美國，3月19日發病，3月23日通報，3月24日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 213,
+        "reportedOn": "3/24",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，在西班牙就學，3月15日發病，3月17日通報，3月24日確診。案57航班接觸者。",
+        "contractedFrom": "P57",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 214,
+        "reportedOn": "3/24",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，在英國就學，3月11日發病，3月21日通報，3月24日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 215,
+        "reportedOn": "3/24",
+        "ageEstimate": "10多歲",
+        "gender": "女性",
+        "notes": "境外移入，在美國就學，3月23日發病，3月23日通報，3月24日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 216,
+        "reportedOn": "3/24",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "本土案例，為清華大學法籍研究生，原列為案84接觸者，為我國第三起大專院校感染者。",
+        "contractedFrom": "P84",
+        "status": "Domestic Infection"
+    },
+    {
+        "patientId": 217,
+        "reportedOn": "3/25",
+        "ageEstimate": "10多歲",
+        "gender": "男性",
+        "notes": "境外移入，在英國就學，3月20日發病，3月22日通報，3月25日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 218,
+        "reportedOn": "3/25",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，在美國就學，3月17日發病，3月21日通報，3月25日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 219,
+        "reportedOn": "3/25",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，在美國工作，3月22日發病，3月23日通報，3月25日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 220,
+        "reportedOn": "3/25",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "境外移入，在英國求職，3月19日發病，3月22日通報，3月25日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 221,
+        "reportedOn": "3/25",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，在英國就學，3月18日發病，3月23日通報，3月25日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 222,
+        "reportedOn": "3/25",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，在英國就學，3月16日發病，3月22日通報，3月25日確診。與案152同校。",
+        "contractedFrom": "P152",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 223,
+        "reportedOn": "3/25",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，在英國就學，3月17日發病，3月23日通報，3月25日確診。與案152同校。",
+        "contractedFrom": "P152",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 224,
+        "reportedOn": "3/25",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，在英國就學，3月18日發病，3月22日通報，3月25日確診。與案152同校。",
+        "contractedFrom": "P152",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 225,
+        "reportedOn": "3/25",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，在英國就學，3月15日發病，3月23日通報，3月25日確診。與案152同校。",
+        "contractedFrom": "P152",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 226,
+        "reportedOn": "3/25",
+        "ageEstimate": "60多歲",
+        "gender": "男性",
+        "notes": "境外移入，3月21日發病，3月22日通報，3月25日確診。埃及團團員。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 227,
+        "reportedOn": "3/25",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "境外移入，長住英國，3月15日發病，3月23日通報，3月25日確診。與案152同校。",
+        "contractedFrom": "P152",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 228,
+        "reportedOn": "3/25",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，在荷蘭就學，3月21日發病，3月22日通報，3月25日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 229,
+        "reportedOn": "3/25",
+        "ageEstimate": "30多歲",
+        "gender": "男性美國籍",
+        "notes": "境外移入，3月20日發病，3月22日通報，3月25日確診。美國人在台工作。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 230,
+        "reportedOn": "3/25",
+        "ageEstimate": "10多歲",
+        "gender": "女性",
+        "notes": "境外移入，在美國就學，3月22日發病，3月24日通報，3月25日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 231,
+        "reportedOn": "3/25",
+        "ageEstimate": "10多歲",
+        "gender": "女性",
+        "notes": "境外移入，在美國就學，3月22日發病，3月22日通報，3月25日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 232,
+        "reportedOn": "3/25",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，在美國、印尼工作，3月22日發病，3月24日通報，3月25日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 233,
+        "reportedOn": "3/25",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，在英國就學，3月23日發病，3月23日通報，3月25日確診。與案210一同回台。",
+        "contractedFrom": "P210",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 234,
+        "reportedOn": "3/25",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，在法國工作，3月18日發病，3月24日通報，3月25日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 235,
+        "reportedOn": "3/25",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，在比利時、土耳其、泰國就學，3月23日發病，3月23日通報，3月25日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 236,
+        "reportedOn": "3/26",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，2019年8月28日至今年3月19日於捷克就學，23日發病，24日通報，26日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 237,
+        "reportedOn": "3/26",
+        "ageEstimate": "50多歲",
+        "gender": "男性",
+        "notes": "境外移入， 2月19日至3月19日赴美國、聖地牙哥、智利、南極、阿根廷、卡達旅遊，並在泰國轉機，21日發病，23日通報，25日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 238,
+        "reportedOn": "3/26",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "境外移入，2018年6月27日至今年3月23日於英國就學、工作，12日發病，24日通報，26日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 239,
+        "reportedOn": "3/26",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，2月16日至3月23日於英國就學，11日發病，23日通報，26日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 240,
+        "reportedOn": "3/26",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "境外移入，2019年7月7日至今年3月23日於美國工作，13日發病，23日通報，26日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 241,
+        "reportedOn": "3/26",
+        "ageEstimate": "40多歲",
+        "gender": "女性",
+        "notes": "境外移入，2019年8月28日至今年3月23日於英國工作，23日發病，24日通報，26日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 242,
+        "reportedOn": "3/26",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，1月12日至3月23日於英國就學，17日發病，23日通報，26日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 243,
+        "reportedOn": "3/26",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，2019年8月23日至今年3月20日於美國就學，16日發病，24日通報，26日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 244,
+        "reportedOn": "3/26",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "境外移入，3月6日至3月21日於紐西蘭旅遊，16日發病，21日通報，26日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 245,
+        "reportedOn": "3/26",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，1月13日至3月17日於英國就學，18日發病，24日通報，26日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 246,
+        "reportedOn": "3/26",
+        "ageEstimate": "60多歲",
+        "gender": "男性",
+        "notes": "本土病例，案209(美國移入)同住家人，無疑似症狀，經接觸者採檢後確診。",
+        "contractedFrom": "P209",
+        "status": "Domestic Infection"
+    },
+    {
+        "patientId": 247,
+        "reportedOn": "3/26",
+        "ageEstimate": "40多歲",
+        "gender": "女性",
+        "notes": "本土病例，案228(荷蘭移入)同住家人，於3月23日發病，經就醫採檢通報後確診。",
+        "contractedFrom": "P228",
+        "status": "Domestic Infection"
+    },
+    {
+        "patientId": 248,
+        "reportedOn": "3/26",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，3月12日至20日跟團赴西班牙旅遊，該旅遊團中有2人23日確診(案170、189)，案248無症狀，經衛生單位採檢後確診。",
+        "contractedFrom": "P170",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 249,
+        "reportedOn": "3/26",
+        "ageEstimate": "60多歲",
+        "gender": "男性",
+        "notes": "境外移入，3月2日至3月16日赴馬來西亞、菲律賓工作，16日發病，24日通報，26日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 250,
+        "reportedOn": "3/26",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "境外移入，3月10日3月22日於摩納哥工作，20日發病，22日通報，26日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 251,
+        "reportedOn": "3/26",
+        "ageEstimate": "60多歲",
+        "gender": "男性",
+        "notes": "境外移入，2019年11月26日至今年3月12日赴澳洲、墨西哥旅遊，23日發病，24日通報，26日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 252,
+        "reportedOn": "3/26",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，1月13日至3月21日於英國就學，19日發病，22日通報，26日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 253,
+        "reportedOn": "3/27",
+        "ageEstimate": "50多歲",
+        "gender": "女性",
+        "notes": "境外移入，2/18-3/24美國工作，3/14發病，3/24通報，3/27確診",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 254,
+        "reportedOn": "3/27",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，2019/8/25-2020/3/24美國就學，3/20發病，3/24通報，3/27確診。案218友人",
+        "contractedFrom": "P218",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 255,
+        "reportedOn": "3/27",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "境外移入，2/26-3/24美國探親，3/8發病，3/26通報，3/27確診",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 256,
+        "reportedOn": "3/27",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "境外移入，2/2-3/18美國工作，3/22發病，3/25通報，3/27確診",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 257,
+        "reportedOn": "3/27",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，2019/8/3-2020/3/24 英國就學，3/10發病，3/25通報，3/27確診。與案258同校",
+        "contractedFrom": "P258",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 258,
+        "reportedOn": "3/27",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，2019/7/28-2020/3/22英國就學，3/23 發病，3/25 通報，3/27確診。與案257同校",
+        "contractedFrom": "P257",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 259,
+        "reportedOn": "3/27",
+        "ageEstimate": "60多歲",
+        "gender": "女性",
+        "notes": "境外移入，旅遊及探親，2/20-2/28美國、2/28-3/19中南美洲、3/19-3/24美國 ，3/25發病，3/25通報，3/27確診",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 260,
+        "reportedOn": "3/27",
+        "ageEstimate": "40多歲",
+        "gender": "男性",
+        "notes": "境外移入，3/8-3/21 美國工作，3/17發病，3/25通報，3/27確診",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 261,
+        "reportedOn": "3/27",
+        "ageEstimate": "60多歲",
+        "gender": "女性",
+        "notes": "境外移入，2/22-3/23菲律賓工作，3/24發病，3/25通報，3/27確診",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 262,
+        "reportedOn": "3/27",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "境外移入，1/14-3/25英國就學，3/16發病，3/26通報，3/27確診",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 263,
+        "reportedOn": "3/27",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "境外移入，1/14-3/23於澳大利亞工作，3/20發病，3/24通報，3/27確診",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 264,
+        "reportedOn": "3/27",
+        "ageEstimate": "50多歲",
+        "gender": "女性",
+        "notes": "境外移入，3/8-3/25於英國工作，3/23發病，3/25通報，3/27確診。與案267同行",
+        "contractedFrom": "P267",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 265,
+        "reportedOn": "3/27",
+        "ageEstimate": "10多歲",
+        "gender": "女性",
+        "notes": "境外移入，2019/9/2-2020/3/15於美國就學，3/12發病，3/24通報，3/27確診",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 266,
+        "reportedOn": "3/27",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "境外移入，1/18-3/21於英國工作，3/24發病，3/25通報，3/27確診",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 267,
+        "reportedOn": "3/27",
+        "ageEstimate": "50多歲",
+        "gender": "男性",
+        "notes": "境外移入，3/8-3/25於英國工作，3/20發病，3/25通報，3/27確診。與案264同行。",
+        "contractedFrom": "P264",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 268,
+        "reportedOn": "3/28",
+        "ageEstimate": "50多歲",
+        "gender": "男性",
+        "notes": "本土案例，無出國史。2月28日至3月18日間陸續出現病症且多次就醫，20日因發燒、肺炎收治住院，經治療後症狀改善並於23日出院，但返家後又出現發燒、呼吸急促及腹瀉症狀，25日再次就醫，於今日確診。",
+        "status": "Domestic Infection"
+    },
+    {
+        "patientId": 269,
+        "reportedOn": "3/28",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "本土案例，無出國史。3月23日、24日因陸續出現肌肉痠痛、腹瀉及發燒症狀分別至診所及醫院就醫，今日確診。",
+        "status": "Domestic Infection"
+    },
+    {
+        "patientId": 270,
+        "reportedOn": "3/28",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "1月2日至3月25日至英國就學，3月25日發病，返國時於機場攔檢，今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 271,
+        "reportedOn": "3/28",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "2019年7月5日至3月25日至英國就學，3月12日發病，返國時於機場攔檢，今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 272,
+        "reportedOn": "3/28",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "1月6日至3月25日至英國就學，與案152、222-225等5人同校，3月19日發病，返國時於機場攔檢，今日確診。",
+        "contractedFrom": "P152",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 273,
+        "reportedOn": "3/28",
+        "ageEstimate": "60多歲",
+        "gender": "女性",
+        "notes": "2月26日至3月13日至西班牙旅遊，20日居家檢疫期中發病，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 274,
+        "reportedOn": "3/28",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "3月6日至15日赴倫敦、瑞士工作，18日居家檢疫期中發病，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 275,
+        "reportedOn": "3/28",
+        "ageEstimate": "40多歲",
+        "gender": "女性",
+        "notes": "3月2日至6日赴澳洲工作，13日發病後自行就醫，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 276,
+        "reportedOn": "3/28",
+        "ageEstimate": "10多歲",
+        "gender": "女性",
+        "notes": "1月13日至3月12日至西班牙就學，與案58、64、80、213同校，18日居家檢疫期中發病，今日確診。",
+        "contractedFrom": "P58",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 277,
+        "reportedOn": "3/28",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "2019年12月15日至3月20日赴菲律賓工作，1日居家檢疫期中發病，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 278,
+        "reportedOn": "3/28",
+        "ageEstimate": "50多歲",
+        "gender": "男性",
+        "notes": "3月2日至14日赴捷克工作，23日居家檢疫期中發病，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 279,
+        "reportedOn": "3/28",
+        "ageEstimate": "10多歲",
+        "gender": "女性",
+        "notes": "1月5日至3月19日赴美國工作，20日居家檢疫期中發病，於今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 280,
+        "reportedOn": "3/28",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "2019年9月14日至3月26日赴加拿大就學，19日發病，返國時於機場攔檢，今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 281,
+        "reportedOn": "3/28",
+        "ageEstimate": "10多歲",
+        "gender": "女性",
+        "notes": "1月31日至3月26日赴美國就學，20日發病，返國時於機場攔檢，今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 282,
+        "reportedOn": "3/28",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "2月1日至3月26日赴愛爾蘭就學，24日發病，返國時於機場攔檢，今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 283,
+        "reportedOn": "3/28",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "3月24日至26日赴美國工作，24日居家檢疫期中發病，今日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 284,
+        "reportedOn": "3/29",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "1月31日至3月20日赴菲律賓工作，25日發病，26日通報，29日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 285,
+        "reportedOn": "3/29",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "3月9日至3月16日赴美國工作，19日發病，27日通報，29日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 286,
+        "reportedOn": "3/29",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "3月8日至3月17日赴土耳其跟團旅遊，23日發病，26日通報，29日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 287,
+        "reportedOn": "3/29",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "2019年12月19日至2020年3月26日赴英國就學，19日發病，27日通報，29日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 288,
+        "reportedOn": "3/29",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "3月10日至3月22日赴摩洛哥旅遊，與案250同旅行團，23日發病，24日通報，29日確診。",
+        "contractedFrom": "P250",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 289,
+        "reportedOn": "3/29",
+        "ageEstimate": "40多歲",
+        "gender": "女性",
+        "notes": "本土案例，22日發病，27日通報，29日確診。",
+        "status": "Domestic Infection"
+    },
+    {
+        "patientId": 290,
+        "reportedOn": "3/29",
+        "ageEstimate": "50多歲",
+        "gender": "女性",
+        "notes": "3月10日至3月14日赴印度旅遊，與案291為家庭群聚，22日發病，26日通報，29日確診。",
+        "contractedFrom": "P291",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 291,
+        "reportedOn": "3/29",
+        "ageEstimate": "60多歲",
+        "gender": "男性",
+        "notes": "3月10日至3月14日赴印度旅遊，與案290為家庭群聚，22日發病，26日通報，29日確診。",
+        "contractedFrom": "P290",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 292,
+        "reportedOn": "3/29",
+        "ageEstimate": "10多歲",
+        "gender": "女性",
+        "notes": "1月31日至3月19日赴美國工作，22日發病，23日通報，29日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 293,
+        "reportedOn": "3/29",
+        "ageEstimate": "40多歲",
+        "gender": "男性",
+        "notes": "3月7日至3月16日赴葡萄牙、西班牙跟團旅遊(案289的先生)，23日發病，27日通報，29日確診。",
+        "contractedFrom": "P289",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 294,
+        "reportedOn": "3/29",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "2月9日至3月20日赴瑞士工作，25日發病，28日通報，29日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 295,
+        "reportedOn": "3/29",
+        "ageEstimate": "60多歲",
+        "gender": "男性",
+        "notes": "3月14日至3月19日赴英國旅遊，22日發病，26日通報，29日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 296,
+        "reportedOn": "3/29",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "2019年12月30日至2020年3月27日赴西班牙、突尼西 亞、法國就學，2月15日發病，3月28日通報，3月29日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 297,
+        "reportedOn": "3/29",
+        "ageEstimate": "10多歲",
+        "gender": "男性",
+        "notes": "2019年9月1日至2020年3月27日赴法國就學，23日發病，27日通報，3月29日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 298,
+        "reportedOn": "3/29",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "3月7日至3月27日赴法國工作，18日發病，28日通報，29日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 299,
+        "reportedOn": "3/30",
+        "ageEstimate": "未滿10歲",
+        "gender": "男性",
+        "notes": "本土病例，無旅遊史。3月26日發病，3月28日通報，3月30日確診。為案269同住家人。",
+        "contractedFrom": "P269",
+        "status": "Domestic Infection"
+    },
+    {
+        "patientId": 300,
+        "reportedOn": "3/30",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入。1月2日至3月22日赴英國就讀，與案257、258同校，3月25日發病，3月26日通報，3月30日確診。",
+        "contractedFrom": "P257",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 301,
+        "reportedOn": "3/30",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "境外移入。2月20至3月2日赴美旅遊，3月6日出現咳嗽症狀至診所被判定感冒，症狀未改善，又分別在15日和25日就醫，後續出現發燒、頭痛、氣喘，28到醫院就醫收治住院，3月30日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 302,
+        "reportedOn": "3/30",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入。去年7月5日至今年3月16日赴英國就學，與案152、222-225、272等6人同校，3月29日通報，3月30日確診。",
+        "contractedFrom": "P152",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 303,
+        "reportedOn": "3/30",
+        "ageEstimate": "50多歲",
+        "gender": "男性",
+        "notes": "境外移入。3月7日至3月19日赴美旅遊，與案182、304同行，3月20日發病，3月28日通報，3月30日確診。",
+        "contractedFrom": "P182",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 304,
+        "reportedOn": "3/30",
+        "ageEstimate": "40多歲",
+        "gender": "女性",
+        "notes": "境外移入。3月7日至3月19日赴美旅遊，與案182、303同行，3月26日發病，3月28日通報，3月30日確診。",
+        "contractedFrom": "P182",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 305,
+        "reportedOn": "3/30",
+        "ageEstimate": "70多歲",
+        "gender": "女性",
+        "notes": "境外移入。2月8日至3月14日赴菲律賓探親，為案164親友，3月24日發病，經採檢於30日確診。",
+        "contractedFrom": "P164",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 306,
+        "reportedOn": "3/30",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "境外移入。3月11日至3月19日跟團赴埃及旅遊，3月20日發病，3月28日通報，3月30日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 307,
+        "reportedOn": "3/31",
+        "ageEstimate": "70多歲",
+        "gender": "男性",
+        "notes": "本土病例，案122接觸者，3月25日發病，3月29日通報，3月31日確診。",
+        "contractedFrom": "P122",
+        "status": "Domestic Infection"
+    },
+    {
+        "patientId": 308,
+        "reportedOn": "3/31",
+        "ageEstimate": "40多歲",
+        "gender": "男性",
+        "notes": "境外移入，到泰國、菲律賓工作，3月22日發病，3月29日通報，3月31日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 309,
+        "reportedOn": "3/31",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "境外移入，長住英國工作，3月15日發病，3月28日通報，3月31日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 310,
+        "reportedOn": "3/31",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，英國就學，3月15日發病，3月29日通報，3月31日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 311,
+        "reportedOn": "3/31",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "境外移入，英國、冰島自助旅行，3月24日發病，3月28日通報，3月31日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 312,
+        "reportedOn": "3/31",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "境外移入，英國工作，3月22日發病，3月29日通報，3月31日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 313,
+        "reportedOn": "3/31",
+        "ageEstimate": "40多歲",
+        "gender": "女性",
+        "notes": "境外移入，長住英國工作，3月22日發病，3月29日通報，3月31日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 314,
+        "reportedOn": "3/31",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，美國就學，3月12日發病，3月28日通報，3月31日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 315,
+        "reportedOn": "3/31",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，英國就學，和案257、258、300同校。3月25日發病，3月27日通報，3月31日確診。",
+        "contractedFrom": "P257",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 316,
+        "reportedOn": "3/31",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，美國工作。3月28日發病，3月29日通報，3月31日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 317,
+        "reportedOn": "3/31",
+        "ageEstimate": "60多歲",
+        "gender": "男性",
+        "notes": "境外移入，台美兩地往返居住。3月26日發病，3月29日通報，3月31日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 318,
+        "reportedOn": "3/31",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，法國就學，案122同班機接觸者。3月27日發病，3月29日通報，3月31日確診。",
+        "contractedFrom": "P122",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 319,
+        "reportedOn": "3/31",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "境外移入，英國工作。3月1日發病，3月29日通報，3月31日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 320,
+        "reportedOn": "3/31",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "境外移入，英國就學。3月17日發病，3月30日通報，3月31日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 321,
+        "reportedOn": "3/31",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，瑞士工作。3月29日通報，3月31日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 322,
+        "reportedOn": "3/31",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "本土病例。3月26日發病，3月30日通報，3月31日確診。",
+        "status": "Domestic Infection"
+    },
+    {
+        "patientId": 323,
+        "reportedOn": "2020-01-03T16:00:00.000Z",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，1月6日至3月19日赴英國就學。3月23日發病，3月26日通報，4月1日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 324,
+        "reportedOn": "2020-01-03T16:00:00.000Z",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，2019年9月16日至2020年3月25日赴美國就學。3月27日發病，3月30日通報，4月1日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 325,
+        "reportedOn": "2020-01-03T16:00:00.000Z",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，2月6日至3月30日赴美國自助旅遊。3月23日發病，3月30日通報，4月1日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 326,
+        "reportedOn": "2020-01-03T16:00:00.000Z",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "境外移入，1月19日至3月30日赴美國就學。2月29日發病，3月30日通報，4月1日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 327,
+        "reportedOn": "2020-01-03T16:00:00.000Z",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "境外移入，2019年5月7日至2020年3月30日赴美國工作。3月22日發病，3月30日通報，4月1日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 328,
+        "reportedOn": "2020-01-03T16:00:00.000Z",
+        "ageEstimate": "70多歲",
+        "gender": "男性",
+        "notes": "境外移入，2019年12月31日至2020年3月30日赴美國探親。3月21日發病，3月30日通報，4月1日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 329,
+        "reportedOn": "2020-01-03T16:00:00.000Z",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，2月6日至3月30日赴美國自助旅遊。3月24日發病，3月30日通報，4月1日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 330,
+        "reportedOn": "2020-02-03T16:00:00.000Z",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，3月14日至3月18日赴美國工作。3月28日發病，3月30日通報，4月2日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 331,
+        "reportedOn": "2020-02-03T16:00:00.000Z",
+        "ageEstimate": "60多歲",
+        "gender": "男性",
+        "notes": "境外移入，2月27日至3月23日赴祕魯、智 利、阿根廷、玻利維亞、巴西旅遊，與案259同團。3月28日發病，3月30日通報，4月2日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 332,
+        "reportedOn": "2020-02-03T16:00:00.000Z",
+        "ageEstimate": "10多歲",
+        "gender": "男性",
+        "notes": "境外移入，3月6日至3月30日赴英國就學。3月25日發病，3月31日通報，4月2日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 333,
+        "reportedOn": "2020-02-03T16:00:00.000Z",
+        "ageEstimate": "60多歲",
+        "gender": "女性",
+        "notes": "境外移入，1月14日至3月15日赴丹麥與老公(案155)同去探親。3月15日發病，3月20日通報，4月2日確診。",
+        "contractedFrom": "P155",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 334,
+        "reportedOn": "2020-02-03T16:00:00.000Z",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "境外移入，1月4日至3月6日赴加拿大就學、3月7日至3月19日赴美國自由行(與案182、案303同團)。3月30日發病，3月30日通報，4月2日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 335,
+        "reportedOn": "2020-02-03T16:00:00.000Z",
+        "ageEstimate": "50多歲",
+        "gender": "男性",
+        "notes": "本土病例，3月23日發病，3月31日通報，4月2日確診。",
+        "status": "Domestic Infection"
+    },
+    {
+        "patientId": 336,
+        "reportedOn": "2020-02-03T16:00:00.000Z",
+        "ageEstimate": "50多歲",
+        "gender": "女性",
+        "notes": "本土病例，社區保全，3月17日發病，3月31日通報，4月2日確診。",
+        "status": "Domestic Infection"
+    },
+    {
+        "patientId": 337,
+        "reportedOn": "2020-02-03T16:00:00.000Z",
+        "ageEstimate": "10多歲",
+        "gender": "男性",
+        "notes": "境外移入，2019年9月6日至2020年3月26日赴英國就學。3月26日發病，3月31日通報，4月2日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 338,
+        "reportedOn": "2020-02-03T16:00:00.000Z",
+        "ageEstimate": "60多歲",
+        "gender": "男性",
+        "notes": "境外移入，3月5日至3月14日赴奧地利、捷克旅遊，奧捷團(61、72、104、108接觸者)。3月14日發病，3月30日通報，4月2日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 339,
+        "reportedOn": "2020-02-03T16:00:00.000Z",
+        "ageEstimate": "50多歲",
+        "gender": "男性",
+        "notes": "境外移入，1月29日至3月31日赴印尼工作。3月23日發病，3月31日通報，4月2日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 340,
+        "reportedOn": "2020-03-03T16:00:00.000Z",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "境外移入，1月9日至3月13日赴丹麥就學，3月13日至17日赴英國，28日發病，4月3日確診",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 341,
+        "reportedOn": "2020-03-03T16:00:00.000Z",
+        "ageEstimate": "60多歲",
+        "gender": "女性",
+        "notes": "境外移入，案338之妻子，曾一同參加奧捷旅遊團，3月25日發病，4月3日確診。該旅遊團截至目前共計6人確診。",
+        "contractedFrom": "P338",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 342,
+        "reportedOn": "2020-03-03T16:00:00.000Z",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "境外移入，1月8日至3月24日赴英國工作，30日發病，4月3日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 343,
+        "reportedOn": "2020-03-03T16:00:00.000Z",
+        "ageEstimate": "60多歲",
+        "gender": "女性",
+        "notes": "本土病例，無出國史，但其夫3月17日自美國返台。3月20日出現咳嗽、流鼻水等症狀，曾於24日至28日期間多次就診，31日再度就醫即收治住院採檢，4月3日確診。",
+        "status": "Domestic Infection"
+    },
+    {
+        "patientId": 344,
+        "reportedOn": "2020-03-03T16:00:00.000Z",
+        "ageEstimate": "40多歲",
+        "gender": "女性",
+        "notes": "境外移入，案182之妻子，曾一同參加美國自助旅遊團；20日陪案182就醫時採檢陰性，30日出現發燒後收治住院採檢，4月3日確診。該旅遊團截至目前共計5人確診。",
+        "contractedFrom": "P182",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 345,
+        "reportedOn": "2020-03-03T16:00:00.000Z",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "境外移入，3月9日至20日赴泰國工作，28日發病，4月3日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 346,
+        "reportedOn": "2020-03-03T16:00:00.000Z",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，1月16日至3月30日赴美國就學，25日發病，4月1日通報，3日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 347,
+        "reportedOn": "2020-03-03T16:00:00.000Z",
+        "ageEstimate": "40多歲",
+        "gender": "女性",
+        "notes": "本土病例，案336接觸者，無出國史，曾於3月19日及27日與案336接觸過，24日發病，二度就診未緩解，31日再度就醫即收治住院採檢，今日確診。",
+        "contractedFrom": "P336",
+        "status": "Domestic Infection"
+    },
+    {
+        "patientId": 348,
+        "reportedOn": "2020-03-03T16:00:00.000Z",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "境外移入，1月26日至4月1日赴美國就學，19日發病，返台時於機場欄檢，4月3日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 349,
+        "reportedOn": "2020-04-03T16:00:00.000Z",
+        "ageEstimate": "20多歲",
+        "gender": "男性",
+        "notes": "2月14至3月15日赴瑞士就學，16日發病，4月4日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 350,
+        "reportedOn": "2020-04-03T16:00:00.000Z",
+        "ageEstimate": "30多歲",
+        "gender": "男性",
+        "notes": "3月12日至18日赴美工作，返國時與案197及案202搭乘同班機，30日發病，4月2日居家隔離期結束後自行就醫，4日確診。",
+        "contractedFrom": "P197",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 351,
+        "reportedOn": "2020-04-03T16:00:00.000Z",
+        "ageEstimate": "20多歲",
+        "gender": "女性",
+        "notes": "1月2日至3月21日至德國就學，26日發病，4月4日確診",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 352,
+        "reportedOn": "2020-04-03T16:00:00.000Z",
+        "ageEstimate": "40多歲",
+        "gender": "男性",
+        "notes": "本土病例，無出國史，3月30日發燒就醫，4月1日因味覺及嗅覺喪失至同一診所就醫，隔天再至醫院就醫後收治住院並採檢通報，4日確診。",
+        "status": "Domestic Infection"
+    },
+    {
+        "patientId": 353,
+        "reportedOn": "2020-04-03T16:00:00.000Z",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "2019年5月至2020年3月26日至英國工作，27日發病，4月4日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 354,
+        "reportedOn": "2020-04-03T16:00:00.000Z",
+        "ageEstimate": "30多歲",
+        "gender": "女性",
+        "notes": "2019年10月至2020年4月2日赴美工作、長住美國，3月27日發病，返國時於機場攔檢，4月4日確診。",
+        "status": "Foreign Infection"
+    },
+    {
+        "patientId": 355,
+        "reportedOn": "2020-04-03T16:00:00.000Z",
+        "ageEstimate": "60多歲",
+        "gender": "女性",
+        "notes": "2月20日至3月25日參加南美旅遊團，因與案259及331同團列為接觸者，無疑似症狀，居家隔離期間於4月2日由衛生單位安排就醫採檢，4日確診。該團目前共3人確診。",
+        "contractedFrom": "P259",
+        "status": "Foreign Infection"
+    }
+], 
+            "summary": {
+                  "total": 355
+            }, 
+            "source": "covid19india.org", 
+            "lastRefreshed": "2020-03-31T20:30:06.712Z"
+      }, 
+      "success": true, 
+      "lastOriginUpdate": "2020-03-31T20:30:06.712Z", 
+      "lastRefreshed": "2020-03-31T20:30:06.712Z"
+}
+
