@@ -4,7 +4,7 @@ This is a dashboard of network connections and clusters to track outbreak and tr
 
 Primary app is at [https://covid19Taiwan-network.now.sh](https://covid19Taiwan-network.now.sh/).
 
-![enter image description here](https://drive.google.com/uc?id=125LIlXYFvkC6iTZHbLtp6fPWe2C9IxXJ)
+![enter image description here](https://drive.google.com/uc?id=1FpdWFAAV7sVdv1INKXRRT8jv3AamKIXF)
 
 ## Roadmap
 
