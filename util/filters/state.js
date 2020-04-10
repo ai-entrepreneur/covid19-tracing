@@ -21,7 +21,7 @@ export const addStates = (graph, patients, states) => {
 
   for (let patientId in patients) {
     if(!patients[patientId].state){
-      console.log(patients[patientId]);
+      // console.log(patients[patientId]);
       continue;
     }
     let edge = {

@@ -51,7 +51,7 @@ module.exports = async (req, res) => {
   let resp = {
     success: true,
     data: {
-      source: 'covid19india.org',
+      source: 'covid19tw.org',
       lastRefreshed: new Date(),
       summary: {
         total: rows.length,

@@ -6,8 +6,24 @@ import { plane_abroad_node, plane_local_node } from '../../images'
 
 export const addTravel = (graph, patients) => {
   let locations = {}
-
+  
   for (let patientId in patients) {
+    patients[patientId]["place_attributes"]= [
+      {
+        "place": patients[patientId].travel==null?"No Travel":patients[patientId].travel, 
+        "is_foreign": true
+      }
+    ]
+    // console.log('>>>>>>>>>>>>>>>>>',patients[patientId])
+    // console.log('################',patients[patientId].place_attributes)
+    
+    // patients[patientId]['place_attributes']=[ 
+    //   {
+    //     "place":patients[patientId].travel,
+
+    //   }
+    // ]
+
     if (patients[patientId].place_attributes !== null) {
       patients[patientId].place_attributes.forEach(loc => {
         if (!locations[hash(loc.place)]) {
@@ -61,6 +77,7 @@ export const removeTravel = (graph, patients) => {
 
   for (let patientId in patients) {
     if (patients[patientId].place_attributes !== null) {
+      console.log("<<<<<<<<<<<<<<<<<",patients[patientId].place_attributes)
       patients[patientId].place_attributes.forEach(loc => {
         if (!locations[hash(loc.place)]) {
           locations[hash(loc.place)] = loc

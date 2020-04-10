@@ -26,7 +26,7 @@ const filters = [
       return graph
     },
   },
-  { name: 'State', icon: state, add: addStates, remove: removeStates },
+  { name: 'Region', icon: state, add: addStates, remove: removeStates },
   { name: 'City', icon: city, add: addCities, remove: removeCities },
   { name: 'Travel', icon: abroad, add: addTravel, remove: removeTravel },
 ]
@@ -119,7 +119,7 @@ const FilterPanel = ({
 
     selectFilter(name)
     newGraph = choosenFilter.add(newGraph, patients.byId, states)
-    console.log(newGraph)
+    // console.log(newGraph)
     updateGraph(newGraph)
   }
   const FilterHeader = styled.div`

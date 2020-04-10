@@ -64,13 +64,13 @@ export default function DataGrid(patient) {
         <Cell name="Gender">{gender ? genderInitCap : '-'}</Cell>
         <Cell name="Age">{ageEstimate ? ageEstimate : '-'}</Cell>
       </DoubleCell>
-      <DoubleCell>
-        <Cell name="Living City">{city ? city : district}</Cell>
-        <Cell name="Visited">{state ? state : '-'}</Cell>
-      </DoubleCell>
-      <Cell name="Status">{status}</Cell>
       <Cell name="Reported On">{reportedOn}</Cell>
+      <Cell name="Status">{status}</Cell>
       <Cell name="Notes">{notes}</Cell>
+      <DoubleCell>
+        <Cell name="City">{city ? city : district}</Cell>
+        <Cell name="Region">{state ? state : '-'}</Cell>
+      </DoubleCell>
       <Cell name="Sources">
         {sources
           ? sources.map((source, i) => (

@@ -74,7 +74,7 @@ function Header({ patient, lastRefreshed, setSearchTerm }) {
       <SearchInput searchTerm={onSearch} />
       <PatientContainer>
         <Image src={getIcon(patient)} />
-        <Name>P {patientId.toString().substring(2)}</Name>
+        <Name>  Patient {patientId.toString().substring(2)}</Name>
       </PatientContainer>
     </Container>
   )

@@ -33,7 +33,9 @@ const NetworkMap = ({
   }))
   useEffect(() => {
     if(!states){
-      fetch('https://api.covid19india.org/state_district_wise.json', {
+      // fetch('https://api.covid19india.org/state_district_wise.json', {
+        // fetch('http://localhost:5000/api/tw/state',{
+        fetch('https://ai-entrepreneur.github.io/covid19-tracing/data/state_district_wise_tw.json',{
         cors: 'no-cors',
         method: 'GET',
         redirect: 'follow',
@@ -49,7 +51,8 @@ const NetworkMap = ({
   })
 
   useEffect(() => {
-      fetch('https://ai-entrepreneur.github.io/covid19-tracing/data/covid19_tw_0404_p01_to_p355.json',{
+      fetch('https://ai-entrepreneur.github.io/covid19-tracing/data/covid19_tw_2020_0408.json',{
+      // fetch('http://localhost:5000/api/tw',{
       cors: 'no-cors',
       method: 'GET',
       redirect: 'follow',

@@ -56,11 +56,11 @@ function DatePicker({ updateGraph, selectFilter }) {
     const newDate = formatDate(date)
 
     if (formatDate(selectedDay) !== newDate) {
-      console.log(newDate)
       changeSelectedDay(date)
 
       const apiURL =
-      'https://ai-entrepreneur.github.io/covid19-tracing/data/covid19_tw_0404_p01_to_p355.json'
+      'https://ai-entrepreneur.github.io/covid19-tracing/data/covid19_tw_2020_0408.json'
+      // 'http://localhost:5000/api/tw'
         // newDate
 
       fetch(apiURL, {
@@ -70,7 +70,7 @@ function DatePicker({ updateGraph, selectFilter }) {
       })
         .then(resp => resp.json())
         .then(res => {
-          console.log(res)
+          // console.log(res)
           // Update the graph only if res.success is true
           if(res.success){
             updateGraph(rowsToGraph(res.data.rawPatientData))

@@ -3,10 +3,14 @@ import { state_node, city_node } from '../../images'
 import _ from 'lodash'
 import dotProp from 'dot-prop-immutable'
 
-function getCityDistrictOrState(patients, patientId) {
-    return patients[patientId].city
-        ? patients[patientId].city
-        : (patients[patientId].district ? patients[patientId].district : (patients[patientId].state?patients[patientId].state:"No State"));
+// function getCityDistrictOrState(patients, patientId) {
+//     return patients[patientId].city
+//         ? patients[patientId].city
+//         : (patients[patientId].district ? patients[patientId].district : (patients[patientId].state?patients[patientId].state:"No State"));
+// }
+
+function getTravel(patients,patientId){
+    return patients[patientId].travel ? patients[patientId].travel :"No Travel";
 }
 
 export const addCities = (graph, patients) => {
@@ -32,7 +36,20 @@ export const addCities = (graph, patients) => {
     }
   }
 
-  // console.log('State map', states, 'State Cities Map:', stateCitiesMap)
+//   console.log('State map', states, 'State Cities Map:', stateCitiesMap)
+
+export const addTravel = (graph, patients) =>{
+    let travelKey;
+    let key;
+    
+    for(let )
+
+
+}
+
+
+
+
 
   for (key in states) {
     let node = {
@@ -132,7 +149,7 @@ export const removeCities = (graph, patients) => {
     }
   }
 
-  // console.log('State map', states, 'State Cities Map:', stateCitiesMap)
+//   console.log('State map', states, 'State Cities Map:', stateCitiesMap)
   for (key in states) {
     let node = {
       id: key + 1,
