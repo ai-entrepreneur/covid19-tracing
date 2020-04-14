@@ -32,7 +32,7 @@ export const SearchInput = ({ searchTerm }) => {
 
   return (
     <Input
-      placeholder="輸入病人編號 (Type patient number)..."
+      placeholder="Type patient number (Ex: 34)"
       value={term}
       onChange={handleTextChange}
       aria-label="Search input"

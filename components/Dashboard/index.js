@@ -22,7 +22,7 @@ const Container = styled.div`
 
   @media screen and (max-width: 768px) {
     grid-template-columns: 1fr;
-    grid-template-rows: 50% 10% 40%;
+    grid-template-rows: 55% 10% 35%;
   }
 `
 
@@ -33,7 +33,7 @@ const Dashboard = () => {
         {isMobile && (
           <NoSSR>
             <NetworkMap
-              height={isMobile ? '50%' : '100%'}
+              height={isMobile ? '55%' : '100%'}
               width={isMobile ? '100%' : '70%'}
             />
           </NoSSR>
