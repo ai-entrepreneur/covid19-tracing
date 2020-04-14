@@ -80,14 +80,14 @@ const NetworkMapLegend = ({ currentFilter }) => {
             {['State', 'City'].includes(currentFilter) ?
                 <ImageContainer>
                     <Image src={state_node} />
-                    <Label>State</Label>
+                    <Label>區域 (Region)</Label>
                 </ImageContainer>
                 : null
             }
             {currentFilter === 'City' ?
                 <ImageContainer>
                     <Image src={city_node} />
-                    <Label>City</Label>
+                    <Label>城市 (City)</Label>
                 </ImageContainer>
                 : null
             }

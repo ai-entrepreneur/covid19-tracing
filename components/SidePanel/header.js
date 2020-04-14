@@ -69,7 +69,7 @@ function Header({ patient, lastRefreshed, setSearchTerm }) {
   return (
     <Container>
       <Title>
-      <Dot>&nbsp;&middot;&nbsp;</Dot> Ernie's Covid19 Search
+      <Dot>&nbsp;&middot;&nbsp;</Dot> TW Covid19 Search Panel
          {/* <Dot>&nbsp;&middot;&nbsp;</Dot> {getTimeDiff()} */}
       </Title>
       <SearchInput searchTerm={onSearch} />

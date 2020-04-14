@@ -55,7 +55,7 @@ const FilterMenuContainer = styled.div`
   grid-template-rows: 10% 10% 10% 10% 60%;
   overflow: auto;
   font-family: 'Lato', sans-serif;
-  color: #7c7a7a;
+  color: #ffffff;
   font-weight: bold;
 
   @media screen and (max-width: 768px) {
@@ -72,7 +72,7 @@ const FilterCategory = ({ filter, onClick, selected }) => {
     justify-content: space-evenly;
     height: '20vh';
     user-select: none;
-    background-color: ${props => (props.selected ? '#d6d6d6' : '#283d6b')};
+    background-color: ${props => (props.selected ? '#4b74cc' : '#283d6b')};
     transition: all 0.2s ease-out;
     cursor: pointer;
     &:hover {
@@ -135,7 +135,8 @@ const FilterPanel = ({
   `
   return (
     <HeaderContainer>
-      <FilterHeader>Cluster Filter</FilterHeader>
+      <FilterHeader>Ernie's Design</FilterHeader>
+      
       <FilterMenuContainer>
         {filters.map((filterItem, filterIndex) => (
           <Fragment key={filterIndex}>
