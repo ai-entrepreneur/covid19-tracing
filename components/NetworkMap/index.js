@@ -51,7 +51,8 @@ const NetworkMap = ({
   })
 
   useEffect(() => {
-      fetch('https://ai-entrepreneur.github.io/covid19-tracing/data/covid19_tw_2020_0408.json',{
+      // fetch('https://ai-entrepreneur.github.io/covid19-tracing/data/covid19_tw_2020_0408.json',{
+        fetch('https://ai-entrepreneur.github.io/covid19-tracing/data/covid19_tw_today.json',{
       // fetch('http://localhost:5000/api/tw',{
       cors: 'no-cors',
       method: 'GET',

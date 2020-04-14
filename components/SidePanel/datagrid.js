@@ -66,12 +66,12 @@ export default function DataGrid(patient) {
       </DoubleCell>
       <Cell name="Reported On">{reportedOn}</Cell>
       <Cell name="Status">{status}</Cell>
-      <Cell name="Notes">{notes}</Cell>
       <DoubleCell>
-        <Cell name="City">{city ? city : district}</Cell>
         <Cell name="Region">{state ? state : '-'}</Cell>
+        <Cell name="City">{city ? city : district}</Cell>
       </DoubleCell>
-      <Cell name="Sources">
+      <Cell name="Notes">{notes}</Cell>
+      {/* <Cell name="Sources">
         {sources
           ? sources.map((source, i) => (
               <div key={i}>
@@ -90,7 +90,7 @@ export default function DataGrid(patient) {
               </div>
             ))
           : null}
-      </Cell>
+      </Cell> */}
     </Container>
   )
 }

@@ -73,10 +73,10 @@ export function letterToCode(str) {
 
 export function getIcon(patient) {
   // if (patient.gender === 'male') {
-  if (patient.gender === '男性') {
-    if (patient.status === 'Foreign Infection') {
+  if (patient.gender === '男') {
+    if (patient.status === '境外') {
       return male_cured
-    } else if (patient.status === 'Domestic Infection') {
+    } else if (patient.status === '本土') {
       return male_hosp
     } else if (patient.status === 'Unknown Infection') {
       return male_dead
@@ -84,10 +84,10 @@ export function getIcon(patient) {
       return male_hosp
     }
   // } else if (patient.gender === 'female') {
-  } else if (patient.gender === '女性') {
-    if (patient.status === 'Foreign Infection') {
+  } else if (patient.gender === '女') {
+    if (patient.status === '境外') {
       return female_cured
-    } else if (patient.status === 'Domestic Infection') {
+    } else if (patient.status === '本土') {
       return female_hosp
     } else if (patient.status === 'Unknown Infection') {
       return female_dead

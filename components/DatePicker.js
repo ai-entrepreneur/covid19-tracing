@@ -59,7 +59,8 @@ function DatePicker({ updateGraph, selectFilter }) {
       changeSelectedDay(date)
 
       const apiURL =
-      'https://ai-entrepreneur.github.io/covid19-tracing/data/covid19_tw_2020_0408.json'
+      // 'https://ai-entrepreneur.github.io/covid19-tracing/data/covid19_tw_2020_0408.json'
+      'https://ai-entrepreneur.github.io/covid19-tracing/data/covid19_tw_today.json'
       // 'http://localhost:5000/api/tw'
         // newDate
 

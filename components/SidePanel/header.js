@@ -15,7 +15,7 @@ const Title = styled.div`
   text-transform: uppercase;
   font-weight: bold;
   font-size: 18px;
-  color: #858383;
+  color: #ffffff;
 `
 
 const Dot = styled.div`
@@ -33,6 +33,7 @@ const PatientContainer = styled.div`
   padding: 15px;
   padding-left: 0;
   user-select: text;
+  color: white;
 `
 
 const Image = styled.img`
@@ -68,13 +69,13 @@ function Header({ patient, lastRefreshed, setSearchTerm }) {
   return (
     <Container>
       <Title>
-      <Dot>&nbsp;&middot;&nbsp;</Dot> Ernie's Covid19 Search Engine
+      <Dot>&nbsp;&middot;&nbsp;</Dot> Ernie's Covid19 Search
          {/* <Dot>&nbsp;&middot;&nbsp;</Dot> {getTimeDiff()} */}
       </Title>
       <SearchInput searchTerm={onSearch} />
       <PatientContainer>
         <Image src={getIcon(patient)} />
-        <Name>  Patient {patientId.toString().substring(2)}</Name>
+        <Name> Patient {patientId.toString().substring(2)} </Name>
       </PatientContainer>
     </Container>
   )

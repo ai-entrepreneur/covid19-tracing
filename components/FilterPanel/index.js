@@ -35,12 +35,12 @@ const filters = [
 
 const HeaderContainer = styled.div`
   padding-top: 10px;
-  background-color: #f2f2f2;
+  background-color: #283d6b;
   display: grid;
   grid-template-rows: 7% 93%;
   overflow: auto;
   font-family: 'Lato', sans-serif;
-  color: #7c7a7a;
+  color: white;
   font-weight: bold;
 
   @media screen and (max-width: 768px) {
@@ -72,7 +72,7 @@ const FilterCategory = ({ filter, onClick, selected }) => {
     justify-content: space-evenly;
     height: '20vh';
     user-select: none;
-    background-color: ${props => (props.selected ? '#d6d6d6' : '#F2F2F2')};
+    background-color: ${props => (props.selected ? '#d6d6d6' : '#283d6b')};
     transition: all 0.2s ease-out;
     cursor: pointer;
     &:hover {

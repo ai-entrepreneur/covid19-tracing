@@ -67,15 +67,15 @@ const NetworkMapLegend = ({ currentFilter }) => {
         <LegendContainer>
             <ImageContainer>
                 <Image src={male_cured} />
-                <Label>Foreign Infection</Label>
+                <Label>境外感染 (Foreign Infection)</Label>
             </ImageContainer>
             <ImageContainer>
                 <Image src={male_hosp} />
-                <Label>Doemestic Infection</Label>
+                <Label>境內感染 (Domestic Infection)</Label>
             </ImageContainer>
             <ImageContainer>
                 <Image src={male_dead} />
-                <Label>Unknown Infection</Label>
+                <Label>未知感染 (UnKnown Infection)</Label>
             </ImageContainer>
             {['State', 'City'].includes(currentFilter) ?
                 <ImageContainer>
@@ -95,11 +95,11 @@ const NetworkMapLegend = ({ currentFilter }) => {
                 <>
                     <ImageContainer>
                         <Image src={plane_local_node} />
-                        <Label>Domestic</Label>
+                        <Label>國內 (Domestic)</Label>
                     </ImageContainer>
                     <ImageContainer>
                         <Image src={plane_abroad_node} />
-                        <Label>International</Label>
+                        <Label>國外 (International)</Label>
                     </ImageContainer>
                 </>
                 : null

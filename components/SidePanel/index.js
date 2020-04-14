@@ -6,7 +6,7 @@ import Header from './header'
 import DataGrid from './datagrid'
 
 const Container = styled.div`
-  background-color: #fafafa;
+  background-color: #3b5998;
   padding: 15px;
   overflow: auto;
 `
