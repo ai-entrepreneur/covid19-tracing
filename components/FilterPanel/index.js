@@ -135,7 +135,7 @@ const FilterPanel = ({
   `
   return (
     <HeaderContainer>
-      <FilterHeader>Ernie's Design</FilterHeader>
+      <FilterHeader>Ernie's Redesign</FilterHeader>
       
       <FilterMenuContainer>
         {filters.map((filterItem, filterIndex) => (
