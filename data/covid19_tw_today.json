@@ -12,7 +12,7 @@
         "city": "高雄",
         "status": "境外",
         "travel": "中國武漢",
-        "notes": "境外首例\n首例中國傳入\n重症(未插管)痊癒"
+        "notes": "境外首例\n首例中國傳入\n重症(未插管)痊癒, 症狀: 發燒 咳嗽 呼吸急促 肺炎 Y"
     },
     {
         "patientId": 2,
@@ -24,7 +24,7 @@
         "city": "台北",
         "status": "境外",
         "travel": "中國武漢",
-        "notes": "小港機場入境"
+        "notes": "小港機場入境, 症狀: 發燒 "
     },
     {
         "patientId": 3,
@@ -36,7 +36,7 @@
         "city": "高雄",
         "status": "境外",
         "travel": "中國武漢",
-        "notes": "1/22 出入高雄舞廳\n住負壓病房2個月「仍是陽性」"
+        "notes": "1/22 出入高雄舞廳\n住負壓病房2個月「仍是陽性」, 症狀: 感冒 "
     },
     {
         "patientId": 4,
@@ -49,7 +49,7 @@
         "status": "境外",
         "travel": " 中國武漢\n",
         "travelStartDate": " 歐洲",
-        "notes": "咳嗽加劇\n獨自返台"
+        "notes": "咳嗽加劇\n獨自返台, 症狀: 咳嗽 Y"
     },
     {
         "patientId": 5,
@@ -60,7 +60,8 @@
         "state": "中部",
         "city": "彰化",
         "status": "境外",
-        "travel": " 中國武漢"
+        "travel": " 中國武漢",
+        "notes": ", 症狀: 發燒 肌肉痠痛 Y"
     },
     {
         "patientId": 6,
@@ -73,7 +74,7 @@
         "status": "境外",
         "travel": "中國武漢",
         "contractedFrom": "P6 ",
-        "notes": "#6 #7 一同旅遊"
+        "notes": "#6 #7 一同旅遊, 症狀: 發燒 "
     },
     {
         "patientId": 7,
@@ -86,7 +87,7 @@
         "status": "境外",
         "travel": "中國武漢",
         "contractedFrom": "P6 ",
-        "notes": "#6 #7 一同旅遊"
+        "notes": "#6 #7 一同旅遊, 症狀: 發燒 Y"
     },
     {
         "patientId": 8,
@@ -99,7 +100,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P5 ",
-        "notes": "#5 丈夫\n本土首例\n首例家戶感染"
+        "notes": "#5 丈夫\n本土首例\n首例家戶感染, 症狀: 咳嗽 Y"
     },
     {
         "patientId": 9,
@@ -111,7 +112,7 @@
         "city": "南投",
         "status": "本土",
         "travel": "無",
-        "notes": "丈夫武漢工作\n首例先找到被傳染者再往回找到境外移入感染源"
+        "notes": "丈夫武漢工作\n首例先找到被傳染者再往回找到境外移入感染源, 症狀: 有症狀 "
     },
     {
         "patientId": 10,
@@ -124,7 +125,7 @@
         "status": "境外",
         "travel": "中國武漢",
         "contractedFrom": "P9 ",
-        "notes": "#9 丈夫\n職業：武漢台商"
+        "notes": "#9 丈夫\n職業：武漢台商, 症狀: 上呼吸道 Y"
     },
     {
         "patientId": 11,
@@ -136,7 +137,7 @@
         "city": "桃園",
         "status": "境外",
         "travel": "中國武漢",
-        "notes": "職業：武漢台商 (武漢包機)"
+        "notes": "職業：武漢台商 (武漢包機), 症狀: 發燒 Y"
     },
     {
         "patientId": 12,
@@ -149,7 +150,7 @@
         "status": "境外",
         "travel": " 中國武漢\n",
         "travelStartDate": " 遼寧",
-        "notes": "職業：武漢台商"
+        "notes": "職業：武漢台商, 症狀: 發燒 咳嗽 頭痛 肺炎 Y"
     },
     {
         "patientId": 13,
@@ -161,7 +162,7 @@
         "city": "宜蘭",
         "status": "境外",
         "travel": " 中國武漢 深圳",
-        "notes": "長住武漢"
+        "notes": "長住武漢, 症狀: 咳嗽有痰 胸悶 肺炎 Y"
     },
     {
         "patientId": 14,
@@ -175,7 +176,7 @@
         "travel": " 香港轉機 義大利\n",
         "travelStartDate": " 香港轉機",
         "contractedFrom": "P14 ",
-        "notes": "義大利旅遊群聚\n#14 #15 為夫妻， #14 #15 兒子"
+        "notes": "義大利旅遊群聚\n#14 #15 為夫妻， #14 #15 兒子, 症狀: 咳嗽 發燒 肺炎 "
     },
     {
         "patientId": 15,
@@ -189,7 +190,7 @@
         "travel": " 香港轉機 義大利\n",
         "travelStartDate": " 香港轉機",
         "contractedFrom": "P14 ",
-        "notes": "義大利旅遊群聚\n#14 #15 為夫妻， #14 #15 兒子"
+        "notes": "義大利旅遊群聚\n#14 #15 為夫妻， #14 #15 兒子, 症狀: 咳嗽 "
     },
     {
         "patientId": 16,
@@ -200,7 +201,8 @@
         "state": "南部",
         "city": "台南",
         "status": "境外",
-        "travel": " 澳門"
+        "travel": " 澳門",
+        "notes": ", 症狀: 發燒 寒顫 喉嚨痛 流鼻水 走路會喘 Y"
     },
     {
         "patientId": 17,
@@ -214,7 +216,7 @@
         "travel": " 香港轉機 義大利\n",
         "travelStartDate": " 香港轉機",
         "contractedFrom": "P14 ",
-        "notes": "義大利旅遊群聚\n#14 #15 為夫妻， #14 #15 兒子"
+        "notes": "義大利旅遊群聚\n#14 #15 為夫妻， #14 #15 兒子, 症狀: 咳嗽 Y"
     },
     {
         "patientId": 18,
@@ -228,7 +230,7 @@
         "travel": " 香港轉機 義大利\n",
         "travelStartDate": " 香港轉機",
         "contractedFrom": "P14 ",
-        "notes": "義大利旅遊群聚\n#14 #15 為夫妻， #14 #15 兒子"
+        "notes": "義大利旅遊群聚\n#14 #15 為夫妻， #14 #15 兒子, 症狀: 首例無症狀 "
     },
     {
         "patientId": 19,
@@ -240,7 +242,7 @@
         "city": "彰化",
         "status": "本土",
         "travel": "無",
-        "notes": "白牌計程車司機\n2/15 肺炎併敗血症死亡, 遺體經家屬同意火化並保留部分檢體採檢後確診\n首例死亡\nR.I.P."
+        "notes": "白牌計程車司機\n2/15 肺炎併敗血症死亡, 遺體經家屬同意火化並保留部分檢體採檢後確診\n首例死亡\nR.I.P., 症狀: 咳嗽 呼吸急促 肺炎 N"
     },
     {
         "patientId": 20,
@@ -253,7 +255,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P19 ",
-        "notes": "#19 弟弟"
+        "notes": "#19 弟弟, 症狀: 無症狀 "
     },
     {
         "patientId": 21,
@@ -266,7 +268,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P19 ",
-        "notes": "#19 母親"
+        "notes": "#19 母親, 症狀: 出現症狀 "
     },
     {
         "patientId": 22,
@@ -279,7 +281,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P19 ",
-        "notes": "#19 外甥女婿"
+        "notes": "#19 外甥女婿, 症狀: 發燒 咳嗽 "
     },
     {
         "patientId": 23,
@@ -292,7 +294,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P19 ",
-        "notes": "#19 妹妹"
+        "notes": "#19 妹妹, 症狀: 發燒 咳嗽 喉嚨痛 心律不整 "
     },
     {
         "patientId": 24,
@@ -304,7 +306,7 @@
         "city": "新北",
         "status": "本土",
         "travel": "無",
-        "notes": "重症(3/22會後記者會:已拔管解隔離)"
+        "notes": "重症(3/22會後記者會:已拔管解隔離), 症狀: 發燒 咳嗽 呼吸急促 肺炎 "
     },
     {
         "patientId": 25,
@@ -317,7 +319,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P24 ",
-        "notes": "#24 外孫女 2/12 探病"
+        "notes": "#24 外孫女 2/12 探病, 症狀: 咳嗽 發燒 "
     },
     {
         "patientId": 26,
@@ -330,7 +332,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P24 ",
-        "notes": "#24 小女兒 與#24同住"
+        "notes": "#24 小女兒 與#24同住, 症狀: 無症狀 "
     },
     {
         "patientId": 27,
@@ -342,7 +344,7 @@
         "city": "新北",
         "status": "本土",
         "travel": "無",
-        "notes": "3/20 武漢肺炎併發敗血症死亡\nR.I.P."
+        "notes": "3/20 武漢肺炎併發敗血症死亡\nR.I.P., 症狀: 咳嗽 流鼻水 發燒 診斷為肺炎 呼吸急促 N"
     },
     {
         "patientId": 28,
@@ -355,7 +357,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P27 ",
-        "notes": "#27 兒子"
+        "notes": "#27 兒子, 症狀: 發燒 流鼻水 喉嚨痛 肺炎 "
     },
     {
         "patientId": 29,
@@ -368,7 +370,7 @@
         "status": "本土",
         "travel": "中國廣州 武漢等",
         "contractedFrom": "P27 ",
-        "notes": "#27 兒子\n工作頻繁往返中國武漢及其他地區\n2019-12 廣州返台\n過年期間與中國旅遊史友人聚餐\n(友人陰性)"
+        "notes": "#27 兒子\n工作頻繁往返中國武漢及其他地區\n2019-12 廣州返台\n過年期間與中國旅遊史友人聚餐\n(友人陰性), 症狀: 喉嚨不適 "
     },
     {
         "patientId": 30,
@@ -381,7 +383,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P27 ",
-        "notes": "#27 妻子\n2/24 確診無不適症狀"
+        "notes": "#27 妻子\n2/24 確診無不適症狀, 症狀: 急性咽炎 呼吸道症狀 "
     },
     {
         "patientId": 31,
@@ -394,7 +396,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P27 ",
-        "notes": "#27 孫子\n#28 兒子\n2/11 2/19 探視#27"
+        "notes": "#27 孫子\n#28 兒子\n2/11 2/19 探視#27, 症狀: 無症狀 "
     },
     {
         "patientId": 32,
@@ -407,7 +409,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P27 ",
-        "notes": "#27 外籍看護"
+        "notes": "#27 外籍看護, 症狀: 喉嚨不適 "
     },
     {
         "patientId": 33,
@@ -419,7 +421,7 @@
         "city": "桃園",
         "status": "境外",
         "travel": "日本大阪",
-        "notes": "推斷日本感染\n旅遊路徑:http://at.cdc.tw/9qNL5R\n首起非中港澳移入案件"
+        "notes": "推斷日本感染\n旅遊路徑:http://at.cdc.tw/9qNL5R\n首起非中港澳移入案件, 症狀: 咳嗽 喉嚨癢 "
     },
     {
         "patientId": 34,
@@ -431,7 +433,7 @@
         "city": "桃園",
         "status": "本土",
         "travel": "無",
-        "notes": "北部某醫院接觸者\n首起院內感染 首起入院時未確診\n，引發群聚 重症 肺炎有明顯改善但心臟狀況不佳\n3/29 心律不整心衰竭死亡 R.I.P."
+        "notes": "北部某醫院接觸者\n首起院內感染 首起入院時未確診\n，引發群聚 重症 肺炎有明顯改善但心臟狀況不佳\n3/29 心律不整心衰竭死亡 R.I.P., 症狀: 咳嗽 喉嚨痛 發燒 肺炎 低血糖 全身倦怠 N"
     },
     {
         "patientId": 35,
@@ -444,7 +446,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P34",
-        "notes": "職業：北部某醫院清潔人員\n接觸#34"
+        "notes": "職業：北部某醫院清潔人員\n接觸#34, 症狀: 咳嗽 流鼻水 發燒 "
     },
     {
         "patientId": 36,
@@ -457,7 +459,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P34",
-        "notes": "職業：北部某醫院護理人員\n接觸#34"
+        "notes": "職業：北部某醫院護理人員\n接觸#34, 症狀: 咳嗽 流鼻水 發燒 "
     },
     {
         "patientId": 37,
@@ -470,7 +472,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P34",
-        "notes": "職業：北部某醫院護理人員\n接觸#34"
+        "notes": "職業：北部某醫院護理人員\n接觸#34, 症狀: 咳嗽 流鼻水 發燒 "
     },
     {
         "patientId": 38,
@@ -483,7 +485,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P34",
-        "notes": "職業：北部某醫院護理人員\n接觸#34"
+        "notes": "職業：北部某醫院護理人員\n接觸#34, 症狀: 咳嗽 流鼻水 發燒 "
     },
     {
         "patientId": 39,
@@ -495,7 +497,7 @@
         "city": "台北",
         "status": "境外",
         "travel": "阿拉伯－杜拜 埃及",
-        "notes": "首起中東移入案例"
+        "notes": "首起中東移入案例, 症狀: 喉嚨痛 咳嗽 胸悶 肚子不適 嘔吐 "
     },
     {
         "patientId": 40,
@@ -507,7 +509,7 @@
         "city": "台北",
         "status": "境外",
         "travel": "鑽石公主號",
-        "notes": "先前日方陽性確診\n經3次採檢，於今日(3/1)確診"
+        "notes": "先前日方陽性確診\n經3次採檢，於今日(3/1)確診, 症狀:  "
     },
     {
         "patientId": 41,
@@ -520,7 +522,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P34",
-        "notes": "#34 女兒\n2/15-26 探病"
+        "notes": "#34 女兒\n2/15-26 探病, 症狀: 無症狀 "
     },
     {
         "patientId": 42,
@@ -533,7 +535,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P34",
-        "notes": "#34 同病房不同病室陪同家屬"
+        "notes": "#34 同病房不同病室陪同家屬, 症狀: 全身倦怠 咳嗽 呼吸道症狀 "
     },
     {
         "patientId": 43,
@@ -546,7 +548,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P39",
-        "notes": "2/24 25 與#39上插花班"
+        "notes": "2/24 25 與#39上插花班, 症狀: 發燒 喉嚨痛 "
     },
     {
         "patientId": 44,
@@ -558,7 +560,7 @@
         "city": "新北",
         "status": "境外",
         "travel": "菲律賓",
-        "notes": "2/28-3/3 菲律賓旅遊"
+        "notes": "2/28-3/3 菲律賓旅遊, 症狀: 胃脹 腹瀉 喉嚨乾 倦怠 "
     },
     {
         "patientId": 45,
@@ -571,7 +573,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P34",
-        "notes": "#34 同病房不同病室病人"
+        "notes": "#34 同病房不同病室病人, 症狀: 咳嗽 "
     },
     {
         "patientId": 46,
@@ -584,7 +586,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P34",
-        "notes": "#34 #41 同住\n2/28-3/3 二採陰 居家隔離"
+        "notes": "#34 #41 同住\n2/28-3/3 二採陰 居家隔離, 症狀: 咳嗽 "
     },
     {
         "patientId": 47,
@@ -596,7 +598,7 @@
         "city": "台南",
         "status": "境外",
         "travel": "荷蘭",
-        "notes": "3/2-3/5 荷蘭出差\n首起歐洲移入案例"
+        "notes": "3/2-3/5 荷蘭出差\n首起歐洲移入案例, 症狀: 微燒 乾咳 "
     },
     {
         "patientId": 48,
@@ -607,7 +609,8 @@
         "state": "北部",
         "city": "基隆",
         "status": "境外",
-        "travel": "英國"
+        "travel": "英國",
+        "notes": ", 症狀: 頭暈 頭痛 微燒 輕咳 "
     },
     {
         "patientId": 49,
@@ -623,7 +626,8 @@
         "travelEndDate": "\n愛爾蘭\n",
         "entryDate": " 比利時\n",
         "onsetEstimateDate": " 土耳其",
-        "hospitalizationDate": "轉機"
+        "hospitalizationDate": "轉機",
+        "notes": ", 症狀: 頭痛 倦怠 喉嚨痛 "
     },
     {
         "patientId": 50,
@@ -635,7 +639,7 @@
         "city": "台中",
         "status": "本土",
         "travel": "無",
-        "notes": "2/24接待美國友人(2/26離境)"
+        "notes": "2/24接待美國友人(2/26離境), 症狀: 畏寒 咳嗽 發燒 "
     },
     {
         "patientId": 51,
@@ -648,7 +652,7 @@
         "status": "境外",
         "travel": " 奧地利\n",
         "travelStartDate": " 荷蘭",
-        "notes": "職業：荷蘭副機師"
+        "notes": "職業：荷蘭副機師, 症狀: 呼吸困難 胸悶 全身倦怠 肺炎 "
     },
     {
         "patientId": 52,
@@ -664,7 +668,8 @@
         "travelEndDate": "\n瑞士\n",
         "entryDate": " 法國\n",
         "onsetEstimateDate": " 瑞士\n土耳其",
-        "hospitalizationDate": "轉機"
+        "hospitalizationDate": "轉機",
+        "notes": ", 症狀: 發燒 全身倦怠 咳嗽 流鼻水 "
     },
     {
         "patientId": 53,
@@ -675,7 +680,8 @@
         "state": "北部",
         "city": "竹縣",
         "status": "境外",
-        "travel": "德國慕尼黑 紐倫堡"
+        "travel": "德國慕尼黑 紐倫堡",
+        "notes": ", 症狀: 咳嗽有痰 喉嚨痛 "
     },
     {
         "patientId": 54,
@@ -687,7 +693,8 @@
         "city": "北部",
         "status": "境外",
         "travel": " 泰國\n",
-        "travelStartDate": " 日本北海道"
+        "travelStartDate": " 日本北海道",
+        "notes": ", 症狀: 流鼻水 全身倦怠 頭痛 "
     },
     {
         "patientId": 55,
@@ -698,7 +705,8 @@
         "state": "北部",
         "city": "北部",
         "status": "境外",
-        "travel": " 埃及"
+        "travel": " 埃及",
+        "notes": ", 症狀: 全身倦怠 肌肉痠痛 發燒 "
     },
     {
         "patientId": 56,
@@ -712,7 +720,7 @@
         "travel": " 土耳其\n阿拉伯－杜拜",
         "travelStartDate": "轉機",
         "contractedFrom": "P56",
-        "notes": "#56 #57 土耳其團"
+        "notes": "#56 #57 土耳其團, 症狀: 身體不適 喉嚨癢 腹瀉 自覺發熱 "
     },
     {
         "patientId": 57,
@@ -726,7 +734,7 @@
         "travel": " 土耳其\n阿拉伯－杜拜",
         "travelStartDate": "轉機",
         "contractedFrom": "P56",
-        "notes": "#56 #57 土耳其團"
+        "notes": "#56 #57 土耳其團, 症狀: 發燒 "
     },
     {
         "patientId": 58,
@@ -738,7 +746,7 @@
         "city": "北部",
         "status": "境外",
         "travel": "月 西班牙",
-        "notes": "職業：學生"
+        "notes": "職業：學生, 症狀: 發燒 "
     },
     {
         "patientId": 59,
@@ -750,7 +758,7 @@
         "city": "北部",
         "status": "境外",
         "travel": "月 希臘",
-        "notes": "職業：北部高中生\n首次高中該班停課"
+        "notes": "職業：北部高中生\n首次高中該班停課, 症狀: 喉嚨痛 咳嗽 流鼻水 頭痛 "
     },
     {
         "patientId": 60,
@@ -761,7 +769,8 @@
         "state": "中部",
         "city": "台中",
         "status": "境外",
-        "travel": " 義大利 希臘 德國"
+        "travel": " 義大利 希臘 德國",
+        "notes": ", 症狀: 發燒 畏寒 倦怠 "
     },
     {
         "patientId": 61,
@@ -774,7 +783,7 @@
         "status": "境外",
         "travel": " 奧地利 捷克",
         "contractedFrom": "P10",
-        "notes": "重症\n3/18 使用呼吸器\n\n奧捷團群聚 領隊#108 確診病故\n團員#61,#72,#104,#338,#341,#359,#360,#363確診\n總共9人確診 剩餘8團員全數陰性"
+        "notes": "重症\n3/18 使用呼吸器\n\n奧捷團群聚 領隊#108 確診病故\n團員#61,#72,#104,#338,#341,#359,#360,#363確診\n總共9人確診 剩餘8團員全數陰性, 症狀: 發燒 "
     },
     {
         "patientId": 62,
@@ -786,7 +795,7 @@
         "city": "北部",
         "status": "境外",
         "travel": " 菲律賓",
-        "notes": "在菲律賓期間與美國家人接觸(3/14返美)"
+        "notes": "在菲律賓期間與美國家人接觸(3/14返美), 症狀: 發燒 咳嗽 肌肉痠痛 後眼窩痛 "
     },
     {
         "patientId": 63,
@@ -799,7 +808,7 @@
         "status": "境外",
         "travel": " 埃及",
         "contractedFrom": "P55",
-        "notes": "#55 埃及團"
+        "notes": "#55 埃及團, 症狀: 咳嗽有痰 流鼻水 寒顫 "
     },
     {
         "patientId": 64,
@@ -812,7 +821,7 @@
         "status": "境外",
         "travel": " 西班牙",
         "contractedFrom": "P58",
-        "notes": "職業：學生\n與 #58 西班牙同校同系"
+        "notes": "職業：學生\n與 #58 西班牙同校同系, 症狀: 畏寒 流鼻水 眼睛癢 "
     },
     {
         "patientId": 65,
@@ -826,7 +835,7 @@
         "travel": " 土耳其\n阿拉伯－杜拜",
         "travelStartDate": "轉機",
         "contractedFrom": "P56",
-        "notes": "#56 #57 土耳其團"
+        "notes": "#56 #57 土耳其團, 症狀:  "
     },
     {
         "patientId": 66,
@@ -840,7 +849,7 @@
         "travel": " 土耳其\n阿拉伯－杜拜",
         "travelStartDate": "轉機",
         "contractedFrom": "P56",
-        "notes": "#56 #57 土耳其團"
+        "notes": "#56 #57 土耳其團, 症狀:  "
     },
     {
         "patientId": 67,
@@ -854,7 +863,7 @@
         "travel": " 土耳其\n阿拉伯－杜拜",
         "travelStartDate": "轉機",
         "contractedFrom": "P56",
-        "notes": "#56 #57 土耳其團"
+        "notes": "#56 #57 土耳其團, 症狀:  "
     },
     {
         "patientId": 68,
@@ -868,7 +877,7 @@
         "travel": " 土耳其\n阿拉伯－杜拜",
         "travelStartDate": "轉機",
         "contractedFrom": "P56",
-        "notes": "#56 #57 #65 #67 土耳其團"
+        "notes": "#56 #57 #65 #67 土耳其團, 症狀: #68 #69 #70 #73其中一人無症狀 "
     },
     {
         "patientId": 69,
@@ -882,7 +891,7 @@
         "travel": " 土耳其\n阿拉伯－杜拜",
         "travelStartDate": "轉機",
         "contractedFrom": "P56",
-        "notes": "#56 #57 #65 #67 土耳其團"
+        "notes": "#56 #57 #65 #67 土耳其團, 症狀:  "
     },
     {
         "patientId": 70,
@@ -896,7 +905,7 @@
         "travel": " 土耳其\n阿拉伯－杜拜",
         "travelStartDate": "轉機",
         "contractedFrom": "P56",
-        "notes": "#56 #57 #65 #67 土耳其團"
+        "notes": "#56 #57 #65 #67 土耳其團, 症狀:  "
     },
     {
         "patientId": 71,
@@ -909,7 +918,7 @@
         "status": "境外",
         "travel": " 埃及",
         "contractedFrom": "P55",
-        "notes": "#55 #63 埃及團"
+        "notes": "#55 #63 埃及團, 症狀: 咳嗽 流鼻水 腹瀉 肺炎 "
     },
     {
         "patientId": 72,
@@ -922,7 +931,7 @@
         "status": "境外",
         "travel": " 奧地利 捷克",
         "contractedFrom": "P61",
-        "notes": "#61捷克奧地利團\n重症\n3/23 使用呼吸器\n\n奧捷團群聚 領隊#108 確診病故\n團員#61,#72,#104,#338,#341,#359,#360,#363確診\n總共9人確診 剩餘8團員全數陰性"
+        "notes": "#61捷克奧地利團\n重症\n3/23 使用呼吸器\n\n奧捷團群聚 領隊#108 確診病故\n團員#61,#72,#104,#338,#341,#359,#360,#363確診\n總共9人確診 剩餘8團員全數陰性, 症狀: 發燒 肺炎 "
     },
     {
         "patientId": 73,
@@ -936,7 +945,7 @@
         "travel": " 土耳其\n阿拉伯－杜拜",
         "travelStartDate": "轉機",
         "contractedFrom": "P56",
-        "notes": "#56 #57 #65 #67 土耳其團"
+        "notes": "#56 #57 #65 #67 土耳其團, 症狀:  "
     },
     {
         "patientId": 74,
@@ -948,7 +957,7 @@
         "city": "南部",
         "status": "境外",
         "travel": " 冰島",
-        "notes": "旅遊"
+        "notes": "旅遊, 症狀: 牙痛 全身倦怠 "
     },
     {
         "patientId": 75,
@@ -960,7 +969,7 @@
         "city": "台南",
         "status": "境外",
         "travel": " 德國",
-        "notes": "旅遊"
+        "notes": "旅遊, 症狀: 流鼻水 自覺嗅覺喪失 肺炎 "
     },
     {
         "patientId": 76,
@@ -972,7 +981,7 @@
         "city": "北部",
         "status": "境外",
         "travel": " 法國巴黎",
-        "notes": "旅遊"
+        "notes": "旅遊, 症狀: 喉嚨痛 流鼻水 "
     },
     {
         "patientId": 77,
@@ -987,7 +996,7 @@
         "travelStartDate": "轉機",
         "travelEndDate": " 捷克\n",
         "entryDate": " 美國紐約",
-        "notes": "旅遊 探親\n重症\n首起北美移入案例"
+        "notes": "旅遊 探親\n重症\n首起北美移入案例, 症狀: 發燒 腹瀉 喉嚨癢 咳嗽 "
     },
     {
         "patientId": 78,
@@ -999,7 +1008,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 德國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 咳嗽 鼻塞 "
     },
     {
         "patientId": 79,
@@ -1011,7 +1020,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 流鼻水 鼻塞 "
     },
     {
         "patientId": 80,
@@ -1024,7 +1033,7 @@
         "status": "境外",
         "travel": " 西班牙",
         "contractedFrom": "P58",
-        "notes": "職業：學生\n留學, #58 #64 同學"
+        "notes": "職業：學生\n留學, #58 #64 同學, 症狀: 身體無力 鼻塞 "
     },
     {
         "patientId": 81,
@@ -1037,7 +1046,7 @@
         "status": "境外",
         "travel": " 土耳其",
         "contractedFrom": "P56",
-        "notes": "#56 #57 團體旅遊"
+        "notes": "#56 #57 團體旅遊, 症狀: 無症狀 "
     },
     {
         "patientId": 82,
@@ -1050,7 +1059,7 @@
         "status": "境外",
         "travel": " 土耳其",
         "contractedFrom": "P56",
-        "notes": "#56 #57 團體旅遊"
+        "notes": "#56 #57 團體旅遊, 症狀: 喉嚨痛 乾咳 "
     },
     {
         "patientId": 83,
@@ -1063,7 +1072,7 @@
         "status": "境外",
         "travel": " 土耳其",
         "contractedFrom": "P56",
-        "notes": "#56 #57 團體旅遊"
+        "notes": "#56 #57 團體旅遊, 症狀: 無症狀 "
     },
     {
         "patientId": 84,
@@ -1076,7 +1085,7 @@
         "status": "境外",
         "travel": "法國",
         "contractedFrom": "P21",
-        "notes": "來台旅遊\n曾借住#216友人家,2人於3/12有接觸"
+        "notes": "來台旅遊\n曾借住#216友人家,2人於3/12有接觸, 症狀: 發燒 "
     },
     {
         "patientId": 85,
@@ -1088,7 +1097,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "自助旅遊"
+        "notes": "自助旅遊, 症狀: 全身倦怠 鼻塞 流鼻水 "
     },
     {
         "patientId": 86,
@@ -1100,7 +1109,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "就學"
+        "notes": "就學, 症狀: 咳嗽 "
     },
     {
         "patientId": 87,
@@ -1114,7 +1123,7 @@
         "travel": " 英國\n",
         "travelStartDate": " 義大利\n",
         "travelEndDate": " 法國",
-        "notes": "工作 旅遊"
+        "notes": "工作 旅遊, 症狀: 喉嚨痛 咳嗽 "
     },
     {
         "patientId": 88,
@@ -1126,7 +1135,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 西班牙",
-        "notes": "研習"
+        "notes": "研習, 症狀: 咳嗽 發燒 胸悶 "
     },
     {
         "patientId": 89,
@@ -1138,7 +1147,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": "美國",
-        "notes": "長住美國"
+        "notes": "長住美國, 症狀: 咳嗽 喉嚨痛 發燒 "
     },
     {
         "patientId": 90,
@@ -1150,7 +1159,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 西班牙",
-        "notes": "工作 旅遊"
+        "notes": "工作 旅遊, 症狀: 流鼻水 打噴嚏 喉嚨癢 咳嗽 "
     },
     {
         "patientId": 91,
@@ -1165,7 +1174,7 @@
         "travelStartDate": " 法國\n",
         "travelEndDate": " 西班牙\n",
         "entryDate": " 英國",
-        "notes": "自助旅遊"
+        "notes": "自助旅遊, 症狀: 喉嚨痛 流鼻水 鼻塞 咳嗽 "
     },
     {
         "patientId": 92,
@@ -1178,7 +1187,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P55",
-        "notes": "#55 #71 埃及團接觸者"
+        "notes": "#55 #71 埃及團接觸者, 症狀: 無症狀 "
     },
     {
         "patientId": 93,
@@ -1191,7 +1200,7 @@
         "status": "境外",
         "travel": " 美國\n",
         "travelStartDate": " 阿拉伯－卡達",
-        "notes": "工作"
+        "notes": "工作, 症狀: 背痛 "
     },
     {
         "patientId": 94,
@@ -1204,7 +1213,7 @@
         "status": "境外",
         "travel": " 土耳其",
         "contractedFrom": "P56",
-        "notes": "#56 #57 團體旅遊"
+        "notes": "#56 #57 團體旅遊, 症狀: 發燒 "
     },
     {
         "patientId": 95,
@@ -1216,7 +1225,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 印尼",
-        "notes": "自助旅遊"
+        "notes": "自助旅遊, 症狀: 喉嚨痛 輕微咳嗽 "
     },
     {
         "patientId": 96,
@@ -1230,7 +1239,7 @@
         "travel": " 英國\n",
         "travelStartDate": " 泰國",
         "travelEndDate": "轉機",
-        "notes": "就學"
+        "notes": "就學, 症狀: 發燒 咳嗽有痰 輕微鼻塞 "
     },
     {
         "patientId": 97,
@@ -1244,7 +1253,7 @@
         "travel": " 瑞士\n",
         "travelStartDate": " 奧地利 泰國",
         "travelEndDate": "轉機",
-        "notes": "就學"
+        "notes": "就學, 症狀: 發燒 畏寒 頭痛 喉嚨痛 "
     },
     {
         "patientId": 98,
@@ -1256,7 +1265,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 法國",
-        "notes": "就學"
+        "notes": "就學, 症狀: 全身無力 發燒 咳嗽 喉嚨有痰 "
     },
     {
         "patientId": 99,
@@ -1268,7 +1277,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 菲律賓",
-        "notes": "工作"
+        "notes": "工作, 症狀: 流鼻水 倦怠 喉嚨痛 腹瀉 鼻塞 咳嗽 "
     },
     {
         "patientId": 100,
@@ -1279,7 +1288,8 @@
         "state": "南部",
         "city": "台南",
         "status": "本土",
-        "travel": "無"
+        "travel": "無",
+        "notes": ", 症狀: 喉嚨痛 咳嗽 發燒 "
     },
     {
         "patientId": 101,
@@ -1292,7 +1302,7 @@
         "status": "境外",
         "travel": " 埃及",
         "contractedFrom": "P55",
-        "notes": "#55 #63 #71 埃及團\n重症\n3/20 檢查發現肺部浸潤明顯增加，並出現呼吸窘迫情形，轉至加護病房隔離治療，後續個案因肺炎持續惡化\n4/9 不幸病逝 R.I.P."
+        "notes": "#55 #63 #71 埃及團\n重症\n3/20 檢查發現肺部浸潤明顯增加，並出現呼吸窘迫情形，轉至加護病房隔離治療，後續個案因肺炎持續惡化\n4/9 不幸病逝 R.I.P., 症狀: 發燒 流鼻水 肌肉痠痛 N"
     },
     {
         "patientId": 102,
@@ -1304,7 +1314,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "重症"
+        "notes": "重症, 症狀: 輕微咳嗽 發燒 "
     },
     {
         "patientId": 103,
@@ -1317,7 +1327,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P59",
-        "notes": "職業：學生\n#59 同班同學/座位為右前方\n3/20-27 全校停課\n首次高中全校停課"
+        "notes": "職業：學生\n#59 同班同學/座位為右前方\n3/20-27 全校停課\n首次高中全校停課, 症狀: 喉嚨癢 發燒 "
     },
     {
         "patientId": 104,
@@ -1330,7 +1340,7 @@
         "status": "境外",
         "travel": " 奧地利 捷克",
         "contractedFrom": "P61",
-        "notes": "與 #61 #72 同團\n\n奧捷團群聚 領隊#108 確診病故\n團員#61,#72,#104,#338,#341,#359,#360,#363確診\n總共9人確診 剩餘8團員全數陰性"
+        "notes": "與 #61 #72 同團\n\n奧捷團群聚 領隊#108 確診病故\n團員#61,#72,#104,#338,#341,#359,#360,#363確診\n總共9人確診 剩餘8團員全數陰性, 症狀: 咳嗽 流鼻水 胸悶 "
     },
     {
         "patientId": 105,
@@ -1341,7 +1351,8 @@
         "state": "未公佈",
         "city": "未公佈",
         "status": "境外",
-        "travel": " 法國"
+        "travel": " 法國",
+        "notes": ", 症狀: 喉嚨不適 "
     },
     {
         "patientId": 106,
@@ -1352,7 +1363,8 @@
         "state": "未公佈",
         "city": "未公佈",
         "status": "境外",
-        "travel": " 西班牙"
+        "travel": " 西班牙",
+        "notes": ", 症狀: 喉嚨癢 "
     },
     {
         "patientId": 107,
@@ -1363,7 +1375,8 @@
         "state": "未公佈",
         "city": "未公佈",
         "status": "境外",
-        "travel": "無"
+        "travel": "無",
+        "notes": ", 症狀: 流鼻水 咳嗽 "
     },
     {
         "patientId": 108,
@@ -1376,7 +1389,7 @@
         "status": "境外",
         "travel": " 奧地利 捷克",
         "contractedFrom": "P108",
-        "notes": "職業：領隊\n奧捷團群聚 領隊#108 確診病故\n團員#61,#72,#104,#338,#341,#359,#360,#363確診\n總共9人確診 剩餘8團員全數陰性\n\n體重較重(因此心肺功能差)\n3/25 呼吸窘迫 嚴重肺炎\n3/29 嚴重肺炎死亡\nR.I.P."
+        "notes": "職業：領隊\n奧捷團群聚 領隊#108 確診病故\n團員#61,#72,#104,#338,#341,#359,#360,#363確診\n總共9人確診 剩餘8團員全數陰性\n\n體重較重(因此心肺功能差)\n3/25 呼吸窘迫 嚴重肺炎\n3/29 嚴重肺炎死亡\nR.I.P., 症狀: 發燒 N"
     },
     {
         "patientId": 109,
@@ -1388,7 +1401,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 埃及",
-        "notes": "跟團旅遊\n重症"
+        "notes": "跟團旅遊\n重症, 症狀: 發燒 全身倦怠 流鼻水 鼻塞 咳嗽 "
     },
     {
         "patientId": 110,
@@ -1401,7 +1414,7 @@
         "status": "境外",
         "travel": " 英國\n",
         "travelStartDate": " 法國",
-        "notes": "職業：學生\n就學 旅遊"
+        "notes": "職業：學生\n就學 旅遊, 症狀: 胸悶 咳嗽 "
     },
     {
         "patientId": 111,
@@ -1414,7 +1427,7 @@
         "status": "境外",
         "travel": " 埃及",
         "contractedFrom": "P55",
-        "notes": "#55 埃及團團員"
+        "notes": "#55 埃及團團員, 症狀: 喉嚨痛 發燒 "
     },
     {
         "patientId": 112,
@@ -1426,7 +1439,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 法國",
-        "notes": "研習 旅遊"
+        "notes": "研習 旅遊, 症狀: 喉嚨痛 流鼻涕 咳嗽有痰 "
     },
     {
         "patientId": 113,
@@ -1438,7 +1451,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國 墨西哥",
-        "notes": "旅遊"
+        "notes": "旅遊, 症狀: 流鼻水 鼻塞 "
     },
     {
         "patientId": 114,
@@ -1454,7 +1467,7 @@
         "travelEndDate": " 英國\n",
         "entryDate": " 法國",
         "onsetEstimateDate": "轉機",
-        "notes": "比賽"
+        "notes": "比賽, 症狀: 頭痛 鼻塞 眼睛痛 "
     },
     {
         "patientId": 115,
@@ -1466,7 +1479,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 波蘭",
-        "notes": "職業：學生\n遊學"
+        "notes": "職業：學生\n遊學, 症狀: 發燒 咳嗽 全身倦怠 喉嚨痛 流鼻水 "
     },
     {
         "patientId": 116,
@@ -1478,7 +1491,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 咳嗽 有痰 鼻塞 流鼻水 "
     },
     {
         "patientId": 117,
@@ -1491,7 +1504,7 @@
         "status": "境外",
         "travel": " 葡萄牙\n",
         "travelStartDate": " 西班牙",
-        "notes": "旅遊"
+        "notes": "旅遊, 症狀: 腹瀉 "
     },
     {
         "patientId": 118,
@@ -1504,7 +1517,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P85",
-        "notes": "#85 友人"
+        "notes": "#85 友人, 症狀: 無症狀 "
     },
     {
         "patientId": 119,
@@ -1516,7 +1529,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "探親"
+        "notes": "探親, 症狀: 喉嚨痛 鼻塞 流鼻水 "
     },
     {
         "patientId": 120,
@@ -1528,7 +1541,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 法國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 流鼻水 咳嗽併痰 喉嚨痛 全身倦怠 "
     },
     {
         "patientId": 121,
@@ -1541,7 +1554,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P85",
-        "notes": "#85 友人"
+        "notes": "#85 友人, 症狀: 流鼻水 "
     },
     {
         "patientId": 122,
@@ -1554,7 +1567,7 @@
         "status": "境外",
         "travel": " 土耳其",
         "contractedFrom": "P56",
-        "notes": "3/16因與#56土耳其團同班機,被列為接觸者開始居家隔離\n#307於3/15拜訪#122"
+        "notes": "3/16因與#56土耳其團同班機,被列為接觸者開始居家隔離\n#307於3/15拜訪#122, 症狀: 腹痛 腹瀉 微燒 無力 "
     },
     {
         "patientId": 123,
@@ -1568,7 +1581,7 @@
         "travel": " 新加坡\n",
         "travelStartDate": " 美國加州\n",
         "travelEndDate": " 日本東京",
-        "notes": "洽公"
+        "notes": "洽公, 症狀: 發燒 倦怠 "
     },
     {
         "patientId": 124,
@@ -1581,7 +1594,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P16",
-        "notes": "同事曾有症狀、老師(#160)確診\n職業：研究機構人員\n中研院"
+        "notes": "同事曾有症狀、老師(#160)確診\n職業：研究機構人員\n中研院, 症狀: 發燒 咳嗽與喉嚨痛 "
     },
     {
         "patientId": 125,
@@ -1595,7 +1608,7 @@
         "travel": " 荷蘭\n",
         "travelStartDate": " 奧地利\n",
         "travelEndDate": " 荷蘭",
-        "notes": "旅遊 工作"
+        "notes": "旅遊 工作, 症狀: 鼻塞 全身無力 流鼻水 有痰 "
     },
     {
         "patientId": 126,
@@ -1607,7 +1620,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 加拿大",
-        "notes": "旅遊"
+        "notes": "旅遊, 症狀: 乾咳 "
     },
     {
         "patientId": 127,
@@ -1620,7 +1633,7 @@
         "status": "境外",
         "travel": " 西班牙",
         "contractedFrom": "P58",
-        "notes": "職業：學生\n就學 與 #58 同校同系所"
+        "notes": "職業：學生\n就學 與 #58 同校同系所, 症狀: 喉嚨痛 咳嗽 鼻塞 "
     },
     {
         "patientId": 128,
@@ -1633,7 +1646,7 @@
         "status": "境外",
         "travel": "法國\n",
         "travelStartDate": " 盧森堡 比利時 德國",
-        "notes": "職業：學生\n就學 旅遊"
+        "notes": "職業：學生\n就學 旅遊, 症狀: 喉嚨痛 咳嗽症狀 "
     },
     {
         "patientId": 129,
@@ -1646,7 +1659,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P177 ",
-        "notes": "工作\n#177 同事"
+        "notes": "工作\n#177 同事, 症狀: 微燒 喉嚨癢 "
     },
     {
         "patientId": 130,
@@ -1659,7 +1672,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P59",
-        "notes": "職業：學生\n#59 同班同學/座位為正前方"
+        "notes": "職業：學生\n#59 同班同學/座位為正前方, 症狀: 乾咳 "
     },
     {
         "patientId": 131,
@@ -1672,7 +1685,7 @@
         "status": "境外",
         "travel": " 葡萄牙 西班牙 阿拉伯－杜拜",
         "travelStartDate": "轉機",
-        "notes": "跟團旅遊"
+        "notes": "跟團旅遊, 症狀: 喉嚨痛 "
     },
     {
         "patientId": 132,
@@ -1684,7 +1697,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 菲律賓",
-        "notes": "工作"
+        "notes": "工作, 症狀: 流鼻水 頭暈 "
     },
     {
         "patientId": 133,
@@ -1696,7 +1709,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 頭痛 發燒 流鼻水 "
     },
     {
         "patientId": 134,
@@ -1708,7 +1721,7 @@
         "city": "中部",
         "status": "本土",
         "travel": "無",
-        "notes": "工作直接面對民眾、不公佈職業"
+        "notes": "工作直接面對民眾、不公佈職業, 症狀: 發燒 喉嚨痛 "
     },
     {
         "patientId": 135,
@@ -1720,7 +1733,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "長住美國"
+        "notes": "長住美國, 症狀: 咳嗽 流鼻水 "
     },
     {
         "patientId": 136,
@@ -1732,7 +1745,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 土耳其",
-        "notes": "跟團旅遊"
+        "notes": "跟團旅遊, 症狀: 咳嗽 流鼻水 有痰 "
     },
     {
         "patientId": 137,
@@ -1745,7 +1758,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P145 ",
-        "notes": "旅遊\n#145 #195 同行友人"
+        "notes": "旅遊\n#145 #195 同行友人, 症狀: 喉嚨痛 發燒 噁心 頭暈 "
     },
     {
         "patientId": 138,
@@ -1757,7 +1770,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 法國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 咳嗽 有痰 "
     },
     {
         "patientId": 139,
@@ -1769,7 +1782,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 喉嚨癢 咳嗽 發燒 肌肉痠痛 "
     },
     {
         "patientId": 140,
@@ -1782,7 +1795,7 @@
         "status": "境外",
         "travel": " 埃及",
         "contractedFrom": "P55",
-        "notes": "#55 埃及團團員"
+        "notes": "#55 埃及團團員, 症狀: 發燒 頭痛 "
     },
     {
         "patientId": 141,
@@ -1794,7 +1807,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 流鼻水 咳嗽 頭痛 有痰 "
     },
     {
         "patientId": 142,
@@ -1806,7 +1819,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "國外教會服務"
+        "notes": "國外教會服務, 症狀: 咳嗽 有痰 "
     },
     {
         "patientId": 143,
@@ -1821,7 +1834,7 @@
         "travelStartDate": " 美國\n",
         "travelEndDate": " 捷克\n",
         "entryDate": " 英國 新加坡轉機",
-        "notes": "因工作長住捷克，曾與#77赴美探親"
+        "notes": "因工作長住捷克，曾與#77赴美探親, 症狀: 淋巴腫脹 微燒 "
     },
     {
         "patientId": 144,
@@ -1836,7 +1849,7 @@
         "travelStartDate": " 美國\n",
         "travelEndDate": " 捷克\n",
         "entryDate": " 英國 新加坡轉機",
-        "notes": "因工作長住捷克，曾與#77赴美探親"
+        "notes": "因工作長住捷克，曾與#77赴美探親, 症狀: 肌肉痠痛 喉嚨痛 "
     },
     {
         "patientId": 145,
@@ -1849,7 +1862,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P137 ",
-        "notes": "自助旅遊\n#137 同行友人"
+        "notes": "自助旅遊\n#137 同行友人, 症狀: 咳嗽 有痰 "
     },
     {
         "patientId": 146,
@@ -1861,7 +1874,7 @@
         "city": "東縣",
         "status": "境外",
         "travel": " 南非",
-        "notes": "工作"
+        "notes": "工作, 症狀: 發燒 "
     },
     {
         "patientId": 147,
@@ -1873,7 +1886,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 印尼",
-        "notes": "參加婚禮"
+        "notes": "參加婚禮, 症狀: 咳嗽 腹瀉 頭痛 "
     },
     {
         "patientId": 148,
@@ -1885,7 +1898,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "與#85同班機接觸者"
+        "notes": "與#85同班機接觸者, 症狀: 咳嗽 流鼻水 "
     },
     {
         "patientId": 149,
@@ -1897,7 +1910,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "跟團旅遊"
+        "notes": "跟團旅遊, 症狀: 喉嚨癢 發燒 "
     },
     {
         "patientId": 150,
@@ -1910,7 +1923,7 @@
         "status": "境外",
         "travel": " 英國",
         "contractedFrom": "P133 ",
-        "notes": "職業：學生\n#133 親人 在英就學"
+        "notes": "職業：學生\n#133 親人 在英就學, 症狀: 流鼻水 鼻塞 "
     },
     {
         "patientId": 151,
@@ -1922,7 +1935,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 荷蘭",
-        "notes": "工作"
+        "notes": "工作, 症狀: 咳嗽 胸悶 發熱 喉嚨癢 "
     },
     {
         "patientId": 152,
@@ -1934,7 +1947,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 喉嚨痛 "
     },
     {
         "patientId": 153,
@@ -1946,7 +1959,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 法國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 發燒 "
     },
     {
         "patientId": 154,
@@ -1959,7 +1972,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P85 ",
-        "notes": "#85 #118 #121 同行者"
+        "notes": "#85 #118 #121 同行者, 症狀: 肌肉痠痛 頭痛 喉嚨痛 "
     },
     {
         "patientId": 155,
@@ -1971,7 +1984,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 丹麥",
-        "notes": "探親"
+        "notes": "探親, 症狀: 肌肉痠痛 發燒 全身倦怠 X光片顯示肺炎 "
     },
     {
         "patientId": 156,
@@ -1983,7 +1996,7 @@
         "city": "桃園",
         "status": "本土",
         "travel": "無",
-        "notes": "職業：養護機構護理師\n目前為止確診到出院時間最短（8天）"
+        "notes": "職業：養護機構護理師\n目前為止確診到出院時間最短（8天）, 症狀: 發燒 全身無力 頭暈 Y"
     },
     {
         "patientId": 157,
@@ -1995,7 +2008,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 紐西蘭",
-        "notes": "旅遊"
+        "notes": "旅遊, 症狀: 全身倦怠 胸痛 呼吸困難 "
     },
     {
         "patientId": 158,
@@ -2007,7 +2020,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 咳嗽 有痰 微燒(37.5度) 頭痛及肌肉痠痛症狀 X光片顯示肺炎 "
     },
     {
         "patientId": 159,
@@ -2019,7 +2032,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 肌肉酸痛 流鼻水 X光片顯示肺炎 "
     },
     {
         "patientId": 160,
@@ -2031,7 +2044,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "#124接觸者\n職業：研究機構老師\n中研院"
+        "notes": "#124接觸者\n職業：研究機構老師\n中研院, 症狀: 頭痛 喉嚨癢 輕微乾咳 胸悶 "
     },
     {
         "patientId": 161,
@@ -2044,7 +2057,7 @@
         "status": "境外",
         "travel": " 埃及",
         "contractedFrom": "P55",
-        "notes": "與 #55 埃及團"
+        "notes": "與 #55 埃及團, 症狀: 無症狀，X光片顯示肺炎 "
     },
     {
         "patientId": 162,
@@ -2057,7 +2070,7 @@
         "status": "境外",
         "travel": " 埃及",
         "contractedFrom": "P55",
-        "notes": "與 #55 埃及團"
+        "notes": "與 #55 埃及團, 症狀: 無症狀，X光片顯示肺炎 "
     },
     {
         "patientId": 163,
@@ -2069,7 +2082,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 法國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 咳嗽 喉嚨痛 "
     },
     {
         "patientId": 164,
@@ -2081,7 +2094,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 菲律賓",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 咳嗽 全身痠痛 "
     },
     {
         "patientId": 165,
@@ -2093,7 +2106,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 義大利",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 流鼻水 鼻塞 "
     },
     {
         "patientId": 166,
@@ -2105,7 +2118,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 德國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 喉嚨痛 "
     },
     {
         "patientId": 167,
@@ -2117,7 +2130,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 發燒 全身倦怠 咳嗽 "
     },
     {
         "patientId": 168,
@@ -2130,7 +2143,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P160",
-        "notes": "#160接觸者\n職業：研究機構人員\n中研院"
+        "notes": "#160接觸者\n職業：研究機構人員\n中研院, 症狀: 咳嗽 流鼻水 喉嚨痛 "
     },
     {
         "patientId": 169,
@@ -2143,7 +2156,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P160",
-        "notes": "#160接觸者\n職業：研究機構人員\n中研院"
+        "notes": "#160接觸者\n職業：研究機構人員\n中研院, 症狀: 發燒 "
     },
     {
         "patientId": 170,
@@ -2156,7 +2169,7 @@
         "status": "境外",
         "travel": " 西班牙",
         "contractedFrom": "P170",
-        "notes": "旅遊\n#170 #189 為同行家人\n住院時已有肺炎\n3/24 使用羥氯奎寧hydroxychloroquine 後轉入加護病房\n3/25 血氧降低插管使用呼吸器\n3/29 肺部浸潤非常嚴重 多重器官衰竭死亡 R.I.P."
+        "notes": "旅遊\n#170 #189 為同行家人\n住院時已有肺炎\n3/24 使用羥氯奎寧hydroxychloroquine 後轉入加護病房\n3/25 血氧降低插管使用呼吸器\n3/29 肺部浸潤非常嚴重 多重器官衰竭死亡 R.I.P., 症狀: 發燒 咳嗽 N"
     },
     {
         "patientId": 171,
@@ -2169,7 +2182,7 @@
         "status": "境外",
         "travel": " 荷蘭",
         "contractedFrom": "P171",
-        "notes": "工作\n#171 #174同事"
+        "notes": "工作\n#171 #174同事, 症狀: 發燒 全身痠痛 輕微鼻塞 失去嗅覺 失去味覺 "
     },
     {
         "patientId": 172,
@@ -2183,7 +2196,7 @@
         "travel": " 法國\n",
         "travelStartDate": " 法國",
         "contractedFrom": "P172",
-        "notes": "旅遊及工作\n#172 #173 夫妻"
+        "notes": "旅遊及工作\n#172 #173 夫妻, 症狀: 發燒 咳嗽 喉嚨痛 有痰 "
     },
     {
         "patientId": 173,
@@ -2196,7 +2209,7 @@
         "status": "境外",
         "travel": " 法國",
         "contractedFrom": "P172",
-        "notes": "職業：學生\n就學\n#172 #173 夫妻"
+        "notes": "職業：學生\n就學\n#172 #173 夫妻, 症狀: 發燒 流鼻水 "
     },
     {
         "patientId": 174,
@@ -2209,7 +2222,7 @@
         "status": "境外",
         "travel": " 荷蘭",
         "contractedFrom": "P171",
-        "notes": "工作\n#171 同事"
+        "notes": "工作\n#171 同事, 症狀: 發燒 全身倦怠 喉嚨痛 咳嗽 胸痛 "
     },
     {
         "patientId": 175,
@@ -2222,7 +2235,7 @@
         "status": "境外",
         "travel": " 荷蘭",
         "contractedFrom": "P171",
-        "notes": "#171 隨行家人"
+        "notes": "#171 隨行家人, 症狀: 入境已無症狀 入境前有發燒 "
     },
     {
         "patientId": 176,
@@ -2234,7 +2247,7 @@
         "city": "竹縣",
         "status": "境外",
         "travel": " 瑞士",
-        "notes": "工作"
+        "notes": "工作, 症狀: 發燒 頭痛 頭暈 "
     },
     {
         "patientId": 177,
@@ -2247,7 +2260,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P129",
-        "notes": "工作\n#129同事"
+        "notes": "工作\n#129同事, 症狀: 喉嚨癢 發燒 咳嗽 肌肉痠痛 "
     },
     {
         "patientId": 178,
@@ -2260,7 +2273,7 @@
         "status": "境外",
         "travel": " 荷蘭",
         "contractedFrom": "P171",
-        "notes": "#171 隨行家人"
+        "notes": "#171 隨行家人, 症狀: 發燒 全身痠痛 "
     },
     {
         "patientId": 179,
@@ -2272,7 +2285,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 流鼻水 微燒 "
     },
     {
         "patientId": 180,
@@ -2284,7 +2297,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 捷克",
-        "notes": "工作"
+        "notes": "工作, 症狀: 咳嗽 疲憊 發冷 肌肉痠痛 "
     },
     {
         "patientId": 181,
@@ -2297,7 +2310,7 @@
         "status": "境外",
         "travel": " 美國\n",
         "travelStartDate": " 日本",
-        "notes": "旅遊"
+        "notes": "旅遊, 症狀: 流鼻水 發燒 全身倦怠 "
     },
     {
         "patientId": 182,
@@ -2309,7 +2322,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "旅遊"
+        "notes": "旅遊, 症狀: 微燒 喉嚨癢 咳嗽 "
     },
     {
         "patientId": 183,
@@ -2321,7 +2334,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": "\n法國、巴西、智利、秘魯",
-        "notes": "旅遊"
+        "notes": "旅遊, 症狀: 咳嗽 微燒 "
     },
     {
         "patientId": 184,
@@ -2333,7 +2346,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "處理個人事務"
+        "notes": "處理個人事務, 症狀: 肌肉痠痛 "
     },
     {
         "patientId": 185,
@@ -2345,7 +2358,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 四肢無力 呼吸不順 "
     },
     {
         "patientId": 186,
@@ -2358,7 +2371,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P168",
-        "notes": "#168接觸者"
+        "notes": "#168接觸者, 症狀: 肌肉痠痛 發燒 胃部不適 "
     },
     {
         "patientId": 187,
@@ -2370,7 +2383,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 喉嚨痛 頭痛 呼吸困難 失去嗅覺 X光片顯示肺炎 "
     },
     {
         "patientId": 188,
@@ -2382,7 +2395,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 發燒 頭痛 鼻塞 喉嚨乾 "
     },
     {
         "patientId": 189,
@@ -2395,7 +2408,7 @@
         "status": "境外",
         "travel": " 西班牙",
         "contractedFrom": "P170",
-        "notes": "旅遊\n#170 #189 為同行家人"
+        "notes": "旅遊\n#170 #189 為同行家人, 症狀: 發燒 咳嗽 "
     },
     {
         "patientId": 190,
@@ -2407,7 +2420,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 咳嗽 "
     },
     {
         "patientId": 191,
@@ -2419,7 +2432,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 流鼻水 "
     },
     {
         "patientId": 192,
@@ -2431,7 +2444,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 肺炎 咳嗽 流鼻水 發燒 頭痛 "
     },
     {
         "patientId": 193,
@@ -2443,7 +2456,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 喉嚨癢 咳嗽 "
     },
     {
         "patientId": 194,
@@ -2455,7 +2468,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 咳嗽 流鼻水 全身倦怠 "
     },
     {
         "patientId": 195,
@@ -2468,7 +2481,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P137",
-        "notes": "自助旅遊\n#137 同行友人"
+        "notes": "自助旅遊\n#137 同行友人, 症狀: 乾咳 喉嚨痛 "
     },
     {
         "patientId": 196,
@@ -2482,7 +2495,7 @@
         "travel": "自美國離境前往德國、保加利亞、",
         "travelStartDate": "泰國、",
         "travelEndDate": "來台",
-        "notes": "來台轉機\n經同意入境(人道安置)"
+        "notes": "來台轉機\n經同意入境(人道安置), 症狀: 發燒 咳嗽 呼吸喘 "
     },
     {
         "patientId": 197,
@@ -2495,7 +2508,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P197",
-        "notes": "#197 #202 夫妻"
+        "notes": "#197 #202 夫妻, 症狀: 發燒 "
     },
     {
         "patientId": 198,
@@ -2507,7 +2520,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 愛爾蘭",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 腹瀉 全身痠痛 咳嗽 喉嚨痛 流鼻水 "
     },
     {
         "patientId": 199,
@@ -2519,7 +2532,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 義大利、德國、比利時、英國",
-        "notes": "旅遊"
+        "notes": "旅遊, 症狀: 頭暈 全身倦怠 "
     },
     {
         "patientId": 200,
@@ -2533,7 +2546,7 @@
         "travel": " ",
         "travelStartDate": " ",
         "travelEndDate": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 胸悶 有痰 "
     },
     {
         "patientId": 201,
@@ -2545,7 +2558,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 愛爾蘭",
-        "notes": "工作"
+        "notes": "工作, 症狀: 流鼻水 鼻塞 "
     },
     {
         "patientId": 202,
@@ -2558,7 +2571,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P197",
-        "notes": "#197 #202 夫妻"
+        "notes": "#197 #202 夫妻, 症狀: 發燒 喉嚨癢 有痰 "
     },
     {
         "patientId": 203,
@@ -2570,7 +2583,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 法國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 發燒 頭痛 喉嚨痛 流鼻水 全身無力 "
     },
     {
         "patientId": 204,
@@ -2582,7 +2595,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 發燒 "
     },
     {
         "patientId": 205,
@@ -2594,7 +2607,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 土耳其",
-        "notes": "旅遊"
+        "notes": "旅遊, 症狀: 發燒 "
     },
     {
         "patientId": 206,
@@ -2606,7 +2619,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 喉嚨痛 流鼻水 鼻塞 嗅覺喪失 味覺喪失 "
     },
     {
         "patientId": 207,
@@ -2618,7 +2631,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 頭脹 鼻涕倒流 嗅覺和味覺喪失 "
     },
     {
         "patientId": 208,
@@ -2632,7 +2645,7 @@
         "travel": " 英國倫敦\n",
         "travelStartDate": " 日本",
         "travelEndDate": "轉機",
-        "notes": "長住英國"
+        "notes": "長住英國, 症狀: 咳嗽 流鼻水 鼻塞 "
     },
     {
         "patientId": 209,
@@ -2645,7 +2658,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P246",
-        "notes": "探親\n#246同住家人"
+        "notes": "探親\n#246同住家人, 症狀: 咳嗽 輕微發燒 "
     },
     {
         "patientId": 210,
@@ -2657,7 +2670,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 發燒 胸悶 胸痛 頭痛 "
     },
     {
         "patientId": 211,
@@ -2670,7 +2683,7 @@
         "status": "境外",
         "travel": "印尼 ",
         "travelStartDate": "來台",
-        "notes": "來台工作(入境首日)"
+        "notes": "來台工作(入境首日), 症狀: 發燒 "
     },
     {
         "patientId": 212,
@@ -2682,7 +2695,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "因工作長居美國"
+        "notes": "因工作長居美國, 症狀: 發燒 "
     },
     {
         "patientId": 213,
@@ -2695,7 +2708,7 @@
         "status": "境外",
         "travel": " 西班牙",
         "contractedFrom": "P58同",
-        "notes": "職業：學生\n就學 #58同校系\n#57(土耳其 團群聚)航班接觸者"
+        "notes": "職業：學生\n就學 #58同校系\n#57(土耳其 團群聚)航班接觸者, 症狀: 發燒 "
     },
     {
         "patientId": 214,
@@ -2709,7 +2722,7 @@
         "travel": " 英國\n",
         "travelStartDate": " 日本",
         "travelEndDate": "轉機",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 發燒 咳嗽 有痰 "
     },
     {
         "patientId": 215,
@@ -2721,7 +2734,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 發燒 肌肉痠痛 咳嗽 "
     },
     {
         "patientId": 216,
@@ -2734,7 +2747,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P84接",
-        "notes": "#84接觸者\n職業：清大博士後研究員\n第三起大專院校感染者"
+        "notes": "#84接觸者\n職業：清大博士後研究員\n第三起大專院校感染者, 症狀: 發燒 咳嗽 "
     },
     {
         "patientId": 217,
@@ -2746,7 +2759,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 流鼻水 "
     },
     {
         "patientId": 218,
@@ -2758,7 +2771,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 喉嚨痛 咳嗽 流鼻水 呼吸困難 肺炎 "
     },
     {
         "patientId": 219,
@@ -2770,7 +2783,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 發燒 全身無力 "
     },
     {
         "patientId": 220,
@@ -2782,7 +2795,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "求職"
+        "notes": "求職, 症狀: 發燒(耳溫量測37.7度) 肌肉痠痛 流鼻水 忽冷忽熱症狀 "
     },
     {
         "patientId": 221,
@@ -2795,7 +2808,7 @@
         "status": "境外",
         "travel": "\n",
         "travelStartDate": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 喉嚨痛 咳嗽 鼻塞 流鼻水 "
     },
     {
         "patientId": 222,
@@ -2808,7 +2821,7 @@
         "status": "境外",
         "travel": " 英國",
         "contractedFrom": "P152",
-        "notes": "職業：學生\n就學，與#152同校，推斷為校園群聚"
+        "notes": "職業：學生\n就學，與#152同校，推斷為校園群聚, 症狀: 咳嗽 流鼻水 "
     },
     {
         "patientId": 223,
@@ -2821,7 +2834,7 @@
         "status": "境外",
         "travel": " 英國",
         "contractedFrom": "P152",
-        "notes": "職業：學生\n就學，與#152同校，推斷為校園群聚"
+        "notes": "職業：學生\n就學，與#152同校，推斷為校園群聚, 症狀: 喉嚨痛 流鼻水 鼻塞 全身倦怠 關節痠痛 結膜充血 "
     },
     {
         "patientId": 224,
@@ -2834,7 +2847,7 @@
         "status": "境外",
         "travel": " 英國",
         "contractedFrom": "P152",
-        "notes": "職業：學生\n就學，與#152同校，推斷為校園群聚"
+        "notes": "職業：學生\n就學，與#152同校，推斷為校園群聚, 症狀: 發燒 喉嚨痛 "
     },
     {
         "patientId": 225,
@@ -2847,7 +2860,7 @@
         "status": "境外",
         "travel": " 英國",
         "contractedFrom": "P152",
-        "notes": "職業：學生\n就學，與#152同校，推斷為校園群聚"
+        "notes": "職業：學生\n就學，與#152同校，推斷為校園群聚, 症狀: 身體悶熱不適 肌肉痠痛 頭痛 味覺變差 "
     },
     {
         "patientId": 226,
@@ -2860,7 +2873,7 @@
         "status": "境外",
         "travel": " 埃及",
         "contractedFrom": "P55 ",
-        "notes": "#55 埃及團團員"
+        "notes": "#55 埃及團團員, 症狀: 喉嚨乾 "
     },
     {
         "patientId": 227,
@@ -2872,7 +2885,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "長住英國"
+        "notes": "長住英國, 症狀: 全身痠痛 發燒 喉嚨痛 咳嗽 肺炎 "
     },
     {
         "patientId": 228,
@@ -2885,7 +2898,7 @@
         "status": "境外",
         "travel": " 荷蘭",
         "contractedFrom": "P247",
-        "notes": "職業：學生\n就學\n#247同住家人"
+        "notes": "職業：學生\n就學\n#247同住家人, 症狀: 發燒 輕微流鼻水 輕微咳嗽 肺炎 "
     },
     {
         "patientId": 229,
@@ -2897,7 +2910,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "美國人在台工作"
+        "notes": "美國人在台工作, 症狀: 發燒 咳嗽 全身倦怠 肌肉痠痛 "
     },
     {
         "patientId": 230,
@@ -2909,7 +2922,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 發燒 "
     },
     {
         "patientId": 231,
@@ -2921,7 +2934,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 喉嚨癢 發燒 頭痛 "
     },
     {
         "patientId": 232,
@@ -2934,7 +2947,7 @@
         "status": "境外",
         "travel": " 美國\n",
         "travelStartDate": " 印尼",
-        "notes": "工作"
+        "notes": "工作, 症狀: 發燒 喉嚨痛 全身倦怠 肌肉痠痛 關節痠痛 "
     },
     {
         "patientId": 233,
@@ -2947,7 +2960,7 @@
         "status": "境外",
         "travel": " 英國",
         "contractedFrom": "P210",
-        "notes": "職業：學生\n就學，與#210一同回台"
+        "notes": "職業：學生\n就學，與#210一同回台, 症狀: 發燒 咳嗽 鼻塞 四肢無力 "
     },
     {
         "patientId": 234,
@@ -2959,7 +2972,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 法國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 發燒 "
     },
     {
         "patientId": 235,
@@ -2971,7 +2984,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 比利時、土耳其、泰國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 咳嗽 "
     },
     {
         "patientId": 236,
@@ -2983,7 +2996,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 捷克",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 發燒 腹瀉 "
     },
     {
         "patientId": 237,
@@ -2996,7 +3009,7 @@
         "status": "境外",
         "travel": " 美國、聖地牙哥、智利、南極、阿根廷、阿拉伯－卡達",
         "travelStartDate": "泰國轉機",
-        "notes": "旅遊"
+        "notes": "旅遊, 症狀: 肌肉痠痛 頭痛 "
     },
     {
         "patientId": 238,
@@ -3008,7 +3021,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學、工作"
+        "notes": "職業：學生\n就學、工作, 症狀: 咳嗽 流鼻水 肌肉痠痛 "
     },
     {
         "patientId": 239,
@@ -3020,7 +3033,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 發燒 咳嗽 "
     },
     {
         "patientId": 240,
@@ -3032,7 +3045,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 喉嚨癢 咳嗽 發燒 畏寒 "
     },
     {
         "patientId": 241,
@@ -3044,7 +3057,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 喉嚨癢 咳嗽 "
     },
     {
         "patientId": 242,
@@ -3056,7 +3069,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 咳嗽 流鼻水 "
     },
     {
         "patientId": 243,
@@ -3068,7 +3081,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 流鼻水 鼻塞 自覺喪失味覺 "
     },
     {
         "patientId": 244,
@@ -3080,7 +3093,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 紐西蘭",
-        "notes": "旅遊"
+        "notes": "旅遊, 症狀: 發燒 全身倦怠 喉嚨痛 頭痛 流鼻水 "
     },
     {
         "patientId": 245,
@@ -3092,7 +3105,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "旅遊"
+        "notes": "旅遊, 症狀: 咳嗽 發燒 呼吸急促 "
     },
     {
         "patientId": 246,
@@ -3105,7 +3118,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P209",
-        "notes": "#209同住家人(夫妻)"
+        "notes": "#209同住家人(夫妻), 症狀: 無症狀 "
     },
     {
         "patientId": 247,
@@ -3118,7 +3131,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P228",
-        "notes": "#228同住家人(母女)"
+        "notes": "#228同住家人(母女), 症狀: 發燒 全身倦怠 咳嗽 "
     },
     {
         "patientId": 248,
@@ -3131,7 +3144,7 @@
         "status": "境外",
         "travel": " 西班牙",
         "contractedFrom": "P170",
-        "notes": "與#170 #189同旅遊團"
+        "notes": "與#170 #189同旅遊團, 症狀: 無症狀 "
     },
     {
         "patientId": 249,
@@ -3145,7 +3158,7 @@
         "travel": " 馬來西亞\n",
         "travelStartDate": " 菲律賓\n",
         "travelEndDate": " 馬來西亞",
-        "notes": "工作"
+        "notes": "工作, 症狀: 倦怠 咳嗽 全身痠痛 發燒 肺炎 "
     },
     {
         "patientId": 250,
@@ -3157,7 +3170,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 摩洛哥",
-        "notes": "工作"
+        "notes": "工作, 症狀: 體溫偏高 喪失嗅覺 "
     },
     {
         "patientId": 251,
@@ -3170,7 +3183,7 @@
         "status": "境外",
         "travel": " 澳洲\n",
         "travelStartDate": " 墨西哥",
-        "notes": "旅遊"
+        "notes": "旅遊, 症狀: 喉嚨痛 發燒 "
     },
     {
         "patientId": 252,
@@ -3182,7 +3195,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 咳嗽 流鼻水 喉嚨痛 鼻塞 "
     },
     {
         "patientId": 253,
@@ -3194,7 +3207,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 發燒 腹瀉 眼睛癢 胸痛 "
     },
     {
         "patientId": 254,
@@ -3207,7 +3220,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P218",
-        "notes": "職業：學生\n就學，#218友人"
+        "notes": "職業：學生\n就學，#218友人, 症狀: 咳嗽 頭痛 胸悶 全身疲憊 "
     },
     {
         "patientId": 255,
@@ -3219,7 +3232,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "探親"
+        "notes": "探親, 症狀: 發燒 咳嗽有痰 全身痠痛 無力 "
     },
     {
         "patientId": 256,
@@ -3231,7 +3244,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 喉嚨癢 "
     },
     {
         "patientId": 257,
@@ -3244,7 +3257,7 @@
         "status": "境外",
         "travel": " 英國",
         "contractedFrom": "P258",
-        "notes": "職業：學生\n就學，與#258同校"
+        "notes": "職業：學生\n就學，與#258同校, 症狀: 流鼻水 喉嚨痛 咳嗽 "
     },
     {
         "patientId": 258,
@@ -3257,7 +3270,7 @@
         "status": "境外",
         "travel": " 英國",
         "contractedFrom": "P257",
-        "notes": "職業：學生\n就學，與#257同校"
+        "notes": "職業：學生\n就學，與#257同校, 症狀: 咳嗽 喉嚨痛 "
     },
     {
         "patientId": 259,
@@ -3272,7 +3285,7 @@
         "travelStartDate": " 中南美洲\n",
         "travelEndDate": " 美國",
         "contractedFrom": "P259",
-        "notes": "旅遊 探親\n同團團員：#259 #331 #355"
+        "notes": "旅遊 探親\n同團團員：#259 #331 #355, 症狀: 發燒 喉嚨痛 "
     },
     {
         "patientId": 260,
@@ -3284,7 +3297,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 咽喉不適 輕度頭痛 咳嗽 "
     },
     {
         "patientId": 261,
@@ -3296,7 +3309,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 菲律賓",
-        "notes": "工作"
+        "notes": "工作, 症狀: 微燒(37.5度) 咳嗽有痰 "
     },
     {
         "patientId": 262,
@@ -3308,7 +3321,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 喉嚨痛 喉嚨癢 鼻塞 "
     },
     {
         "patientId": 263,
@@ -3320,7 +3333,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 澳大利亞",
-        "notes": "工作"
+        "notes": "工作, 症狀: 發燒 咳嗽 腹瀉 "
     },
     {
         "patientId": 264,
@@ -3333,7 +3346,7 @@
         "status": "境外",
         "travel": " 英國",
         "contractedFrom": "P267",
-        "notes": "工作 與#267同行"
+        "notes": "工作 與#267同行, 症狀: 喉嚨癢 咳嗽 "
     },
     {
         "patientId": 265,
@@ -3345,7 +3358,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 發燒 "
     },
     {
         "patientId": 266,
@@ -3357,7 +3370,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 發燒 全身倦怠 "
     },
     {
         "patientId": 267,
@@ -3370,7 +3383,7 @@
         "status": "境外",
         "travel": " 英國",
         "contractedFrom": "P264",
-        "notes": "工作 與#264同行"
+        "notes": "工作 與#264同行, 症狀: 輕微咳嗽 輕微流鼻水 "
     },
     {
         "patientId": 268,
@@ -3382,7 +3395,7 @@
         "city": "新北",
         "status": "本土",
         "travel": "無",
-        "notes": "職業：工作室老闆\n多次就醫\n2/29 17:20~18:54 金山老街 廟口肉羹\n3/15 14:30~16:48 烏來老街旅遊買路邊小吃\n\n2/28 3/2 3/17 咳嗽、喉嚨痛,同一家診所就醫,診斷為感冒\n3/20 診所因發燒轉急診,肺炎收院治療(單人房)\n3/23 出院\n3/25 另一個醫院就醫(發燒、喘、腹瀉)確診\n3/27 血氧低轉加護病房,尚未使用呼吸器\n4/4記者會：仍在使用呼吸器"
+        "notes": "職業：工作室老闆\n多次就醫\n2/29 17:20~18:54 金山老街 廟口肉羹\n3/15 14:30~16:48 烏來老街旅遊買路邊小吃\n\n2/28 3/2 3/17 咳嗽、喉嚨痛,同一家診所就醫,診斷為感冒\n3/20 診所因發燒轉急診,肺炎收院治療(單人房)\n3/23 出院\n3/25 另一個醫院就醫(發燒、喘、腹瀉)確診\n3/27 血氧低轉加護病房,尚未使用呼吸器\n4/4記者會：仍在使用呼吸器, 症狀: 咳嗽 喉嚨痛 頭痛 發燒 呼吸喘 腹瀉 肺炎 "
     },
     {
         "patientId": 269,
@@ -3395,7 +3408,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P277",
-        "notes": "職業：內勤人員(桃機旅服中心約聘員工)\n3/20 與旅服中心主任張維庭在機場一同接待#277\n3/23 腹瀉診所就醫 診斷為腸胃炎\n3/24 發燒 急診就醫 評估為流感開立抗病毒藥物\n3/25 進入同一家醫院 症狀無改善故通報\n\n4/2記者會公布3/20時序\n14:12 觀光局機場中心主任與#269一起到登機門\n14:25 與#277共三人到CDC發燒篩檢站\n14:29 #277走一般旅客櫃台,另兩人走公務櫃台\n14:31 #277查完護照\n14:35 三人走出海關\n14:39-15:37 在二航入境大廳港苑餐廳外圍座位喝咖啡\n15:39 離開前往停車場,15:51搭#277父親車子離開機場"
+        "notes": "職業：內勤人員(桃機旅服中心約聘員工)\n3/20 與旅服中心主任張維庭在機場一同接待#277\n3/23 腹瀉診所就醫 診斷為腸胃炎\n3/24 發燒 急診就醫 評估為流感開立抗病毒藥物\n3/25 進入同一家醫院 症狀無改善故通報\n\n4/2記者會公布3/20時序\n14:12 觀光局機場中心主任與#269一起到登機門\n14:25 與#277共三人到CDC發燒篩檢站\n14:29 #277走一般旅客櫃台,另兩人走公務櫃台\n14:31 #277查完護照\n14:35 三人走出海關\n14:39-15:37 在二航入境大廳港苑餐廳外圍座位喝咖啡\n15:39 離開前往停車場,15:51搭#277父親車子離開機場, 症狀: 肌肉痠痛 腹瀉 發燒 "
     },
     {
         "patientId": 270,
@@ -3407,7 +3420,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 咳嗽有痰 流鼻水 "
     },
     {
         "patientId": 271,
@@ -3419,7 +3432,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 全身無力 咳嗽 喉嚨乾 失去味覺 失去嗅覺 流鼻水 "
     },
     {
         "patientId": 272,
@@ -3432,7 +3445,7 @@
         "status": "境外",
         "travel": " 英國",
         "contractedFrom": "P152",
-        "notes": "職業：學生\n就學 與#152 #222~#225等5人同校"
+        "notes": "職業：學生\n就學 與#152 #222~#225等5人同校, 症狀: 發燒 咳嗽 失去嗅覺 倦怠 鼻塞 骨頭痠痛 肌肉痠痛 喉嚨痛 "
     },
     {
         "patientId": 273,
@@ -3444,7 +3457,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 西班牙",
-        "notes": "旅遊"
+        "notes": "旅遊, 症狀: 失去嗅覺 輕微咳嗽 "
     },
     {
         "patientId": 274,
@@ -3457,7 +3470,7 @@
         "status": "境外",
         "travel": " 英國倫敦\n",
         "travelStartDate": " 瑞士",
-        "notes": "工作"
+        "notes": "工作, 症狀: 喉嚨癢 喉嚨痛 咳嗽 失去味覺 失去嗅覺 "
     },
     {
         "patientId": 275,
@@ -3469,7 +3482,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 澳大利亞",
-        "notes": "工作"
+        "notes": "工作, 症狀: 流鼻水 失去嗅覺 輕微咳嗽 "
     },
     {
         "patientId": 276,
@@ -3482,7 +3495,7 @@
         "status": "境外",
         "travel": " 西班牙",
         "contractedFrom": "P58 ",
-        "notes": "職業：學生\n就學 與#58 #64 #80 #213同校"
+        "notes": "職業：學生\n就學 與#58 #64 #80 #213同校, 症狀: 鼻塞 流鼻水 失去嗅覺 "
     },
     {
         "patientId": 277,
@@ -3495,7 +3508,7 @@
         "status": "境外",
         "travel": " 菲律賓",
         "contractedFrom": "P269",
-        "notes": "工作、觀光局主秘林坤源之子\n3/1~3/3在國外住院\n有喉嚨痛、發燒和血尿症狀\n當時診斷是腎臟和扁桃腺炎\n一直都有服用抗生素和類固醇\n回國後停用藥物，22日發病\n\n3/20 入境在機場接受桃機旅服中心主任張維庭及聘員#269接待\n3/28 聘員#269確診，3/30 聘員之子#299確診\n3/31 林坤源及張維庭因\"違反防疫規範\"及其他事由\n各記一大過處分，林撤除原主管職務\n\n4/2記者會公布3/20時序 見#269備註"
+        "notes": "工作、觀光局主秘林坤源之子\n3/1~3/3在國外住院\n有喉嚨痛、發燒和血尿症狀\n當時診斷是腎臟和扁桃腺炎\n一直都有服用抗生素和類固醇\n回國後停用藥物，22日發病\n\n3/20 入境在機場接受桃機旅服中心主任張維庭及聘員#269接待\n3/28 聘員#269確診，3/30 聘員之子#299確診\n3/31 林坤源及張維庭因\"違反防疫規範\"及其他事由\n各記一大過處分，林撤除原主管職務\n\n4/2記者會公布3/20時序 見#269備註, 症狀: 喉嚨痛 發燒 "
     },
     {
         "patientId": 278,
@@ -3507,7 +3520,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 捷克",
-        "notes": "工作"
+        "notes": "工作, 症狀: 咳嗽 喉嚨痛 "
     },
     {
         "patientId": 279,
@@ -3519,7 +3532,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 咳嗽 發燒 "
     },
     {
         "patientId": 280,
@@ -3531,7 +3544,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 加拿大",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 流鼻水 咳嗽有痰 鼻塞 "
     },
     {
         "patientId": 281,
@@ -3543,7 +3556,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 發燒 有痰 "
     },
     {
         "patientId": 282,
@@ -3555,7 +3568,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 愛爾蘭",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 發燒 鼻塞 咳嗽 失去味覺 "
     },
     {
         "patientId": 283,
@@ -3567,7 +3580,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 失去嗅覺 失去味覺 "
     },
     {
         "patientId": 284,
@@ -3580,7 +3593,7 @@
         "status": "境外",
         "travel": " 菲律賓",
         "contractedFrom": "P277",
-        "notes": "長期在菲工作\n與 #277 同班機、認識\n該班機共72人 其中本國籍56人"
+        "notes": "長期在菲工作\n與 #277 同班機、認識\n該班機共72人 其中本國籍56人, 症狀: 小腿肌肉痠痛 發燒 喉嚨痛 咳嗽有痰 "
     },
     {
         "patientId": 285,
@@ -3592,7 +3605,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 腹瀉 肌肉痠痛 咳嗽 "
     },
     {
         "patientId": 286,
@@ -3604,7 +3617,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 土耳其",
-        "notes": "跟團旅遊"
+        "notes": "跟團旅遊, 症狀: 發燒 咳嗽 全身倦怠無力 "
     },
     {
         "patientId": 287,
@@ -3616,7 +3629,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 發燒 疲憊 "
     },
     {
         "patientId": 288,
@@ -3629,7 +3642,7 @@
         "status": "境外",
         "travel": " 摩洛哥",
         "contractedFrom": "P250",
-        "notes": "與 #250 同旅行團"
+        "notes": "與 #250 同旅行團, 症狀: 咳嗽 發燒 "
     },
     {
         "patientId": 289,
@@ -3642,7 +3655,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P293",
-        "notes": "先生 (#293) 3/16 從西班牙回國\n疑因口罩手套沒戴好 妻被居家檢疫夫傳染病毒"
+        "notes": "先生 (#293) 3/16 從西班牙回國\n疑因口罩手套沒戴好 妻被居家檢疫夫傳染病毒, 症狀: 發燒 鼻炎 "
     },
     {
         "patientId": 290,
@@ -3655,7 +3668,7 @@
         "status": "境外",
         "travel": " 印尼",
         "contractedFrom": "P291",
-        "notes": "旅遊 與 #291 為家庭群聚"
+        "notes": "旅遊 與 #291 為家庭群聚, 症狀: 無嗅覺 "
     },
     {
         "patientId": 291,
@@ -3668,7 +3681,7 @@
         "status": "境外",
         "travel": " 印尼",
         "contractedFrom": "P290",
-        "notes": "旅遊 與 #290 為家庭群聚"
+        "notes": "旅遊 與 #290 為家庭群聚, 症狀: 咳嗽 肌肉痠痛 關節痛 全身倦怠 "
     },
     {
         "patientId": 292,
@@ -3680,7 +3693,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 咳嗽 頭痛 冒冷汗 發燒 "
     },
     {
         "patientId": 293,
@@ -3693,7 +3706,7 @@
         "status": "境外",
         "travel": " 葡萄牙、西班牙",
         "contractedFrom": "P289",
-        "notes": "跟團旅遊 (#289的先生)\n居家檢疫中"
+        "notes": "跟團旅遊 (#289的先生)\n居家檢疫中, 症狀: 咳嗽 "
     },
     {
         "patientId": 294,
@@ -3705,7 +3718,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 瑞士",
-        "notes": "工作"
+        "notes": "工作, 症狀: 喉嚨痛 鼻塞 "
     },
     {
         "patientId": 295,
@@ -3717,7 +3730,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "旅遊"
+        "notes": "旅遊, 症狀: 咳嗽 喉嚨痛 發燒 "
     },
     {
         "patientId": 296,
@@ -3729,7 +3742,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": "\n西班牙 突尼西亞 法國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 發燒 咳嗽 喉嚨痛 腹痛 嘔吐 "
     },
     {
         "patientId": 297,
@@ -3741,7 +3754,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 法國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 發燒 咳嗽 喉嚨痛 全身倦怠 肌肉痠痛 流鼻水 鼻塞 頭痛 "
     },
     {
         "patientId": 298,
@@ -3753,7 +3766,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 法國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 發燒 全身倦怠 頭痛 結膜充血 流鼻水 鼻塞 胸痛 肌肉痠痛 腹瀉 嗅覺喪失 味覺喪失 "
     },
     {
         "patientId": 299,
@@ -3766,7 +3779,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P269",
-        "notes": "職業：學生\n#269 同住家人\n幼稚園 5歲\n3/30 幼兒園17名師生全面停班，居家隔離14天\n首例幼兒園停課，目前採檢均陰性"
+        "notes": "職業：學生\n#269 同住家人\n幼稚園 5歲\n3/30 幼兒園17名師生全面停班，居家隔離14天\n首例幼兒園停課，目前採檢均陰性, 症狀: 微燒(37.5度) "
     },
     {
         "patientId": 300,
@@ -3779,7 +3792,7 @@
         "status": "境外",
         "travel": " 英國",
         "contractedFrom": "P257",
-        "notes": "職業：學生\n就學 與#257 #258 同校"
+        "notes": "職業：學生\n就學 與#257 #258 同校, 症狀: 發燒 呼吸喘 "
     },
     {
         "patientId": 301,
@@ -3791,7 +3804,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "旅遊\n職業：實踐大學兼任老師，學生9人居家隔離。"
+        "notes": "旅遊\n職業：實踐大學兼任老師，學生9人居家隔離。, 症狀: 咳嗽 發燒 頭痛 氣喘 肺炎 "
     },
     {
         "patientId": 302,
@@ -3804,7 +3817,7 @@
         "status": "境外",
         "travel": " 英國",
         "contractedFrom": "P152",
-        "notes": "職業：學生\n就學 與#152 #222~#225 #272等6人同校"
+        "notes": "職業：學生\n就學 與#152 #222~#225 #272等6人同校, 症狀: 無症狀 "
     },
     {
         "patientId": 303,
@@ -3817,7 +3830,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P182",
-        "notes": "旅遊 與#182 #304同行"
+        "notes": "旅遊 與#182 #304同行, 症狀: 發燒 嗅覺遲鈍 "
     },
     {
         "patientId": 304,
@@ -3830,7 +3843,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P182",
-        "notes": "旅遊 與#182 #303同行"
+        "notes": "旅遊 與#182 #303同行, 症狀: 流鼻水 微燒(37.5度) 失去嗅覺 失去味覺 "
     },
     {
         "patientId": 305,
@@ -3843,7 +3856,7 @@
         "status": "境外",
         "travel": " 菲律賓",
         "contractedFrom": "P164",
-        "notes": "探親 #164 親友"
+        "notes": "探親 #164 親友, 症狀: 喉嚨乾 "
     },
     {
         "patientId": 306,
@@ -3855,7 +3868,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 埃及",
-        "notes": "跟團旅遊"
+        "notes": "跟團旅遊, 症狀: 咳嗽 腹瀉 喉嚨痛 "
     },
     {
         "patientId": 307,
@@ -3868,7 +3881,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P122",
-        "notes": "#122 接觸者(3/15 拜訪#122)"
+        "notes": "#122 接觸者(3/15 拜訪#122), 症狀: 胸悶 發燒 肌肉痠痛 肺炎 "
     },
     {
         "patientId": 308,
@@ -3881,7 +3894,7 @@
         "status": "境外",
         "travel": " 泰國\n",
         "travelStartDate": " 菲律賓",
-        "notes": "工作"
+        "notes": "工作, 症狀: 胸悶 肌肉痠痛 咳嗽 "
     },
     {
         "patientId": 309,
@@ -3893,7 +3906,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "長住英國工作"
+        "notes": "長住英國工作, 症狀: 鼻塞 喉嚨不適 頭痛 "
     },
     {
         "patientId": 310,
@@ -3906,7 +3919,7 @@
         "status": "境外",
         "travel": " 英國\n",
         "travelStartDate": " 芬蘭 冰島",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 發燒 流鼻涕 咳嗽 "
     },
     {
         "patientId": 311,
@@ -3918,7 +3931,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國 冰島",
-        "notes": "自助旅遊"
+        "notes": "自助旅遊, 症狀: 流鼻水 鼻塞 失去嗅覺 "
     },
     {
         "patientId": 312,
@@ -3930,7 +3943,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 失去嗅覺 味覺異常 輕微咳嗽 有痰 "
     },
     {
         "patientId": 313,
@@ -3942,7 +3955,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "長住英國工作"
+        "notes": "長住英國工作, 症狀: 失去味覺 失去嗅覺 倦怠 "
     },
     {
         "patientId": 314,
@@ -3954,7 +3967,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 咳嗽 喉嚨痛 發燒 "
     },
     {
         "patientId": 315,
@@ -3967,7 +3980,7 @@
         "status": "境外",
         "travel": " 英國",
         "contractedFrom": "P257",
-        "notes": "職業：學生\n就學 與#257 #258 #300 同校"
+        "notes": "職業：學生\n就學 與#257 #258 #300 同校, 症狀: 咳嗽 失去嗅覺 "
     },
     {
         "patientId": 316,
@@ -3979,7 +3992,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 流鼻水 頭痛 全身無力 "
     },
     {
         "patientId": 317,
@@ -3991,7 +4004,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "台美兩地往返居住"
+        "notes": "台美兩地往返居住, 症狀: 咳嗽 有痰 "
     },
     {
         "patientId": 318,
@@ -4004,7 +4017,7 @@
         "status": "境外",
         "travel": " 法國",
         "contractedFrom": "P112",
-        "notes": "就學 #112同班機接觸者"
+        "notes": "就學 #112同班機接觸者, 症狀: 間歇性發燒 輕微喉嚨痛 "
     },
     {
         "patientId": 319,
@@ -4016,7 +4029,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 咳嗽 呼吸道症狀 "
     },
     {
         "patientId": 320,
@@ -4028,7 +4041,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 咳嗽 流鼻水 喉嚨痛 "
     },
     {
         "patientId": 321,
@@ -4041,7 +4054,7 @@
         "status": "境外",
         "travel": " 瑞士",
         "contractedFrom": "P294",
-        "notes": "工作，與#294同行。\n#294表示工作場所有人確診，因此#321被要求採檢。"
+        "notes": "工作，與#294同行。\n#294表示工作場所有人確診，因此#321被要求採檢。, 症狀: 無症狀 "
     },
     {
         "patientId": 322,
@@ -4053,7 +4066,7 @@
         "city": "台北",
         "status": "本土",
         "travel": "無",
-        "notes": "職業：學生(台師大)\n週四(3/26)沒上課，但有找教授交作業\n週五(3/27)去上課，其他都在宿舍\n全校4/6-17日改遠距教學\n4/3會後加訪：接觸者259人 採檢7人 4陰 3未出爐\n4/14會後：剩7位未出爐"
+        "notes": "職業：學生(台師大)\n週四(3/26)沒上課，但有找教授交作業\n週五(3/27)去上課，其他都在宿舍\n全校4/6-17日改遠距教學\n4/3會後加訪：接觸者259人 採檢7人 4陰 3未出爐\n4/14會後：剩7位未出爐, 症狀: 發燒 咳嗽 嘔吐 全身倦怠 肺炎 "
     },
     {
         "patientId": 323,
@@ -4065,7 +4078,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 喉嚨痛 喉嚨癢 "
     },
     {
         "patientId": 324,
@@ -4077,7 +4090,7 @@
         "city": "嘉縣",
         "status": "境外",
         "travel": " 美國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 流鼻水 鼻塞 嗅覺不靈敏 "
     },
     {
         "patientId": 325,
@@ -4090,7 +4103,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P325",
-        "notes": "自助旅遊，#325 , #329同行\n華航紐約往台班機CI011同班機接觸者\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381"
+        "notes": "自助旅遊，#325 , #329同行\n華航紐約往台班機CI011同班機接觸者\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381, 症狀: 嗅覺喪失 "
     },
     {
         "patientId": 326,
@@ -4103,7 +4116,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P325",
-        "notes": "職業：學生\n就學\n華航紐約往台班機CI011同班機接觸者\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381"
+        "notes": "職業：學生\n就學\n華航紐約往台班機CI011同班機接觸者\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381, 症狀: 發燒 "
     },
     {
         "patientId": 327,
@@ -4116,7 +4129,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P325",
-        "notes": "工作\n華航紐約往台班機CI011同班機接觸者\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381"
+        "notes": "工作\n華航紐約往台班機CI011同班機接觸者\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381, 症狀: 喉嚨痛 鼻塞 肌肉痠痛 發燒 "
     },
     {
         "patientId": 328,
@@ -4129,7 +4142,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P325",
-        "notes": "探親\n華航紐約往台班機CI011同班機接觸者\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381"
+        "notes": "探親\n華航紐約往台班機CI011同班機接觸者\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381, 症狀: 發燒 "
     },
     {
         "patientId": 329,
@@ -4142,7 +4155,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P325",
-        "notes": "自助旅遊，#325 , #329同行\n華航紐約往台班機CI011同班機接觸者\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381"
+        "notes": "自助旅遊，#325 , #329同行\n華航紐約往台班機CI011同班機接觸者\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381, 症狀: 味覺喪失 嗅覺喪失 有痰 "
     },
     {
         "patientId": 330,
@@ -4154,7 +4167,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 咳嗽 喉嚨痛 肌肉痠痛 發燒 "
     },
     {
         "patientId": 331,
@@ -4167,7 +4180,7 @@
         "status": "境外",
         "travel": " 秘魯 智利 阿根廷 玻利維亞 巴西",
         "contractedFrom": "P259",
-        "notes": "旅遊\n同團團員：#259 #331 #355"
+        "notes": "旅遊\n同團團員：#259 #331 #355, 症狀: 全身倦怠 喉嚨乾 "
     },
     {
         "patientId": 332,
@@ -4179,7 +4192,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 自覺有發燒 味覺喪失 嗅覺喪失 "
     },
     {
         "patientId": 333,
@@ -4192,7 +4205,7 @@
         "status": "境外",
         "travel": " 丹麥",
         "contractedFrom": "P155",
-        "notes": "與老公(#155 )同去探親\n3/15 出現喉嚨痛 頭痛 肌肉痠痛\n3/20 曾採檢為陰性\n3/29 發燒"
+        "notes": "與老公(#155 )同去探親\n3/15 出現喉嚨痛 頭痛 肌肉痠痛\n3/20 曾採檢為陰性\n3/29 發燒, 症狀: 喉嚨痛 腹悶痛 發燒 肌肉痠痛 "
     },
     {
         "patientId": 334,
@@ -4206,7 +4219,7 @@
         "travel": " 加拿大\n",
         "travelStartDate": " 美國",
         "contractedFrom": "P182",
-        "notes": "1/4-3/6 加拿大遊學\n3/7-3/19 美國自由行 與#182,#303,#304同團 該團共10人"
+        "notes": "1/4-3/6 加拿大遊學\n3/7-3/19 美國自由行 與#182,#303,#304同團 該團共10人, 症狀: 輕微流鼻水 咳嗽 "
     },
     {
         "patientId": 335,
@@ -4219,7 +4232,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P291",
-        "notes": "職業：旅行社代理部主管\n3/20 與#291(印尼境外移入)有接觸 喝咖啡一小時\n3/23 腹瀉就醫未緩解 3/27到同一診所二度就診\n3/29 因得知#291確診 3/31 再次就醫\n3/31 進負壓隔離病房採"
+        "notes": "職業：旅行社代理部主管\n3/20 與#291(印尼境外移入)有接觸 喝咖啡一小時\n3/23 腹瀉就醫未緩解 3/27到同一診所二度就診\n3/29 因得知#291確診 3/31 再次就醫\n3/31 進負壓隔離病房採, 症狀: 腹瀉 發燒 全身倦怠 X光片顯示肺炎 "
     },
     {
         "patientId": 336,
@@ -4231,7 +4244,7 @@
         "city": "北市",
         "status": "本土",
         "travel": "無",
-        "notes": "職業：社區保全\n保全家住在偏遠山區，且平時騎機車上下班\n社區住戶204人\n3/17 出現鼻塞全身倦怠喉嚨痛流鼻水咳嗽等症狀至診所就醫\n3/26 因發燒38.7於同一家診所就醫\n3/30 早上先至同一診所就醫再至醫院就醫，X光發現有肺炎症狀，轉至同一體系之另一家醫院收住負壓隔離病房採檢\n4/2確診\n4/3會後加訪：部分住戶有出國史 目前正確認中\n接觸者共匡列388人 社區204人 \b已採8人 6陰 2檢驗中\n4/5 1位住戶發燒送醫 1位就診病患 檢驗中"
+        "notes": "職業：社區保全\n保全家住在偏遠山區，且平時騎機車上下班\n社區住戶204人\n3/17 出現鼻塞全身倦怠喉嚨痛流鼻水咳嗽等症狀至診所就醫\n3/26 因發燒38.7於同一家診所就醫\n3/30 早上先至同一診所就醫再至醫院就醫，X光發現有肺炎症狀，轉至同一體系之另一家醫院收住負壓隔離病房採檢\n4/2確診\n4/3會後加訪：部分住戶有出國史 目前正確認中\n接觸者共匡列388人 社區204人 \b已採8人 6陰 2檢驗中\n4/5 1位住戶發燒送醫 1位就診病患 檢驗中, 症狀: 發燒 全身倦怠 喉嚨痛 流鼻水 咳嗽 X光片顯示肺炎 嗅覺喪失\n首例本土 嗅覺喪失 "
     },
     {
         "patientId": 337,
@@ -4243,7 +4256,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "就學"
+        "notes": "就學, 症狀: 腹瀉 喉嚨痛 味覺喪失 嗅覺喪失 "
     },
     {
         "patientId": 338,
@@ -4256,7 +4269,7 @@
         "status": "境外",
         "travel": " 奧地利 捷克",
         "contractedFrom": "P108",
-        "notes": "奧捷團群聚 領隊#108 確診病故\n團員#61,#72,#104,#338,#341,#359,#360,#363確診\n總共9人確診 剩餘8團員全數陰性\n\n3/14返家後出現腹瀉咳嗽\n3/15-29居家隔離\n3/30 就診"
+        "notes": "奧捷團群聚 領隊#108 確診病故\n團員#61,#72,#104,#338,#341,#359,#360,#363確診\n總共9人確診 剩餘8團員全數陰性\n\n3/14返家後出現腹瀉咳嗽\n3/15-29居家隔離\n3/30 就診, 症狀: 腹瀉 咳嗽 "
     },
     {
         "patientId": 339,
@@ -4268,7 +4281,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 印尼",
-        "notes": "工作"
+        "notes": "工作, 症狀: 發燒 味覺喪失 嗅覺喪失 "
     },
     {
         "patientId": 340,
@@ -4281,7 +4294,7 @@
         "status": "境外",
         "travel": " 丹麥\n",
         "travelStartDate": " 英國",
-        "notes": "丹麥就學"
+        "notes": "丹麥就學, 症狀: 發燒 畏寒 頭暈 全身倦怠 "
     },
     {
         "patientId": 341,
@@ -4294,7 +4307,7 @@
         "status": "境外",
         "travel": " 奧地利 捷克",
         "contractedFrom": "P108",
-        "notes": "奧捷團群聚 領隊#108 確診病故\n團員#61,#72,#104,#338,#341,#359,#360,#363確診\n總共9人確診 剩餘8團員全數陰性\n\n3/30 陪同丈夫 #338 就診\n4/3記者會：奧捷團剩餘11團員都將採檢\n4/4記者會：檢驗結果經在4/5公布"
+        "notes": "奧捷團群聚 領隊#108 確診病故\n團員#61,#72,#104,#338,#341,#359,#360,#363確診\n總共9人確診 剩餘8團員全數陰性\n\n3/30 陪同丈夫 #338 就診\n4/3記者會：奧捷團剩餘11團員都將採檢\n4/4記者會：檢驗結果經在4/5公布, 症狀: 腹瀉 "
     },
     {
         "patientId": 342,
@@ -4306,7 +4319,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 咳嗽 流鼻水 發燒 "
     },
     {
         "patientId": 343,
@@ -4319,7 +4332,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P356",
-        "notes": "家人(先生 無症狀#356) 3/17 自美國返國\n3/20出現全身痠痛咳嗽鼻塞流鼻水，自行服用成藥\n3/24未改善至診所就醫\n3/27 症狀持續改看中醫\n3/28仍有症狀至另一診所就醫\n3/30 拉肚子 3/31至醫院急診就醫入院治療"
+        "notes": "家人(先生 無症狀#356) 3/17 自美國返國\n3/20出現全身痠痛咳嗽鼻塞流鼻水，自行服用成藥\n3/24未改善至診所就醫\n3/27 症狀持續改看中醫\n3/28仍有症狀至另一診所就醫\n3/30 拉肚子 3/31至醫院急診就醫入院治療, 症狀: 全身痠痛 咳嗽 流鼻水 "
     },
     {
         "patientId": 344,
@@ -4332,7 +4345,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P182",
-        "notes": "美國旅遊團(與#182 ,#303,#304,#334同團)\n3/20 陪丈夫(#182)就醫時採檢陰性 後居家隔離\n3/30 出現發燒後收治住院採檢 4/3確診"
+        "notes": "美國旅遊團(與#182 ,#303,#304,#334同團)\n3/20 陪丈夫(#182)就醫時採檢陰性 後居家隔離\n3/30 出現發燒後收治住院採檢 4/3確診, 症狀: 發燒 "
     },
     {
         "patientId": 345,
@@ -4344,7 +4357,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 泰國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 嗅覺喪失 "
     },
     {
         "patientId": 346,
@@ -4357,7 +4370,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P325",
-        "notes": "職業：學生\n就學\n華航紐約往台班機CI011同班機接觸者\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381"
+        "notes": "職業：學生\n就學\n華航紐約往台班機CI011同班機接觸者\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381, 症狀: 頭痛 關節痛 腹瀉 咳嗽 味覺喪失 "
     },
     {
         "patientId": 347,
@@ -4370,7 +4383,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P336",
-        "notes": "#336 (社區保全)接觸者 兩人曾因團購物品，未戴口罩交談20分鐘\n公司上班 附近住戶\n3/24 出現畏寒 至診所就醫 3/30 二度就診\n3/31 至醫院急診採檢住院\n連同 #336 接觸者總共142人，其中有8位檢驗中，其他住戶繼續匡列中"
+        "notes": "#336 (社區保全)接觸者 兩人曾因團購物品，未戴口罩交談20分鐘\n公司上班 附近住戶\n3/24 出現畏寒 至診所就醫 3/30 二度就診\n3/31 至醫院急診採檢住院\n連同 #336 接觸者總共142人，其中有8位檢驗中，其他住戶繼續匡列中, 症狀: 畏寒 發燒 "
     },
     {
         "patientId": 348,
@@ -4382,7 +4395,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 嗅覺喪失 "
     },
     {
         "patientId": 349,
@@ -4394,7 +4407,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 瑞士",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 喉嚨痛 嗅覺異常 "
     },
     {
         "patientId": 350,
@@ -4407,7 +4420,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P197",
-        "notes": "工作\n為#197 #202同班機接觸者"
+        "notes": "工作\n為#197 #202同班機接觸者, 症狀: 輕微腹瀉 輕微胸悶 "
     },
     {
         "patientId": 351,
@@ -4419,7 +4432,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 德國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 鼻塞 失去嗅覺 "
     },
     {
         "patientId": 352,
@@ -4432,7 +4445,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P301",
-        "notes": "北部販售員（非超商店員、以信用卡交易店家）\n獨居 平時活動地以住家及工作地為主\n從家中通勤到上班地須橫過不同縣市\n3/30晚上發燒 3/31未上班\n初步匡列11位接觸者 (2位非同住友人、7位同事\n3位居家隔離)\n目前正在調閱工作場所監視器\n首例商店販售人員\n3/21到#301家喝飲料1小時"
+        "notes": "北部販售員（非超商店員、以信用卡交易店家）\n獨居 平時活動地以住家及工作地為主\n從家中通勤到上班地須橫過不同縣市\n3/30晚上發燒 3/31未上班\n初步匡列11位接觸者 (2位非同住友人、7位同事\n3位居家隔離)\n目前正在調閱工作場所監視器\n首例商店販售人員\n3/21到#301家喝飲料1小時, 症狀: 發燒\n味覺及嗅覺喪失\n首例本土 味覺及嗅覺都喪失 "
     },
     {
         "patientId": 353,
@@ -4444,7 +4457,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 鼻水 頭痛 全身無力 倦怠 微燒 "
     },
     {
         "patientId": 354,
@@ -4456,7 +4469,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "長住美國工作"
+        "notes": "長住美國工作, 症狀: 腹瀉 全身倦怠 喉嚨痛 流鼻水 咳嗽 發燒 胸痛 "
     },
     {
         "patientId": 355,
@@ -4469,7 +4482,7 @@
         "status": "境外",
         "travel": " 秘魯 智利 阿根廷 玻利維亞 巴西",
         "contractedFrom": "P259",
-        "notes": "旅遊\n同團團員：#259 #331 #355"
+        "notes": "旅遊\n同團團員：#259 #331 #355, 症狀: 無症狀 "
     },
     {
         "patientId": 356,
@@ -4482,7 +4495,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P343",
-        "notes": "工作 #343丈夫"
+        "notes": "工作 #343丈夫, 症狀: 無症狀 "
     },
     {
         "patientId": 357,
@@ -4495,7 +4508,7 @@
         "status": "境外",
         "travel": " 摩洛哥",
         "contractedFrom": "P250",
-        "notes": "摩洛哥團群聚(團員#250 #288)\n該團剩餘14團員中 12陰 2採檢中"
+        "notes": "摩洛哥團群聚(團員#250 #288)\n該團剩餘14團員中 12陰 2採檢中, 症狀: 發燒 X光顯示肺炎 "
     },
     {
         "patientId": 358,
@@ -4507,7 +4520,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "探親"
+        "notes": "探親, 症狀: 喉嚨痛 發燒 咳嗽 有痰 "
     },
     {
         "patientId": 359,
@@ -4520,7 +4533,7 @@
         "status": "境外",
         "travel": " 奧地利 捷克",
         "contractedFrom": "P108",
-        "notes": "奧捷團群聚 領隊#108 確診病故\n團員#61,#72,#104,#338,#341,#359,#360,#363確診\n總共9人確診 剩餘8團員全數陰性"
+        "notes": "奧捷團群聚 領隊#108 確診病故\n團員#61,#72,#104,#338,#341,#359,#360,#363確診\n總共9人確診 剩餘8團員全數陰性, 症狀: 無症狀 X光顯示肺部輕微浸潤 "
     },
     {
         "patientId": 360,
@@ -4533,7 +4546,7 @@
         "status": "境外",
         "travel": " 奧地利 捷克",
         "contractedFrom": "P108",
-        "notes": "奧捷團群聚 領隊#108 確診病故\n團員#61,#72,#104,#338,#341,#359,#360,#363確診\n總共9人確診 剩餘8團員全數陰性"
+        "notes": "奧捷團群聚 領隊#108 確診病故\n團員#61,#72,#104,#338,#341,#359,#360,#363確診\n總共9人確診 剩餘8團員全數陰性, 症狀: 無症狀 X光顯示肺部輕微浸潤 "
     },
     {
         "patientId": 361,
@@ -4546,7 +4559,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P240",
-        "notes": "探親 #240同班機接觸者"
+        "notes": "探親 #240同班機接觸者, 症狀: 流鼻水 鼻塞 發燒 嗅覺遲鈍 "
     },
     {
         "patientId": 362,
@@ -4558,7 +4571,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "工作"
+        "notes": "工作, 症狀: 發燒 味覺異常 嗅覺異常 "
     },
     {
         "patientId": 363,
@@ -4571,7 +4584,7 @@
         "status": "境外",
         "travel": " 奧地利 捷克",
         "contractedFrom": "P108",
-        "notes": "奧捷團群聚 領隊#108 確診病故\n團員#61,#72,#104,#338,#341,#359,#360,#363確診\n總共9人確診 剩餘8團員全數陰性"
+        "notes": "奧捷團群聚 領隊#108 確診病故\n團員#61,#72,#104,#338,#341,#359,#360,#363確診\n總共9人確診 剩餘8團員全數陰性, 症狀: 無症狀 "
     },
     {
         "patientId": 364,
@@ -4584,7 +4597,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P325",
-        "notes": "工作\n華航紐約往台班機CI011同班機接觸者\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381"
+        "notes": "工作\n華航紐約往台班機CI011同班機接觸者\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381, 症狀: 咳嗽 呼吸不順 肌肉痠痛 發燒 "
     },
     {
         "patientId": 365,
@@ -4597,7 +4610,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P356",
-        "notes": "職業：學生(幼兒園)\n#356 >#343>孫子，四歲\n#343妻、#356夫、#365孫 為同住親人，\n另有孫#365之父母同住，已驗陰性"
+        "notes": "職業：學生(幼兒園)\n#356 >#343>孫子，四歲\n#343妻、#356夫、#365孫 為同住親人，\n另有孫#365之父母同住，已驗陰性, 症狀: 發燒 "
     },
     {
         "patientId": 366,
@@ -4610,7 +4623,7 @@
         "status": "境外",
         "travel": " 英國",
         "contractedFrom": "P366",
-        "notes": "職業：學生\n就學，#366,#367同校友人"
+        "notes": "職業：學生\n就學，#366,#367同校友人, 症狀: 咳嗽 嗅覺喪失 "
     },
     {
         "patientId": 367,
@@ -4623,7 +4636,7 @@
         "status": "境外",
         "travel": " 英國",
         "contractedFrom": "P366",
-        "notes": "職業：學生\n就學，#366,#367同校友人"
+        "notes": "職業：學生\n就學，#366,#367同校友人, 症狀: 咳嗽 全身倦怠 痠痛 腹瀉 "
     },
     {
         "patientId": 368,
@@ -4635,7 +4648,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 喉嚨痛 "
     },
     {
         "patientId": 369,
@@ -4647,7 +4660,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 印尼",
-        "notes": "工作"
+        "notes": "工作, 症狀: 發燒 "
     },
     {
         "patientId": 370,
@@ -4660,7 +4673,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P370",
-        "notes": "職業：學生\n就學及工作\n#370 #371 為同住家人\n華航紐約往台班機CI011同班機接觸者\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381"
+        "notes": "職業：學生\n就學及工作\n#370 #371 為同住家人\n華航紐約往台班機CI011同班機接觸者\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381, 症狀: 嗅覺喪失 "
     },
     {
         "patientId": 371,
@@ -4673,7 +4686,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P370",
-        "notes": "職業：學生\n就學\n#370 #371 為同住家人\n華航紐約往台班機CI011同班機接觸者\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381"
+        "notes": "職業：學生\n就學\n#370 #371 為同住家人\n華航紐約往台班機CI011同班機接觸者\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381, 症狀: 喉嚨痛 味覺喪失 "
     },
     {
         "patientId": 372,
@@ -4686,7 +4699,7 @@
         "status": "境外",
         "travel": " 英國 冰島",
         "contractedFrom": "P372",
-        "notes": "旅遊\n#372,#373為同行家人"
+        "notes": "旅遊\n#372,#373為同行家人, 症狀: 流鼻水 鼻塞 味覺異常 嗅覺異常 "
     },
     {
         "patientId": 373,
@@ -4699,7 +4712,7 @@
         "status": "境外",
         "travel": " 英國 冰島",
         "contractedFrom": "P372",
-        "notes": "旅遊\n#372,#373為同行家人"
+        "notes": "旅遊\n#372,#373為同行家人, 症狀: 流鼻水 鼻塞 嗅覺喪失 "
     },
     {
         "patientId": 374,
@@ -4711,7 +4724,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國",
-        "notes": "職業：學生\n英國就學"
+        "notes": "職業：學生\n英國就學, 症狀: 鼻塞 腹瀉 咳嗽 流鼻水 嗅覺遲鈍 "
     },
     {
         "patientId": 375,
@@ -4723,7 +4736,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 英國 荷蘭 比利時",
-        "notes": "法國探親及旅遊"
+        "notes": "法國探親及旅遊, 症狀: 鼻塞 喉嚨不適 失去嗅覺 微喘 發燒 腹瀉 "
     },
     {
         "patientId": 376,
@@ -4736,7 +4749,7 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P370",
-        "notes": "#370 友人，與#370 #371一同返國\n華航紐約往台班機CI011同班機接觸者\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381"
+        "notes": "#370 友人，與#370 #371一同返國\n華航紐約往台班機CI011同班機接觸者\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381, 症狀: 咳嗽 鼻塞 流鼻水 噁心 "
     },
     {
         "patientId": 377,
@@ -4748,7 +4761,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 西班牙",
-        "notes": "職業：學生\n西班牙語言學校就學"
+        "notes": "職業：學生\n西班牙語言學校就學, 症狀: 喉嚨痛 腹瀉 胸背痛 "
     },
     {
         "patientId": 378,
@@ -4760,7 +4773,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 印尼",
-        "notes": "探親"
+        "notes": "探親, 症狀: 呼吸困難 咳嗽 發燒 全身倦怠 X光顯示肺炎 "
     },
     {
         "patientId": 379,
@@ -4772,7 +4785,7 @@
         "city": "桃園",
         "status": "本土",
         "travel": "無",
-        "notes": "初步掌握接觸者共21人，包括個案同住家人及就醫接觸者等\n此個案自述沒有上班，自述多數時間都在家，偶爾會走路去購物中心買東西，平時活動地以住家及周邊地區為主\n個案先生有一段時間在中國廣州工作，但1月就已回台，個案也曾於2月9日到東南亞旅遊，但除此之外，生活範圍算小，疫調上有一定困難，也擔心不準確，因此已經導入相關協尋資訊系統，希望蒐集資料更完全。\n\n4/11記者會：\n個案於3/23~4/3在酒店上班時間接觸到的客人和工作人員都有掌握到\n會進一步調查並採檢有接觸的6位客人\n釐清酒店公關疫調 桃園市府盼尊重當事人隱私\n\n4/13 更新\n調查123人，職場96人，家屬4人，其他23人。\n居家隔離65人(家屬4，職場59，其他2)\n已採檢12人，10人陰性。多數台北市。"
+        "notes": "初步掌握接觸者共21人，包括個案同住家人及就醫接觸者等\n此個案自述沒有上班，自述多數時間都在家，偶爾會走路去購物中心買東西，平時活動地以住家及周邊地區為主\n個案先生有一段時間在中國廣州工作，但1月就已回台，個案也曾於2月9日到東南亞旅遊，但除此之外，生活範圍算小，疫調上有一定困難，也擔心不準確，因此已經導入相關協尋資訊系統，希望蒐集資料更完全。\n\n4/11記者會：\n個案於3/23~4/3在酒店上班時間接觸到的客人和工作人員都有掌握到\n會進一步調查並採檢有接觸的6位客人\n釐清酒店公關疫調 桃園市府盼尊重當事人隱私\n\n4/13 更新\n調查123人，職場96人，家屬4人，其他23人。\n居家隔離65人(家屬4，職場59，其他2)\n已採檢12人，10人陰性。多數台北市。, 症狀: 輕微發燒 流鼻水 "
     },
     {
         "patientId": 380,
@@ -4785,7 +4798,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P322",
-        "notes": "職業：學生\n#322 台師大宿舍同寢室室友\n#322+#380 匡列448人(大部分為同課師生)、採檢24人、1陽，3人檢驗中，目前居家隔離21人\n該校各系所自4月6日至4月17日皆採行遠距授課。\n首次大學全校停課"
+        "notes": "職業：學生\n#322 台師大宿舍同寢室室友\n#322+#380 匡列448人(大部分為同課師生)、採檢24人、1陽，3人檢驗中，目前居家隔離21人\n該校各系所自4月6日至4月17日皆採行遠距授課。\n首次大學全校停課, 症狀: 無症狀 "
     },
     {
         "patientId": 381,
@@ -4798,7 +4811,7 @@
         "status": "境外",
         "travel": "美國",
         "contractedFrom": "P325",
-        "notes": "華航紐約往台班機CI011同班機接觸者，該班機乘客加機組員336人\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381 #381\n累計11人"
+        "notes": "華航紐約往台班機CI011同班機接觸者，該班機乘客加機組員336人\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381 #381\n累計11人, 症狀: 流鼻水 鼻塞 嗅覺異常症狀 "
     },
     {
         "patientId": 382,
@@ -4811,7 +4824,7 @@
         "status": "境外",
         "travel": " 印尼",
         "contractedFrom": "P378",
-        "notes": "與#378(妻子)一同至印尼探親"
+        "notes": "與#378(妻子)一同至印尼探親, 症狀: 無症狀 "
     },
     {
         "patientId": 383,
@@ -4823,7 +4836,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": "美國",
-        "notes": "工作 曾於美國當地就醫"
+        "notes": "工作 曾於美國當地就醫, 症狀: 胃部不適 食慾不佳 自覺發熱 "
     },
     {
         "patientId": 384,
@@ -4835,7 +4848,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": "美國",
-        "notes": "長期旅居美國"
+        "notes": "長期旅居美國, 症狀: 咳嗽有痰 "
     },
     {
         "patientId": 385,
@@ -4847,7 +4860,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": "法國",
-        "notes": "職業：學生\n就學"
+        "notes": "職業：學生\n就學, 症狀: 流鼻水 鼻塞 發燒 "
     },
     {
         "patientId": 386,
@@ -4860,7 +4873,7 @@
         "status": "本土",
         "travel": "無",
         "contractedFrom": "P195",
-        "notes": "#195同住友人、已解隔離後，4/7-4/9上班、買東西有戴口罩。\n隔離期有症狀類似過敏，因此被病患忽略，在解除隔離後，因公布結束隔離要回顧相關症狀，擴大採檢後確診"
+        "notes": "#195同住友人、已解隔離後，4/7-4/9上班、買東西有戴口罩。\n隔離期有症狀類似過敏，因此被病患忽略，在解除隔離後，因公布結束隔離要回顧相關症狀，擴大採檢後確診, 症狀: 流鼻水 鼻塞 "
     },
     {
         "patientId": 387,
@@ -4872,7 +4885,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 美國",
-        "notes": "3月25日出現咳嗽、喉嚨痛等症狀，自行服藥並無就醫"
+        "notes": "3月25日出現咳嗽、喉嚨痛等症狀，自行服藥並無就醫, 症狀: 咳嗽 喉嚨痛 "
     },
     {
         "patientId": 388,
@@ -4885,7 +4898,7 @@
         "status": "境外",
         "travel": " 英國",
         "contractedFrom": "P358",
-        "notes": "#358妻子"
+        "notes": "#358妻子, 症狀: 味覺喪失 嗅覺喪失 "
     },
     {
         "patientId": 389,
@@ -4897,7 +4910,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 珊瑚公主號\n美國、祕魯、玻利維亞、巴西及智利",
-        "notes": "珊瑚公主號旅客"
+        "notes": "珊瑚公主號旅客, 症狀: 喉嚨癢 咳嗽有痰 輕微腹瀉 體溫偏高 "
     },
     {
         "patientId": 390,
@@ -4909,7 +4922,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 珊瑚公主號\n美國、祕魯、玻利維亞、巴西及智利",
-        "notes": "珊瑚公主號旅客"
+        "notes": "珊瑚公主號旅客, 症狀: 喉嚨癢 "
     },
     {
         "patientId": 391,
@@ -4921,7 +4934,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 珊瑚公主號\n美國、祕魯、玻利維亞、巴西及智利",
-        "notes": "珊瑚公主號旅客"
+        "notes": "珊瑚公主號旅客, 症狀: 喉嚨癢 乾咳 腹瀉 體溫偏高 肌肉痠痛 "
     },
     {
         "patientId": 392,
@@ -4933,7 +4946,7 @@
         "city": "未公佈",
         "status": "境外",
         "travel": " 珊瑚公主號\n美國、祕魯、玻利維亞、巴西及智利",
-        "notes": "珊瑚公主號旅客"
+        "notes": "珊瑚公主號旅客, 症狀: 咳嗽有痰 呼吸微喘 肌肉痠痛 "
     },
     {
         "patientId": 393,
@@ -4946,7 +4959,474 @@
         "status": "境外",
         "travel": " 美國",
         "contractedFrom": "P384",
-        "notes": "長期居住美國 #384家人\n與#384二月底後無接觸史，在美期間有與當地確診者接觸。腹瀉患者以為是牛奶導致。\n4/10 晚家屬有通知要搭機返台，但原班機取消，請移民署註記時已搭機。"
+        "notes": "長期居住美國 #384家人\n與#384二月底後無接觸史，在美期間有與當地確診者接觸。腹瀉患者以為是牛奶導致。\n4/10 晚家屬有通知要搭機返台，但原班機取消，請移民署註記時已搭機。, 症狀: 咳嗽有痰 腹瀉 "
+    },
+    {
+        "patientId": 394,
+        "reportedOn": "04/15",
+        "gender": "女",
+        "ageEstimate": "60歲",
+        "nationality": "臺灣",
+        "state": "未公佈",
+        "city": "未公佈",
+        "status": "境外",
+        "travel": "無",
+        "contractedFrom": "P325",
+        "notes": "O (國外), 症狀: 居家隔離 華航紐約往台班機CI011同班機接觸者，該班機乘客加機組員336人\n共有 #325 #326 #327 #328 #329 #346 #364 #370 #371 #376 #381 #392 #381 #394\n累計12人"
+    },
+    {
+        "patientId": 395,
+        "reportedOn": "04/15",
+        "gender": "女",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "未公佈",
+        "city": "未公佈",
+        "status": "境外",
+        "travel": "無",
+        "notes": "O (國外), 症狀: 機場 職業：學生\n就學"
+    },
+    {
+        "patientId": 396,
+        "reportedOn": "04/18",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "中部",
+        "city": "台中",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 自行就醫 職業：國防大學政戰學院學生，軍艦實習生\n#396 #397 #415 #423 同艙間 12人房\n4/15 下船搭學校遊覽車到左營轉搭高鐵0136車次3車8A至烏日由家人接送返家\n4/16 清水的診所就醫\n4/17 前往同一家診所要求採檢，轉送童醫院就醫收治住院 女友、家人、診所3接觸者共7人\n首例軍艦群聚\n#396~#399,#401~#420\n政戰學院全校停課兩週，海軍官校也從20日起停課\n診所休診14天"
+    },
+    {
+        "patientId": 397,
+        "reportedOn": "04/18",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "北部",
+        "city": "桃園",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 自行就醫 職業：國防大學政戰學院學生，軍艦實習生\n#396 #397 #415 #423同艙間 12人房\n17日在桃園醫療院所就醫\n\n個案397、20餘歲男性個案，曾在4月15日晚間約9時30分至台北捷運北投站搭乘捷運至台北火車站，晚間10時從台北火車站搭乘區間車至桃園火車站。\n\n4月16日約下午4時30分至5時15分至桃園市桃園區統領百貨地下1樓誠品書店；接觸者已匡列28人、進行居家隔離。"
+    },
+    {
+        "patientId": 398,
+        "reportedOn": "04/18",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "南部",
+        "city": "屏東",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 自行就醫 職業：敦睦遠航訓練支隊艦上士官\n10人房\n15日下船騎機車回屏東居住地，17日因鼻塞等症狀前往國軍總醫院左營分院就醫"
+    },
+    {
+        "patientId": 399,
+        "reportedOn": "04/19",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "未公佈",
+        "city": "未公佈",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 自行就醫 職業：盤石軍艦實習生及軍人"
+    },
+    {
+        "patientId": 400,
+        "reportedOn": "04/19",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "北部",
+        "city": "北市",
+        "status": "境外",
+        "travel": "境外",
+        "contractedFrom": "P396",
+        "notes": "O (國外), 症狀: 機場 職業：學生\n就學"
+    },
+    {
+        "patientId": 401,
+        "reportedOn": "04/19",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "中部",
+        "city": "台中",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦士官\n\n案401是住沙鹿的28歲男士官，4月15日下船後，自凹子底搭乘捷運至左營高鐵站，再搭高鐵0850車次11車9E回台中烏日站，19:45搭161公車到台中榮總下車與2位朋友碰面，之後在85度C沙鹿英才店喝咖啡(20-22:30)，4月16日20:00與母親到家樂福沙鹿店購物，4月17日17:00自己再到華得來清水店買飲料，4月18日經案弟開車載送至集合地點時，因體溫37.4度，由軍方救護車載送就醫採檢，並收治於負壓隔離病房中，目前匡列接觸者5名。\n同行友人1位是市府員工，1採陰。"
+    },
+    {
+        "patientId": 402,
+        "reportedOn": "04/19",
+        "gender": "女",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "北部",
+        "city": "桃園",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦實習生及軍人\n#402 #405同艙間\n\n案402也是桃園人，完成5人居家隔離\n\n個案402、20餘歲女性個案，曾在4月15日下午3時至晚間7時至高雄市左營高鐵站旁新光三越百貨公司，隨後至三民區一家餐廳，停留至晚間9時30分，隨後至左營高鐵站搭乘高鐵至嘉義站。\n\n4月16日下午3時搭乘嘉義市BRT至嘉義高鐵站，下午4時至5時18分，搭乘高鐵車次838由嘉義高鐵站至桃園高鐵站；4月17日下午3時30分至4時45分，至桃園市八德區家樂福；接觸者已匡列5人、進行居家隔離。"
+    },
+    {
+        "patientId": 403,
+        "reportedOn": "04/19",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "北部",
+        "city": "新北",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦實習生及軍人\n\n新北市有一名確診軍人，案403下船後，搭乘軍方安排專車返回北部營區， 16日返家，之後2天均在家中，偶而短暫外出至早餐店買外帶，超商領錢，眼鏡行修眼鏡，停留時間都很短，且全程配戴口罩，該案在這段期間都沒有搭乘大眾交通工具。"
+    },
+    {
+        "patientId": 404,
+        "reportedOn": "04/19",
+        "gender": "男",
+        "ageEstimate": "27歲",
+        "nationality": "臺灣",
+        "state": "中部",
+        "city": "台中",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦士官\n\n案404是27歲的男士官，4月13日因喉嚨痛至醫務所就醫，有開藥服用，4月15日隨船返港後，由家人開車至左營接送，先至雲林縣外婆家，再返回台中，4月16日次因喉嚨痛至診所就醫，當天有到歐奇牛排沙鹿店用餐。4月17日曾開車至苗栗女友家中，(12-13)五花馬水餃館頭份店再至新竹峨眉湖風景區散步(14-16:30)，後至苗栗商場購物全聯福利中心頭份中央店(18:00-18:10)、思夢樂頭份店(18:10-18:20)，晚間返回台中住家，4月18日早上部隊召集，經採檢確診，已於負壓隔離病房治療中，匡列接觸者10人(診所接觸者1)。\n\n苗栗縣長徐耀昌表示，得知他來過苗栗後，立即派員全面消毒到他曾接觸停留的場所，4名接觸者也已安排就醫採檢，並進行居家隔離，後續也將責成相關單位密切追蹤接觸者之健康狀況。\n\n台中市案404，曾返回雲林探視親人，也匡列親人2人進行居家隔離及採檢"
+    },
+    {
+        "patientId": 405,
+        "reportedOn": "04/19",
+        "gender": "女",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "未公佈",
+        "city": "未公佈",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦實習生及軍人\n#402 #405同艙間"
+    },
+    {
+        "patientId": 406,
+        "reportedOn": "04/19",
+        "gender": "男",
+        "ageEstimate": "30歲",
+        "nationality": "臺灣",
+        "state": "未公佈",
+        "city": "未公佈",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦實習生及軍人"
+    },
+    {
+        "patientId": 407,
+        "reportedOn": "04/19",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "未公佈",
+        "city": "未公佈",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦實習生及軍人"
+    },
+    {
+        "patientId": 408,
+        "reportedOn": "04/19",
+        "gender": "男",
+        "ageEstimate": "30歲",
+        "nationality": "臺灣",
+        "state": "未公佈",
+        "city": "未公佈",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦實習生及軍人"
+    },
+    {
+        "patientId": 409,
+        "reportedOn": "04/19",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "未公佈",
+        "city": "未公佈",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦實習生及軍人"
+    },
+    {
+        "patientId": 410,
+        "reportedOn": "04/19",
+        "gender": "男",
+        "ageEstimate": "40歲",
+        "nationality": "臺灣",
+        "state": "未公佈",
+        "city": "未公佈",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦實習生及軍人\n#410 #417 同艙間"
+    },
+    {
+        "patientId": 411,
+        "reportedOn": "04/19",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "未公佈",
+        "city": "未公佈",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦實習生及軍人\n#411 #416 同艙間"
+    },
+    {
+        "patientId": 412,
+        "reportedOn": "04/19",
+        "gender": "男",
+        "ageEstimate": "30歲",
+        "nationality": "臺灣",
+        "state": "未公佈",
+        "city": "未公佈",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦實習生及軍人"
+    },
+    {
+        "patientId": 413,
+        "reportedOn": "04/19",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "南部",
+        "city": "雲林",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦實習生及軍人\n\n案413為雲林縣民，縣府已掌握個案足跡，4月15日下午由父母接回住處，16日跟隨父母拜訪親友並共進午餐，16日晚上到台北找朋友，當日深夜搭高鐵南下高雄訪友並借住友人住處，18日收到召回通知即北返林口，中途有返家拿衣物。\n\n已匡列案413的親友8人進行居家隔離並安排採檢"
+    },
+    {
+        "patientId": 414,
+        "reportedOn": "04/19",
+        "gender": "男",
+        "ageEstimate": "30歲",
+        "nationality": "臺灣",
+        "state": "未公佈",
+        "city": "未公佈",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦實習生及軍人"
+    },
+    {
+        "patientId": 415,
+        "reportedOn": "04/19",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "北部",
+        "city": "台北",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 自行就醫 職業：盤石軍艦實習生及軍人\n#396 #397 #415 #423同艙間\n\n案415行蹤非常明確，從左營回到台北後，並跟女友碰面，搭乘公共運輸過程中都戴口罩，只有4月17日下午3時至4時，與女友騎機車至家樂福桂林店爭鮮吃飯，但沒有進入賣場，唯一暴露沒戴口罩只有這時間點、較有風險；415例與女友在北市接觸25人目前都居家隔離"
+    },
+    {
+        "patientId": 416,
+        "reportedOn": "04/19",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "未公佈",
+        "city": "未公佈",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦實習生及軍人\n#411 #416 同艙間"
+    },
+    {
+        "patientId": 417,
+        "reportedOn": "04/19",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "未公佈",
+        "city": "未公佈",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦實習生及軍人\n#410 #417 同艙間"
+    },
+    {
+        "patientId": 418,
+        "reportedOn": "04/19",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "未公佈",
+        "city": "未公佈",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦實習生及軍人"
+    },
+    {
+        "patientId": 419,
+        "reportedOn": "04/19",
+        "gender": "男",
+        "ageEstimate": "30歲",
+        "nationality": "臺灣",
+        "state": "未公佈",
+        "city": "未公佈",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦實習生及軍人"
+    },
+    {
+        "patientId": 420,
+        "reportedOn": "04/19",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "南部",
+        "city": "屏東",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦實習生及軍人\n\n個案420雖然設籍屏東，但4月16日、17日曾至桃園市龜山區國立體育大學找朋友，住在某棟委外宿舍，有去小吃店、麵店、早餐店等處用餐，進行剪頭髮等活動，並陪同友人的弟弟（之前為確診個案、已解列）去長庚醫院就診。"
+    },
+    {
+        "patientId": 421,
+        "reportedOn": "04/20",
+        "gender": "女",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "北部",
+        "city": "北部",
+        "status": "境外",
+        "travel": "境外",
+        "contractedFrom": "P396",
+        "notes": "O (國外), 症狀: 機場 職業：學生\n就學"
+    },
+    {
+        "patientId": 422,
+        "reportedOn": "04/20",
+        "gender": "女",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "北部",
+        "city": "北部",
+        "status": "境外",
+        "travel": "境外",
+        "contractedFrom": "P396",
+        "notes": "O (國外), 症狀: 機場 職業：學生\n就學"
+    },
+    {
+        "patientId": 423,
+        "reportedOn": "04/21",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "南部",
+        "city": "台南",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦實習生\n#396 #397 同艙"
+    },
+    {
+        "patientId": 424,
+        "reportedOn": "04/21",
+        "gender": "女",
+        "ageEstimate": "30歲",
+        "nationality": "臺灣",
+        "state": "南部",
+        "city": "高雄",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦軍人"
+    },
+    {
+        "patientId": 425,
+        "reportedOn": "04/21",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "南部",
+        "city": "高雄",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦軍人"
+    },
+    {
+        "patientId": 426,
+        "reportedOn": "04/22",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "南部",
+        "city": "屏東",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦實習生\n首例先驗出抗體陽性後才PCR陽性確診"
+    },
+    {
+        "patientId": 427,
+        "reportedOn": "04/23",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "南部",
+        "city": "高雄",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦軍人"
+    },
+    {
+        "patientId": 428,
+        "reportedOn": "04/24",
+        "gender": "男",
+        "ageEstimate": "30歲",
+        "nationality": "臺灣",
+        "state": "南部",
+        "city": "高雄",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦軍人"
+    },
+    {
+        "patientId": 429,
+        "reportedOn": "04/25",
+        "gender": "男",
+        "ageEstimate": "20歲",
+        "nationality": "臺灣",
+        "state": "未公佈",
+        "city": "未公佈",
+        "status": "敦睦\n遠訓",
+        "travel": "敦睦\n遠訓",
+        "contractedFrom": "P396",
+        "notes": "軍艦, 症狀: 集中檢疫 職業：盤石軍艦實習生\n血液抗體陽性"
     }
 ], 
             "summary": {
